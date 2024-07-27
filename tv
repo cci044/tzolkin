@@ -29,3 +29,45 @@ https://live-evg4.tv360.bitel.com.pe/bitel/nativa/playlist.m3u8?uid=1111947
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:-1 tvg-id="Via Altomayo" tvg-name="Via Altomayo" tvg-logo="https://www.viaaltomayotv.com/panel/archivos-panel/logotipo/Logo-c7e-355.png" group-title="Nacional",Via Altomayo
 https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="16" tvg-id="Doble C" tvg-name="Doble C" tvg-logo="https://www.coolstreaming.us/img/ch/image86573092547.jpg" group-title="Nacional",Doble C
+https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
+#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Nacional",Las Estrellas
+https://dcs-vod.mp.lura.live/vod/p/4576400/prog.m3u8?i=i176947592-n38f289c1-21d9-421a-af4b-e5d69d4da067&anvtrid=c76ca5308ddb10d24e802cdd007f6220
+#EXTINF:-1 tvg-id="Tl Novelas" tvg-name="Tl Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/2560px-Tlnovelas_2011_logo.svg.png" group-title="Nacional",Tl Novelas
+http://51.79.81.69:8080/live/825e01bc6ded4df9b608d98323f9a854/b5885f0464ab42a8895ee565d977834b/57.m3u8
+#EXTINF:-1 tvg-id="CGTN Novelas" tvg-name="CGTN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/640px-CGTN_Espanol.png" group-title="Nacional",CGTN Novelas
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="Bob Esponja TV" tvg-name="Bob Esponja TV" tvg-logo="https://w7.pngwing.com/pngs/639/164/png-transparent-spongebob-squarepants-with-logo-cartoons-spongebob.png" group-title="Nacional",Bob Esponja TV
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="Cine Terror" tvg-name="Cine Terror" tvg-logo="https://w7.pngwing.com/pngs/961/734/png-transparent-terror-logo-horror-graphic-design-youtube-logo-horror-love-text-film.png" group-title="Nacional",Cine Terror
+https://tv.streaming-chile.com:19360/8140/8140.m3u8
+#EXTINF:-1 tvg-id="Gam TV" tvg-name="Gam TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/GamaTV_2006.png" group-title="Nacional",Gam TV
+https://v2.azulstream.com:8081/gamtv/gamtv/playlist.m3u8
+#EXTINF:-1 tvg-chno="21" tvg-id="+Cine" tvg-name="+Cine" tvg-logo="https://image.roku.com/developer_channels/prod/1259781ea85e3469a0ef1867e2463c4e22dd4343b00af5a84d9c0319b9106615.png" group-title="Nacional",+Cine
+https://tv.streaming-chile.com:19360/8142/8142.m3u8
+#EXTINF:-1 tvg-id="Runtime Series" tvg-name="Runtime Series" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/960x540/runtime_series_16x9_0.jpg" group-title="Nacional",Runtime Series
+https://stream.ads.ottera.tv/cl/240727cqi80mq8reu81d5jllm0/1280x720_3071200_0_f.m3u8?i=728_2649
+#EXTINF:-1 tvg-id="Runtime Familia" tvg-name="Runtime Familia" tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/960x540/runtime_familia_16x9.jpg" group-title="Nacional",Runtime Familia
+https://stream.ads.ottera.tv/cl/240727cqi8231o0asmas3ahefg/1280x720_3071200_0_f.m3u8?i=475_3528
+#EXTINF:-1 tvg-id="Runtime Comedia" tvg-name="Runtime Comedia" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Comedia-en-directo-Online.png" group-title="Nacional",Runtime Comedia
+https://stream.ads.ottera.tv/cl/240727cqi82pklon78jful73tg/1280x720_3071200_0_f.m3u8?i=475_2551
+#EXTINF:-1 tvg-id="Runtime Crimen" tvg-name="Runtime Crimen" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Crimen-en-directo-Online.png" group-title="Nacional",Runtime Crimen
+https://stream.ads.ottera.tv/cl/240727cqi8373gls54t2poajvg/1280x720_3071200_0_f.m3u8?i=475_3533
+#EXTINF:-1 tvg-id="Runtime Peliculas" tvg-name="Runtime Peliculas" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/960x540/runtime_ush_1920x1080.jpg" group-title="Nacional",Runtime Peliculas
+https://stream.ads.ottera.tv/cl/240727cqi83ibgls54t2poan60/1280x720_3071200_0_f.m3u8?i=728_2153
+#EXTINF:-1 tvg-id="Runtime Terror y Thriller" tvg-name="Runtime Terror y Thriller" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/960x540/runtime_thriller_16x9.jpg" group-title="Nacional",Runtime Terror y Thriller
+https://stream.ads.ottera.tv/cl/240727cqi84t5hg25qubg0q8kg/1280x720_3071200_0_f.m3u8?i=475_3529
+#EXTINF:-1 tvg-id="Runtime Accion" tvg-name="Runtime Accion" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/960x540/runtime_accion_16x9.jpg" group-title="Nacional",Runtime Accion
+https://stream.ads.ottera.tv/cl/240727cqi859a8reu81d5jmvng/1280x720_3071200_0_f.m3u8?i=728_2550
+#EXTINF:-1 tvg-id="Sony Cine" tvg-name="Sony Cine" tvg-logo="https://www.pngitem.com/pimgs/m/189-1891635_cine-sony-channel-logo-hd-png-download.png" group-title="Nacional",Sony Cine
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Futmax" tvg-name="Futmax" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/f1/29/96f12970-b693-8322-5b5d-b2f681824f9a/AppIcon-0-0-1x_U007epad-0-85-220.png/1200x600wa.png" group-title="Nacional",Futmax
+https://live-evg7.tv360.bitel.com.pe/index.m3u8?uid=1111947
+
+
+
+
+
+
+
+
