@@ -11,7 +11,21 @@ https://live-evg25.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?uid=1111947
 https://alba-pe-atv-atv.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1 tvg-id="Atv+" tvg-name="Atv+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title="Nacional",Atv+
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/original.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-id="Tv peru" tvg-name="Tv Peru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LOGO_TV_PERU_2012.png" group-title="Nacional",Tv peru
+#EXTINF:-1 tvg-id="Tv peru" tvg-name="Tv Peru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LOGO_TV_PERU_2012.png" group-title="Nacional",Tv peru
 https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/chunks.m3u8?uid=1111947
-#EXTINF:-1 tvg-chno="8" tvg-id="Atv Sur" tvg-name="Atv Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATV_Sur_-_2018_logo_%28final%29.png" group-title="Nacional",Atv Sur
+#EXTINF:-1 tvg-id="Atv Sur" tvg-name="Atv Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATV_Sur_-_2018_logo_%28final%29.png" group-title="Nacional",Atv Sur
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/original.m3u8
+#EXTINF:-1 tvg-id="Panamericana" tvg-name="Panamericana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="Nacional",Panamericana
+https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?uid=1111947
+#EXTINF:-1 tvg-id="PBO Noticias" tvg-name="PBO Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_de_Radio_PBO.jpg" group-title="Nacional",PBO Noticias
+https://live-evg1.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8?uid=1111947
+#EXTINF:-1 tvg-id="DW Internacional" tvg-name="DW Internacional" tvg-logo="https://i.pinimg.com/736x/ce/ca/0e/ceca0eba616c946fdef3303a7baeb3eb.jpg" group-title="Nacional",Dw Internacional
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="Todo Noticias" tvg-name="Todo Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" group-title="Nacional",Todo Noticias
+https://live-01-01-tn.vodgc.net/TN24_2/index_TN24_2_1080.m3u8
+#EXTINF:-1 tvg-id="Nativa TV" tvg-name="Nativa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png" group-title="Nacional",Nativa TV
+https://live-evg4.tv360.bitel.com.pe/bitel/nativa/playlist.m3u8?uid=1111947
+#EXTINF:-1 tvg-id="Moni TV" tvg-name="Moni TV" tvg-logo="https://monitv.net/wp-content/uploads/2024/02/monitvojos.png" group-title="Nacional",Moni TV
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
+#EXTINF:-1 tvg-id="Via Altomayo" tvg-name="Via Altomayo" tvg-logo="https://www.viaaltomayotv.com/panel/archivos-panel/logotipo/Logo-c7e-355.png" group-title="Nacional",Via Altomayo
+https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
