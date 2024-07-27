@@ -63,6 +63,8 @@ https://stream.ads.ottera.tv/cl/240727cqi859a8reu81d5jmvng/1280x720_3071200_0_f.
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Futmax" tvg-name="Futmax" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/f1/29/96f12970-b693-8322-5b5d-b2f681824f9a/AppIcon-0-0-1x_U007epad-0-85-220.png/1200x600wa.png" group-title="Nacional",Futmax
 https://live-evg7.tv360.bitel.com.pe/index.m3u8?uid=1111947
+#EXTINF:-1, TyC
+https://cdn3.en-vivo.info/eventos/tracks-v1a1/mono.m3u8?remote=38.250.131.9&token=076ef2fbd394c499d94f5b3a29095d36ab5b005f-4ca00193f396d55a84d37abc4e20e2a5-1722097993-1722087193
 
 
 
