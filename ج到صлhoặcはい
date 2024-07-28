@@ -40,9 +40,13 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 #EXTINF:-1 tvg-id="Bob Esponja TV" tvg-name="Bob Esponja TV" tvg-logo="https://w7.pngwing.com/pngs/639/164/png-transparent-spongebob-squarepants-with-logo-cartoons-spongebob.png" group-title="Nacional",Bob Esponja TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="Warner" tvg-name="Warner" tvg-logo="https://w7.pngwing.com/pngs/722/1014/png-transparent-logo-warner-bros-others-emblem-company-logo-thumbnail.png" group-title="Nacional",Warner
-http://200.60.124.19:29000/play/a013
+http://200.60.124.19:29000/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/AE-logo.png" group-title="Nacional",A&E
-http://200.60.124.19:29000/play/a019
+http://200.60.124.19:29000/play/a019/index.m3u8
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Nacional",Cinemax
+http://200.60.124.19:29000/play/a025/index.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://w7.pngwing.com/pngs/842/991/png-transparent-axn-television-channel-pay-television-logo-others-miscellaneous-television-angle.png" group-title="Nacional",AXN
+http://200.60.124.19:29000/play/a027/index.m3u8
 #EXTINF:-1 tvg-id="Gam TV" tvg-name="Gam TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/GamaTV_2006.png" group-title="Nacional",Gam TV
 https://v2.azulstream.com:8081/gamtv/gamtv/playlist.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-id="+Cine" tvg-name="+Cine" tvg-logo="https://image.roku.com/developer_channels/prod/1259781ea85e3469a0ef1867e2463c4e22dd4343b00af5a84d9c0319b9106615.png" group-title="Nacional",+Cine
