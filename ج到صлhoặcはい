@@ -29,6 +29,12 @@ https://vdo.grupolimalive.com/p/3179/live/agrotvlive.m3u8
 https://servilive.com:3753/live/qosqotimeslive.m3u8
 #EXTINF:-1 tvg-id="TV Cusco" tvg-name="TV Cusco" tvg-logo="https://www.tvenlineaoficial.com/wp-content/uploads/2024/03/logo-tv-en-linea-cusco.jpg" group-title="Nacional",TV Cusco
 https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
+#EXTINF:-1 tvg-id="Region TV Callao" tvg-name="Region TV Callao" tvg-logo="https://pbs.twimg.com/profile_images/573080179238563840/xsxKaNdz_400x400.png" group-title="Nacional",Region TV Callao
+https://servilive.com:3757/live/regiontvlive.m3u8
+#EXTINF:-1 tvg-id="Creo TV Cajamarca" tvg-name="Creo TV Cajamarca" tvg-logo="https://creotvperu.com/logos-canales/fondo-creotv.png" group-title="Nacional",Creo TV Cajamarca
+https://srv1.mediastreamperu.com:19360/creotv/creotv.m3u8
+#EXTINF:-1 tvg-id="Cajamarca TV" tvg-name="Cajamarca TV" tvg-logo="https://appnew.megainfoapp.com/files/1/Cajamarca%20TV.png" group-title="Nacional",Cajamarca TV
+https://s1.tvdatta.com:3252/live/cajamarcatvlive.m3u8
 #EXTINF:-1 tvg-id="DW Internacional" tvg-name="DW Internacional" tvg-logo="https://i.pinimg.com/736x/ce/ca/0e/ceca0eba616c946fdef3303a7baeb3eb.jpg" group-title="Nacional",Dw Internacional
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="Todo Noticias" tvg-name="Todo Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" group-title="Nacional",Todo Noticias
