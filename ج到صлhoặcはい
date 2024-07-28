@@ -35,6 +35,12 @@ https://servilive.com:3757/live/regiontvlive.m3u8
 https://srv1.mediastreamperu.com:19360/creotv/creotv.m3u8
 #EXTINF:-1 tvg-id="Cajamarca TV" tvg-name="Cajamarca TV" tvg-logo="https://appnew.megainfoapp.com/files/1/Cajamarca%20TV.png" group-title="Nacional",Cajamarca TV
 https://s1.tvdatta.com:3252/live/cajamarcatvlive.m3u8
+#EXTINF:-1 tvg-id="Cadena TV Huancayo" tvg-name="Cadena TV Huancayo" tvg-logo="https://www.cadenatv.com.pe/wp-content/uploads/2019/11/28579934_1845911755481020_1619509742_o.png" group-title="Nacional",Cadena TV Huancayo
+https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
+#EXTINF:-1 tvg-id="Tropical TV Moquegua" tvg-name="Tropical TV Moquegua" tvg-logo="https://tvhdtropical.com/wp-content/uploads/2024/01/LOGO-TROPICAL-PNG.png" group-title="Nacional",Tropical TV Moquegua
+https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecotel TV Ecuador" tvg-name="Ecotel TV Ecuador" tvg-logo="https://cigars.roku.com/v1/contain/800x454/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F7f42a1b86e54b49258c16cf7a8d0e5d9909ec948c7146c14b9bfcf5a6c473ccb.jpg" group-title="Nacional",Ecotel TV Ecuador
+https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 #EXTINF:-1 tvg-id="DW Internacional" tvg-name="DW Internacional" tvg-logo="https://i.pinimg.com/736x/ce/ca/0e/ceca0eba616c946fdef3303a7baeb3eb.jpg" group-title="Nacional",Dw Internacional
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="Todo Noticias" tvg-name="Todo Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" group-title="Nacional",Todo Noticias
