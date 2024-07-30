@@ -67,8 +67,16 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 http://51.79.81.69:8080/live/825e01bc6ded4df9b608d98323f9a854/b5885f0464ab42a8895ee565d977834b/57.m3u8
 #EXTINF:-1 tvg-id="CGTN Novelas" tvg-name="CGTN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/640px-CGTN_Espanol.png" group-title="Nacional",CGTN Novelas
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="" group-title="Nacional",Discovery Channel
+http://168.181.122.234:8000/play/a01s/index.m3u
 #EXTINF:-1 tvg-id="Bob Esponja TV" tvg-name="Bob Esponja TV" tvg-logo="https://w7.pngwing.com/pngs/639/164/png-transparent-spongebob-squarepants-with-logo-cartoons-spongebob.png" group-title="Nacional",Bob Esponja TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="Universal Cinema" tvg-name="Universal Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png" group-title="Nacional",Universal Cinema
+http://168.181.122.234:8000/play/a02u/index.m3u
+#EXTINF:-1 tvg-id="Golden Premiere" tvg-name="Golden Premiere" tvg-logo="https://www.claro.com.co/portal/co/recursos_contenido/1707924122108-Golden_Premiere-100.jpg" group-title="Nacional",Golden Premiere 
+http://168.181.122.234:8000/play/a01t/index.m3u
+#EXTINF:-1 tvg-id="Golden Premiere 2" tvg-name="Golden Premiere 2" tvg-logo="https://claroperupoc.vtexassets.com/arquivos/golden-premier-2hd-v2.png" group-title="Nacional",Golden Premiere 2
+http://168.181.122.234:8000/play/a03r/index.m3u
 #EXTINF:-1 tvg-id="Warner" tvg-name="Warner" tvg-logo="https://w7.pngwing.com/pngs/722/1014/png-transparent-logo-warner-bros-others-emblem-company-logo-thumbnail.png" group-title="Nacional",Warner
 http://200.60.124.19:29000/play/a013/index.m3u8
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/AE-logo.png" group-title="Nacional",A&E
