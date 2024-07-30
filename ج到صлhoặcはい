@@ -67,24 +67,32 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 http://51.79.81.69:8080/live/825e01bc6ded4df9b608d98323f9a854/b5885f0464ab42a8895ee565d977834b/57.m3u8
 #EXTINF:-1 tvg-id="CGTN Novelas" tvg-name="CGTN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/640px-CGTN_Espanol.png" group-title="Nacional",CGTN Novelas
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="" group-title="Nacional",Discovery Channel
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://w7.pngwing.com/pngs/934/382/png-transparent-logo-discovery-channel-brazil-discovery-inc-animal-planet-design-text-logo-brazil.png" group-title="Nacional",Discovery Channel
 http://168.181.122.234:8000/play/a01s/index.m3u
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/History-Logo.png" group-title="Nacional",History
+http://168.181.122.234:8000/play/a019/index.m3u
 #EXTINF:-1 tvg-id="Bob Esponja TV" tvg-name="Bob Esponja TV" tvg-logo="https://w7.pngwing.com/pngs/639/164/png-transparent-spongebob-squarepants-with-logo-cartoons-spongebob.png" group-title="Nacional",Bob Esponja TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="Universal Cinema" tvg-name="Universal Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png" group-title="Nacional",Universal Cinema
 http://168.181.122.234:8000/play/a02u/index.m3u
+#EXTINF:-1 tvg-id="Cinecanal" tvg-name="Cinecanal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Cinecanal_HD_%282010%29.png" group-title="Nacional",Cinecanal
+http://168.181.122.234:8000/play/a035/index.m3u
+#EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Paramount_Network_%28Black%29_Logo.png" group-title="Nacional",Paramount Network
+http://168.181.122.234:8000/play/a031/index.m3u
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://w7.pngwing.com/pngs/211/697/png-transparent-fxx-logo-television-show-television-channel-tv-channel-television-angle-text.png" group-title="Nacional",FX
+http://168.181.122.234:8000/play/a033/index.m3u
 #EXTINF:-1 tvg-id="Golden Premiere" tvg-name="Golden Premiere" tvg-logo="https://www.claro.com.co/portal/co/recursos_contenido/1707924122108-Golden_Premiere-100.jpg" group-title="Nacional",Golden Premiere 
 http://168.181.122.234:8000/play/a01t/index.m3u
 #EXTINF:-1 tvg-id="Golden Premiere 2" tvg-name="Golden Premiere 2" tvg-logo="https://claroperupoc.vtexassets.com/arquivos/golden-premier-2hd-v2.png" group-title="Nacional",Golden Premiere 2
 http://168.181.122.234:8000/play/a03r/index.m3u
 #EXTINF:-1 tvg-id="Warner" tvg-name="Warner" tvg-logo="https://w7.pngwing.com/pngs/722/1014/png-transparent-logo-warner-bros-others-emblem-company-logo-thumbnail.png" group-title="Nacional",Warner
-http://200.60.124.19:29000/play/a013/index.m3u8
+http://200.60.124.19:29000/play/a013/index.m3u
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/AE-logo.png" group-title="Nacional",A&E
-http://200.60.124.19:29000/play/a019/index.m3u8
+http://200.60.124.19:29000/play/a019/index.m3u
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Nacional",Cinemax
-http://200.60.124.19:29000/play/a025/index.m3u8
+http://200.60.124.19:29000/play/a025/index.m3u
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://w7.pngwing.com/pngs/842/991/png-transparent-axn-television-channel-pay-television-logo-others-miscellaneous-television-angle.png" group-title="Nacional",AXN
-http://200.60.124.19:29000/play/a027/index.m3u8
+http://200.60.124.19:29000/play/a027/index.m3u
 #EXTINF:-1 tvg-id="Gam TV" tvg-name="Gam TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/GamaTV_2006.png" group-title="Nacional",Gam TV
 https://v2.azulstream.com:8081/gamtv/gamtv/playlist.m3u8
 #EXTINF:-1 tvg-chno="21" tvg-id="+Cine" tvg-name="+Cine" tvg-logo="https://image.roku.com/developer_channels/prod/1259781ea85e3469a0ef1867e2463c4e22dd4343b00af5a84d9c0319b9106615.png" group-title="Nacional",+Cine
