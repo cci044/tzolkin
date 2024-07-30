@@ -121,4 +121,33 @@ https://live-evg7.tv360.bitel.com.pe/index.m3u8?uid=1111947
 
 
 
+#EXTINF:-1, tvg-logo="https://cdn.mitvstatic.com/channels/pe_az-corazon_m.png" group-title="Nacional",Azcorazon
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://e10.cdnfree.cloud:2052
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+#<?xml version="1.0" encoding="UTF-8"?>
+#<playlist
+  #xmlns="http://xspf.org/ns/0/"
+  #xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/"
+  #version="1">
+  #<title>Liste de lecture</title>
+  #<trackList>
+    #<track>
+      #<location>http://www.example.org/stream.m3u8</location>
+      #<extension application="http://www.videolan.org/vlc/playlist/0">
+        #<vlc:id>0</vlc:id>
+        #<vlc:option>http-user-agent=Hacked/0&#13;&#10;&#13;&#10;POST /bank-transfer HTTP/1.1&#13;&#10;Host: account.piggy-bank.example.com&#13;&#10;Content-Length: 12&#13;&#10;&#13;&#10;Hello world!</vlc:option>
+      #</extension>
+    #</track>
+  #</trackList>
+  #<extension application="http://www.videolan.org/vlc/playlist/0">
+    #<vlc:item tid="0"/>
+  #</extension>
+#</playlist>
+#EXTVLCOPT:http-user-agent=vlc/2.1.3 libvlc/2.1.3
+http://e10.cdnfree.cloud:2052/free10/006/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDI0IDM6MTg6NDAgUE0maGFzaF92YWx1ZT1FOVlYSVE4SU5VcVhhaFRqUU1GMGVBPT0mdmFsaWRtaW51dGVzPTI0MA==
+
+
+
 
