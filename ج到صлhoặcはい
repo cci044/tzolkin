@@ -142,35 +142,3 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Futmax" tvg-name="Futmax" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/f1/29/96f12970-b693-8322-5b5d-b2f681824f9a/AppIcon-0-0-1x_U007epad-0-85-220.png/1200x600wa.png" group-title="Nacional",Futmax
 https://live-evg7.tv360.bitel.com.pe/index.m3u8?uid=1111947
 
-
-
-
-#EXTINF:-1 tvg-id="Azcorazon" tvg-name="Azcorazon" tvg-logo="https://cdn.mitvstatic.com/channels/pe_az-corazon_m.png" group-title="Nacional",Azcorazon
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=http://e10.cdnfree.cloud:2052
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#<?xml version="1.0" encoding="UTF-8"?>
-#<playlist
-  #xmlns="http://xspf.org/ns/0/"
-  #xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/"
-  #version="1">
-  #<title>Liste de lecture</title>
-  #<trackList>
-    #<track>
-      #<location>http://www.example.org/stream.m3u8</location>
-      #<extension application="http://www.videolan.org/vlc/playlist/0">
-        #<vlc:id>0</vlc:id>
-        #<vlc:option>http-user-agent=Hacked/0&#13;&#10;&#13;&#10;POST /bank-transfer HTTP/1.1&#13;&#10;Host: account.piggy-bank.example.com&#13;&#10;Content-Length: 12&#13;&#10;&#13;&#10;Hello world!</vlc:option>
-      #</extension>
-    #</track>
-  #</trackList>
-  #<extension application="http://www.videolan.org/vlc/playlist/0">
-    #<vlc:item tid="0"/>
-  #</extension>
-#</playlist>
-#EXTVLCOPT:http-user-agent=vlc/2.1.3 libvlc/2.1.3
-http://c24u.xyz:8080/yosoyodi7/odielguapo/426671.ts?auth/zQMjHbl_O1HNYZVAJ3aj5YQ47iGkxzjoQE1e79AVo2eb3wk6pUr2AswlsDL4UBGP2NLkXGeYVEAYNbz9G-GYJz863S5lnbcx39v_eclBahdUmuXDV4_qMomAJ3YQXMmmLXATUr4Sdnoa7nx01zepUXUsvrqMmxzgvblfsrX-41ra7HnTlCTeeyqe4EuajkS_vSz37DvlVSCXoAut6S4cBqdH3iTZ7mYN_aow1dKfi86iYP_SW7cyijgO9oc8KMnR9dz52LNsqcBgqAS-fS_KmQyrm8zntl4P9hs74L-MlbcPkvO0WkR6MyVPzgmcL0GxMrBBQJEVMeqGWvLhXvzsUWFdT1__wnVJ9opMz8-w3Irz5riAaDHkubhvAD_lsQGismfRnEH_UlfiIz3jLySJJ1pSXZg6GwhFmevnt5oD_Ul5w6CTtjO9lTJxAjeNsHzoPlLGlgliKYV5vE4V7x48HbekbyD1Ge65XEpTcghqIohfTl9Lm_0qOETL1HgApP7FHUNQBNsBU_yiXbL8EblBITATxMqaZPe8FlEPCYl6PKyCwN1KtTQyyH72sIJef-1IfMTCQA0e6b0CFa8QehxxXxafZ1yG9Zf4wNU13MdXSqD8L36RAYKuQH8r4tUdCPvk_NEkD5DI1Z60cHSg_T58ar1tpIvAU0pbHtrUm2ziQlSmmy6uX7dfgsx9iqwIYky13TOksdunObxnZGkTV3WF10SSn_xKGTy18VuG7NzGSXshnol0ehnOHhPbbvPsDrPt2WbMifTZbMWzeQgRCbJkarA_BA4ozspbappLWemWkd9qdt5jxEp7Rnw6Ducc6FwgbjGGyaTF/aK/hUKJKq/t2iRXyv0wuQ0EAdd4SwcwcB6Ftm%2Bb5/GAyMOZ%2BHKkyL/ZbPgIrlrc5NIkRHqZC0%2BfkED
-
-
-
