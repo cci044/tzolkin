@@ -17,6 +17,10 @@ https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/chunks.m3u8?uid=1111947
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1 tvg-id="Panamericana" tvg-name="Panamericana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="Nacional",Panamericana
 https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?uid=1111947
+#EXTINF:-1 tvg-id="Canal N Noticias" tvg-name="Canal N Noticias" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/4e22375e9e0c7192c6e44bb70522bf4b.jpg" group-title="Nacional",Canal N Noticias
+http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/974
+#EXTINF:-1 tvg-id="Peru Magico" tvg-name="Peru Magico" tvg-logo="https://www.lyngsat.com/logo/tv/pp/peru-magico-pe.png" group-title="Nacional",Peru Magico
+http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/987
 #EXTINF:-1 tvg-id="PBO Noticias" tvg-name="PBO Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_de_Radio_PBO.jpg" group-title="Nacional",PBO Noticias
 https://live-evg1.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Catacaos Piura" tvg-name="Catacaos Piura" tvg-logo="https://radiocatacaos.com/wp-content/uploads/elementor/thumbs/logoooo-pa898770ubb633zl6ix311lhle9a56j57w9upf7mdc.png" group-title="Nacional",Catacaos Piura
@@ -52,7 +56,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 #EXTINF:-1 tvg-id="Todo Noticias" tvg-name="Todo Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" group-title="Nacional",Todo Noticias
 https://live-01-01-tn.vodgc.net/TN24_2/index_TN24_2_1080.m3u8
 #EXTINF:-1, CNN
-http://168.181.122.234:8000/play/a01r/index.m3u
+http://168.181.122.234:8000/play/a01r/index.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Nativa TV" tvg-name="Nativa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png" group-title="Nacional",Nativa TV
 https://live-evg4.tv360.bitel.com.pe/bitel/nativa/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Moni TV" tvg-name="Moni TV" tvg-logo="https://monitv.net/wp-content/uploads/2024/02/monitvojos.png" group-title="Nacional",Moni TV
@@ -61,8 +65,12 @@ https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-id="Doble C" tvg-name="Doble C" tvg-logo="https://www.coolstreaming.us/img/ch/image86573092547.jpg" group-title="Nacional",Doble C
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
+#EXTINF:-1 tvg-id="Azteca Internacional" tvg-name="Azteca Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Azteca_Internacional_2008.png" group-title="Nacional",Azteca Internacional
+http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/959
+#EXTINF:-1 tvg-id="Corazon Novelas" tvg-name="Corazon Novelas" tvg-logo="https://cdn.mitvstatic.com/channels/pe_az-corazon_m.png" group-title="Nacional",Corazon Novelas
+http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/956?uid=1111947
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Nacional",Las Estrellas
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/935?uid=1111947
 #EXTINF:-1 tvg-id="Tl Novelas" tvg-name="Tl Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/2560px-Tlnovelas_2011_logo.svg.png" group-title="Nacional",Tl Novelas
 http://51.79.81.69:8080/live/825e01bc6ded4df9b608d98323f9a854/b5885f0464ab42a8895ee565d977834b/57.m3u8
 #EXTINF:-1 tvg-id="CGTN Novelas" tvg-name="CGTN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/640px-CGTN_Espanol.png" group-title="Nacional",CGTN Novelas
@@ -74,31 +82,9 @@ http://168.181.122.234:8000/play/a019/index.m3u
 #EXTINF:-1 tvg-id="Bob Esponja TV" tvg-name="Bob Esponja TV" tvg-logo="https://w7.pngwing.com/pngs/639/164/png-transparent-spongebob-squarepants-with-logo-cartoons-spongebob.png" group-title="Nacional",Bob Esponja TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Nacional",Cartoon Network
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=http://181.78.8.90:16123
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-#<?xml version="1.0" encoding="UTF-8"?>
-#<playlist
-  #xmlns="http://xspf.org/ns/0/"
-  #xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/"
-  #version="1">
-  #<title>Liste de lecture</title>
-  #<trackList>
-    #<track>
-      #<location>http://www.example.org/stream.m3u8</location>
-      #<extension application="http://www.videolan.org/vlc/playlist/0">
-        #<vlc:id>0</vlc:id>
-        #<vlc:option>http-user-agent=Hacked/0&#13;&#10;&#13;&#10;POST /bank-transfer HTTP/1.1&#13;&#10;Host: account.piggy-bank.example.com&#13;&#10;Content-Length: 12&#13;&#10;&#13;&#10;Hello world!</vlc:option>
-      #</extension>
-    #</track>
-  #</trackList>
-  #<extension application="http://www.videolan.org/vlc/playlist/0">
-    #<vlc:item tid="0"/>
-  #</extension>
-#</playlist>
-#EXTVLCOPT:http-user-agent=vlc/2.1.3 libvlc/2.1.3
 http://181.78.8.90:16123/play/ch09
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-Nickelodeon.png" group-title="Nacional",Nickelodeon
+http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/741?uid=1111947
 #EXTINF:-1 tvg-id="Universal Cinema" tvg-name="Universal Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png" group-title="Nacional",Universal Cinema
 http://168.181.122.234:8000/play/a02u/index.m3u
 #EXTINF:-1 tvg-id="Cinecanal" tvg-name="Cinecanal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Cinecanal_HD_%282010%29.png" group-title="Nacional",Cinecanal
@@ -139,6 +125,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529&amp;avod=1&amp;coppa=
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550&amp;avod=1&amp;coppa=0&amp;is_lat=0
 #EXTINF:-1 tvg-id="Sony Cine" tvg-name="Sony Cine" tvg-logo="https://www.pngitem.com/pimgs/m/189-1891635_cine-sony-channel-logo-hd-png-download.png" group-title="Nacional",Sony Cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Peleas" tvg-name="TV Peleas" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/featuredImage.jpg" group-title="Nacional",TV Peleas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="Futmax" tvg-name="Futmax" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/f1/29/96f12970-b693-8322-5b5d-b2f681824f9a/AppIcon-0-0-1x_U007epad-0-85-220.png/1200x600wa.png" group-title="Nacional",Futmax
 https://live-evg7.tv360.bitel.com.pe/index.m3u8?uid=1111947
+#EXTINF:-1 tvg-id="Gol Peru" tvg-name="Gol Peru" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/golperu_logo_horizontal1-1.jpg" group-title="Nacional",Gol Peru
+http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/979?uid=1111947
+#EXTINF:-1 tvg-id="Espn" tvg-name="Espn" tvg-logo="https://w7.pngwing.com/pngs/109/662/png-transparent-logo-page-footer-espn-magazine-television-text-photograp" group-title="Nacional",Espn
+http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/761?uid=1111947
 
