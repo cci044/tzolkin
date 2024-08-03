@@ -133,10 +133,10 @@ https://live-evg7.tv360.bitel.com.pe/index.m3u8?uid=1111947
 http://190.61.55.186:1010/play/a010/index.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Espn" tvg-name="Espn" tvg-logo="https://w7.pngwing.com/pngs/109/662/png-transparent-logo-page-footer-espn-magazine-television-text-photograp" group-title="Nacional",Espn
 http://181.78.8.90:16123/play/ch16?uid=1111947
-#EXTINF:-1 tvg-id="Espn 5" tvg-name="Espn 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/ESPN5TV5Logo.png" group-title="Nacional",Espn 5
-http://190.61.55.186:1010/play/a007/index.m3u8?uid=1111947
+#EXTINF:-1 tvg-id="Espn 6" tvg-name="Espn 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" group-title="Nacional",Espn 6
+http://190.61.55.186:1010/play/a006/index.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Espn 7" tvg-name="Espn 7" tvg-logo="https://i.pinimg.com/originals/30/be/74/30be740563e5b68dd65a1b30472a4a36.jpg" group-title="Nacional",Espn 7
-http://190.61.55.186:1010/play/a010/index.m3u8?uid=1111947
+http://190.61.55.186:1010/play/a007/index.m3u8?uid=1111947
 
 
 
