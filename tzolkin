@@ -117,10 +117,12 @@ http://168.181.122.234:8000/play/a033/index.m3u
 http://168.181.122.234:8000/play/a01t/index.m3u
 #EXTINF:-1 tvg-id="Golden Premiere 2" tvg-name="Golden Premiere 2" tvg-logo="https://claroperupoc.vtexassets.com/arquivos/golden-premier-2hd-v2.png" group-title="Nacional",Golden Premiere 2
 http://168.181.122.234:8000/play/a03r/index.m3u
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Nacional",TCM
+http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/81?uid=1111947
 #EXTINF:-1 tvg-id="Warner" tvg-name="Warner" tvg-logo="https://w7.pngwing.com/pngs/722/1014/png-transparent-logo-warner-bros-others-emblem-company-logo-thumbnail.png" group-title="Nacional",Warner
 http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/589?uid=1111947
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/AE-logo.png" group-title="Nacional",A&E
-http://200.60.124.19:29000/play/a019/index.m3u
+http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/68?uid=1111947
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Nacional",Cinemax
 http://200.60.124.19:29000/play/a025/index.m3u
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://w7.pngwing.com/pngs/842/991/png-transparent-axn-television-channel-pay-television-logo-others-miscellaneous-television-angle.png" group-title="Nacional",AXN
@@ -153,6 +155,14 @@ https://live-evg7.tv360.bitel.com.pe/index.m3u8?uid=1111947
 http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/500?uid=1111947
 #EXTINF:-1 tvg-id="TNT Sport Premium" tvg-name="TNT Sport Premium" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/c/o/color_1.png" group-title="Nacional",TNT Sport Premium
 http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/450?uid=1111947
+#EXTINF:-1 tvg-id="TNT Sport" tvg-name="TNT Sport" tvg-logo="https://c0.klipartz.com/pngpicture/621/229/gratis-png-superliga-argentina-de-futbol-logo-tnt-sports-logo-sport.png" group-title="Nacional",TNT Sport
+http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/440?uid=1111947
+#EXTINF:-1 tvg-id="Caracol Sport" tvg-name="Caracol Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/CaracolSports.png/640px-CaracolSports.png" group-title="Nacional",Caracol Sport
+http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/3?uid=1111947
+#EXTINF:-1 tvg-id="Fox Sport 2" tvg-name="Fox Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="Nacional",Fox Sport 2
+http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/62?uid=1111947
+#EXTINF:-1 tvg-id="Movistar Deportes" tvg-name="Movistar Deportes" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="Nacional",Movistar Deportes
+http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/984?uid=1111947
 #EXTINF:-1 tvg-id="Gol Peru" tvg-name="Gol Peru" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/golperu_logo_horizontal1-1.jpg" group-title="Nacional",Gol Peru
 http://190.61.55.186:1010/play/a010/index.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Espn" tvg-name="Espn" tvg-logo="https://w7.pngwing.com/pngs/109/662/png-transparent-logo-page-footer-espn-magazine-television-text-photograp" group-title="Nacional",Espn
