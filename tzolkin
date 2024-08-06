@@ -17,8 +17,10 @@ https://live-evg4.tv360.bitel.com.pe/bitel/tvperu/chunks.m3u8?uid=1111947
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1 tvg-id="Panamericana" tvg-name="Panamericana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="Nacional",Panamericana
 https://live-evg4.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?uid=1111947
+#EXTINF:-1 tvg-id="Justicia TV Peru" tvg-name="Justicia TV Peru" tvg-logo="https://justiciatv.pj.gob.pe/wp-content/uploads/2016/05/logo.png" group-title="Nacional",Justicia TV Peru
+http://bantel-cdn1.iptvperu.tv:1935/cdntij/justicia.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Canal N Noticias" tvg-name="Canal N Noticias" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/4e22375e9e0c7192c6e44bb70522bf4b.jpg" group-title="Nacional",Canal N Noticias
-http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/974
+http://192.99.135.232:8080/play/hls/eyJpdiI6IkJKbEczMlRaa2l4NE1STUJ3NnpJanc9PSIsInZhbHVlIjoiZkpMRERBN3ZmT1pOYmV5ZUh2YncyY1pwTlRNcWtRRnl6VlYyRDdTWVhHSVRVRzFjeVJ6RFR4NGdubmFhUmRyRiIsIm1hYyI6IjNkYjkwZDQ0ZTdiYTY1MzcwZTJiYTJkZDdjMmRjYTkzMTY3NThlZTM5NmNjNmJlYjEyZGNmNmRkMjg5NWI3ZDIiLCJ0YWciOiIifQ==/e347b931-c8b0-493a-8844-aa56a2fca0d3.m3u8?lvtoken=eyJpdiI6InB6cy9CR2xiN0p4d0lNc2pVQjlXT2c9PSIsInZhbHVlIjoiM25uY2dlNkQ5VUs3MkdSd2ZqLytmdnhmV0JSMnlaNEJWS2VLRFYxa0tmS01WKzN2NHVENmVEa3AxSzgySmVyN0xSa1NKM0pFc1VZdDk4dEZ6VXRzOWVqQXJXSittOGtFV3FsVW9BTTV2Rzc4RWIweGxzakhNZEUzSTd1cTVheGFVRXdNenZwbDBKa0FJUlJJTklTVU1GNzZRWXJ5KzkvdTV1MDdLMHNneUZuWEFmY2c1czc4OW94dnhwRU1GS0YzL3l5Q1BLVXRGa2V3ekkvZGxPeVBIZz09IiwibWFjIjoiNmYxMzc5ZTdkMzcwOGE4NDA3ZDI1ZWRiOTc4YTM0ODA4MjIxYTAwMDllZDM1ZGYzYmIyNDJjYjc5YzE1MDA3MSIsInRhZyI6IiJ9&r=0fdabb&rt=9553199679dfb05cf7a144956de75b77
 #EXTINF:-1 tvg-id="Peru Magico" tvg-name="Peru Magico" tvg-logo="https://www.lyngsat.com/logo/tv/pp/peru-magico-pe.png" group-title="Nacional",Peru Magico
 http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/987
 #EXTINF:-1 tvg-id="PBO Noticias" tvg-name="PBO Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_de_Radio_PBO.jpg" group-title="Nacional",PBO Noticias
@@ -53,8 +55,6 @@ https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
 #EXTINF:-1 tvg-id="DW Internacional" tvg-name="DW Internacional" tvg-logo="https://i.pinimg.com/736x/ce/ca/0e/ceca0eba616c946fdef3303a7baeb3eb.jpg" group-title="Nacional",Dw Internacional
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="Todo Noticias" tvg-name="Todo Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" group-title="Nacional",Todo Noticias
-https://live-01-01-tn.vodgc.net/TN24_2/index_TN24_2_1080.m3u8
 #EXTINF:-1, CNN
 http://168.181.122.234:8000/play/a01r/index.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Nativa TV" tvg-name="Nativa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png" group-title="Nacional",Nativa TV
