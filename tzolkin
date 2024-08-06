@@ -95,6 +95,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d85
 http://181.78.8.90:16123/play/ch09
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-Nickelodeon.png" group-title="Nacional",Nickelodeon
 http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/741?uid=1111947
+#EXTINF:-1 tvg-id="Movistar Accion" tvg-name="Movistar Accion" tvg-logo="https://download.logo.wine/logo/Movistar_Acci%C3%B3n/Movistar_Acci%C3%B3n-Logo.wine.png" group-title="Nacional",Movistar Accion
+http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/597?uid=1111947
 #EXTINF:-1 tvg-id="Universal Cinema" tvg-name="Universal Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png" group-title="Nacional",Universal Cinema
 http://168.181.122.234:8000/play/a02u/index.m3u
 #EXTINF:-1 tvg-id="Cinecanal" tvg-name="Cinecanal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Cinecanal_HD_%282010%29.png" group-title="Nacional",Cinecanal
