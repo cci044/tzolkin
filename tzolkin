@@ -75,6 +75,8 @@ https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-id="Doble C" tvg-name="Doble C" tvg-logo="https://www.coolstreaming.us/img/ch/image86573092547.jpg" group-title="Nacional",Doble C
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
+#EXTINF:-1 tvg-chno="16" tvg-id="Telemundo Internacional" tvg-name="Telemundo Internacional" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/styles/article_cover_image/public/images/article/cover/2015/04/14/untitled.jpg" group-title="Nacional",Telemundo Internacional
+http://51.79.81.69:8080/live/5bb1d796ffbd446a9f4dccafc81ca352/5850952ce750443faa258be29fd97d22/56.m3u8
 #EXTINF:-1 tvg-id="Azteca Internacional" tvg-name="Azteca Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Azteca_Internacional_2008.png" group-title="Nacional",Azteca Internacional
 http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/959
 #EXTINF:-1 tvg-id="Corazon Novelas" tvg-name="Corazon Novelas" tvg-logo="https://cdn.mitvstatic.com/channels/pe_az-corazon_m.png" group-title="Nacional",Corazon Novelas
@@ -147,6 +149,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529&amp;avod=1&amp;coppa=
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550&amp;avod=1&amp;coppa=0&amp;is_lat=0
 #EXTINF:-1 tvg-id="Sony Cine" tvg-name="Sony Cine" tvg-logo="https://www.pngitem.com/pimgs/m/189-1891635_cine-sony-channel-logo-hd-png-download.png" group-title="Nacional",Sony Cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Logo_Distrito_Comedia.png" group-title="Nacional",Distrito Comedia
+http://51.79.81.69:8080/live/f8f1c1bd2d0d4b62b70a72c8ac8db4c4/0b15f7ef43f749118fb2edf73017f129/55.m3u8
 #EXTINF:-1 tvg-id="TV Peleas" tvg-name="TV Peleas" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/featuredImage.jpg" group-title="Nacional",TV Peleas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="Futmax" tvg-name="Futmax" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/f1/29/96f12970-b693-8322-5b5d-b2f681824f9a/AppIcon-0-0-1x_U007epad-0-85-220.png/1200x600wa.png" group-title="Nacional",Futmax
@@ -171,9 +175,5 @@ http://181.78.8.90:16123/play/ch16?uid=1111947
 http://190.61.55.186:1010/play/a006/index.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Espn 7" tvg-name="Espn 7" tvg-logo="https://i.pinimg.com/originals/30/be/74/30be740563e5b68dd65a1b30472a4a36.jpg" group-title="Nacional",Espn 7
 http://190.61.55.186:1010/play/a007/index.m3u8?uid=1111947
-
-
-#EXTINF:-1, G
-http://209.126.106.30:8081/live/b5f22885cedc40448e06e889317ebadc/80f9561f27444d00a27f123a7479e4d4/34.ts
 
 
