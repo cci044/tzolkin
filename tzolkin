@@ -114,7 +114,7 @@ http://168.181.122.234:8000/play/a02u/index.m3u
 #EXTINF:-1 tvg-id="Cinecanal" tvg-name="Cinecanal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Cinecanal_HD_%282010%29.png" group-title="Nacional",Cinecanal
 http://168.181.122.234:8000/play/a035/index.m3u
 #EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Paramount_Network_%28Black%29_Logo.png" group-title="Nacional",Paramount Network
-http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/paramount/chunks.m3u8?nimblesessionid=148099408
+http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/paramount/chunks.m3u8?nimblesessionid=148099408?l_577_3198460_9477.ts
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://w7.pngwing.com/pngs/211/697/png-transparent-fxx-logo-television-show-television-channel-tv-channel-television-angle-text.png" group-title="Nacional",FX
 http://168.181.122.234:8000/play/a033/index.m3u
 #EXTINF:-1 tvg-id="Golden Premiere" tvg-name="Golden Premiere" tvg-logo="https://www.claro.com.co/portal/co/recursos_contenido/1707924122108-Golden_Premiere-100.jpg" group-title="Nacional",Golden Premiere 
