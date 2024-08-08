@@ -112,7 +112,7 @@ http://168.181.122.234:8000/play/a02u/index.m3u
 #EXTINF:-1 tvg-id="Cinecanal" tvg-name="Cinecanal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Cinecanal_HD_%282010%29.png" group-title="Nacional",Cinecanal
 http://168.181.122.234:8000/play/a035/index.m3u
 #EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Paramount_Network_%28Black%29_Logo.png" group-title="Nacional",Paramount Network
-https://bantel-cdn1.iptvperu.tv:1935/cdnnjf/paramount/chunks.m3u8?nimblesessionid=148099408?l_577_3198460_9477.ts
+http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/paramount/chunks.m3u8?nimblesessionid=148099408
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://w7.pngwing.com/pngs/211/697/png-transparent-fxx-logo-television-show-television-channel-tv-channel-television-angle-text.png" group-title="Nacional",FX
 http://168.181.122.234:8000/play/a033/index.m3u
 #EXTINF:-1 tvg-id="Golden Premiere" tvg-name="Golden Premiere" tvg-logo="https://www.claro.com.co/portal/co/recursos_contenido/1707924122108-Golden_Premiere-100.jpg" group-title="Nacional",Golden Premiere 
@@ -168,7 +168,7 @@ http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/62?uid=1111947
 #EXTINF:-1 tvg-id="Movistar Deportes" tvg-name="Movistar Deportes" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="Nacional",Movistar Deportes
 http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/984?uid=1111947
 #EXTINF:-1 tvg-id="Gol Peru" tvg-name="Gol Peru" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/golperu_logo_horizontal1-1.jpg" group-title="Nacional",Gol Peru
-http://190.61.55.186:1010/play/a010/index.m3u8?uid=1111947
+http://alfatv.lat:2082/diego270903/diego270903/234942
 #EXTINF:-1 tvg-id="Espn" tvg-name="Espn" tvg-logo="https://w7.pngwing.com/pngs/109/662/png-transparent-logo-page-footer-espn-magazine-television-text-photograp" group-title="Nacional",Espn
 http://181.78.8.90:16123/play/ch16?uid=1111947
 #EXTINF:-1 tvg-id="Espn 6" tvg-name="Espn 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" group-title="Nacional",Espn 6
@@ -176,3 +176,4 @@ http://190.61.55.186:1010/play/a006/index.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Espn 7" tvg-name="Espn 7" tvg-logo="https://i.pinimg.com/originals/30/be/74/30be740563e5b68dd65a1b30472a4a36.jpg" group-title="Nacional",Espn 7
 http://190.61.55.186:1010/play/a007/index.m3u8?uid=1111947
 
+jsksk
