@@ -91,6 +91,8 @@ http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/501?uid=1111947
 http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/505?uid=1111947
 #EXTINF:-1 tvg-id="CGTN Novelas" tvg-name="CGTN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/640px-CGTN_Espanol.png" group-title="Nacional",CGTN Novelas
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1, life time
+http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/lifetime/chunks.m3u8?nimblesessionid=148097654?l_64130_2976505_495.ts
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://greyboxcreativemain.b-cdn.net/wp-content/uploads/2020/01/National-Geographic-logo.jpg" group-title="Nacional",National Geographic
 http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/562?uid=1111947
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://w7.pngwing.com/pngs/934/382/png-transparent-logo-discovery-channel-brazil-discovery-inc-animal-planet-design-text-logo-brazil.png" group-title="Nacional",Discovery Channel
@@ -175,5 +177,3 @@ http://181.78.8.90:16123/play/ch16?uid=1111947
 http://190.61.55.186:1010/play/a006/index.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Espn 7" tvg-name="Espn 7" tvg-logo="https://i.pinimg.com/originals/30/be/74/30be740563e5b68dd65a1b30472a4a36.jpg" group-title="Nacional",Espn 7
 http://190.61.55.186:1010/play/a007/index.m3u8?uid=1111947
-
-jsksk
