@@ -88,7 +88,7 @@ http://51.79.81.69:8080/live/825e01bc6ded4df9b608d98323f9a854/b5885f0464ab42a889
 #EXTINF:-1 tvg-id="RCN Novelas" tvg-name="RCN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/RCN_Novelas_logo_2019.png" group-title="Nacional",RCN Novelas
 http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/501?uid=1111947
 #EXTINF:-1 tvg-id="Pasiones" tvg-name="Pasiones" tvg-logo="https://logowik.com/content/uploads/images/pasiones-tv1683.jpg" group-title="Nacional",Pasiones
-http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/505?uid=1111947
+http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/pasiones.stream/chunks.m3u8?nimblesessionid=148087644?l_538_67830361_9254.ts
 #EXTINF:-1 tvg-id="CGTN Novelas" tvg-name="CGTN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/640px-CGTN_Espanol.png" group-title="Nacional",CGTN Novelas
 https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1, life time
