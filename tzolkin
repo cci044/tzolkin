@@ -31,16 +31,20 @@ http://144.217.17.134:8080/play/hls/eyJpdiI6ImZQZXdsMWtQdGJtcmpkUnVSZko2TWc9PSIs
 http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/987
 #EXTINF:-1 tvg-id="PBO Noticias" tvg-name="PBO Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_de_Radio_PBO.jpg" group-title="Nacional",PBO Noticias
 https://live-evg1.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8?uid=1111947
+#EXTINF:-1 tvg-id="Milenial TV" tvg-name="Milenial TV" tvg-logo="https://i.ytimg.com/vi/PdLp6LBt-pU/maxresdefault.jpg" group-title="Nacional",Milenial TV
+https://live-evg14.tv360.bitel.com.pe/salida/milenial.m3u8?uid=1111947
+#EXTINF:-1 tvg-id="Conecta 2 TV" tvg-name="Conecta 2 TV" tvg-logo="https://cableperu.pe/wp-content/uploads/2024/06/CONECTADOS-935x1024.png" group-title="Nacional",Conecta 2 TV
+https://live-evg24.tv360.bitel.com.pe/conecta2/index.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Telelima" tvg-name="Telelima" tvg-logo="https://www.telelima.pe/img/logoweb1.png" group-title="Nacional",Telelima
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/telelima.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Gamarra Channel" tvg-name="Gamarra Channel" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b038b9193708333.Y3JvcCw4MDEsNjI2LDI5OSwxNTI.png" group-title="Nacional",Gamarra Channel
 http://bantel-cdn1.iptvperu.tv:1935/cdngrl/GamarraChannel/chunks.m3u8
-#EXTINF:-1 tvg-id="Catacaos Piura" tvg-name="Catacaos Piura" tvg-logo="https://radiocatacaos.com/wp-content/uploads/elementor/thumbs/logoooo-pa898770ubb633zl6ix311lhle9a56j57w9upf7mdc.png" group-title="Nacional",Catacaos Piura
-https://live.obslivestream.com/canal8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RCR Peru" tvg-name="RCR Peru" tvg-logo="https://www.rcrperu.com/wp-content/uploads/2019/10/logo-rcr.png" group-title="Nacional",RCR Peru
+https://live-evg11.tv360.bitel.com.pe/hls/rcr_peru_srt/index.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Tumbes TV" tvg-name="Tumbes TV" tvg-logo="https://pbs.twimg.com/profile_images/1492289990851801099/rHy5Fd7v_400x400.png" group-title="Nacional",Tumbes TV
 https://servilive.com:3531/live/tumpistvlive.m3u8
 #EXTINF:-1 tvg-id="Agro TV Cusco" tvg-name="Agro TV Cusco" tvg-logo="https://peruagropecuario.com/content/img_notas/FICA.png" group-title="Nacional",Agro TV Cusco
-https://vdo.grupolimalive.com/p/3179/live/agrotvlive.m3u8
+https://live-evg21.tv360.bitel.com.pe/p/3179/live/agrotvlive.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="QT TV Cusco" tvg-name="QT TV Cusco" tvg-logo="https://qosqotimes.pe/wp-content/uploads/2022/10/My-project-1-7-1.jpg" group-title="Nacional",QT TV Cusco
 https://servilive.com:3753/live/qosqotimeslive.m3u8
 #EXTINF:-1 tvg-id="TV Cusco" tvg-name="TV Cusco" tvg-logo="https://www.tvenlineaoficial.com/wp-content/uploads/2024/03/logo-tv-en-linea-cusco.jpg" group-title="Nacional",TV Cusco
