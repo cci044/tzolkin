@@ -35,26 +35,34 @@ https://live-evg1.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8?uid=1111947
 https://live-evg14.tv360.bitel.com.pe/salida/milenial.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Conecta 2 TV" tvg-name="Conecta 2 TV" tvg-logo="https://cableperu.pe/wp-content/uploads/2024/06/CONECTADOS-935x1024.png" group-title="Nacional",Conecta 2 TV
 https://live-evg24.tv360.bitel.com.pe/conecta2/index.m3u8?uid=1111947
+#EXTINF:-1 tvg-id="CTV Peru" tvg-name="CTV Peru" tvg-logo="https://www.ctv.pe/img/logotipo.png" group-title="Nacional",CTV Peru
+https://live-evg4.tv360.bitel.com.pe/bitel/ctv/playlist.m3u8?uid=1111947
+#EXTINF:-1 tvg-id="TV Norte" tvg-name="TV Norte" tvg-logo="https://tunorte.co/wp-content/uploads/2020/02/tunorte-logoweb.jpg" group-title="Nacional",TV Norte
+https://live-evg25.tv360.bitel.com.pe/bitel/tvnorte/bitel/tvnorte_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-id="Like TV" tvg-name="Like TV" tvg-logo="https://canallike.com.br/wp-content/uploads/2020/12/canal-like-logo.png" group-title="Nacional",Like TV
+https://live-evg9.tv360.bitel.com.pe/fuegotvvivo12112021/index.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Telelima" tvg-name="Telelima" tvg-logo="https://www.telelima.pe/img/logoweb1.png" group-title="Nacional",Telelima
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/telelima.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Gamarra Channel" tvg-name="Gamarra Channel" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b038b9193708333.Y3JvcCw4MDEsNjI2LDI5OSwxNTI.png" group-title="Nacional",Gamarra Channel
 http://bantel-cdn1.iptvperu.tv:1935/cdngrl/GamarraChannel/chunks.m3u8
 #EXTINF:-1 tvg-id="RCR Peru" tvg-name="RCR Peru" tvg-logo="https://www.rcrperu.com/wp-content/uploads/2019/10/logo-rcr.png" group-title="Nacional",RCR Peru
 https://live-evg11.tv360.bitel.com.pe/hls/rcr_peru_srt/index.m3u8?uid=1111947
-#EXTINF:-1 tvg-id="Tumbes TV" tvg-name="Tumbes TV" tvg-logo="https://pbs.twimg.com/profile_images/1492289990851801099/rHy5Fd7v_400x400.png" group-title="Nacional",Tumbes TV
-https://servilive.com:3531/live/tumpistvlive.m3u8
+#EXTINF:-1 tvg-id="Ucayali TV" tvg-name="Ucayali TV" tvg-logo="https://ucayaliperu.files.wordpress.com/2012/05/ucayali-23.jpg" group-title="Nacional",Ucayali TV
+https://live-evg25.tv360.bitel.com.pe/bitel/ucayalitv/playlist.m3u8?uid=1111947
+#EXTINF:-1 tvg-id="RTV Callao" tvg-name="RTV Callao" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/157/rtv-total.c6f92e8b.png" group-title="Nacional",RTV Callao
+https://live-evg25.tv360.bitel.com.pe/bitel/regiontv/bitel/regiontv_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-id="Agro TV Cusco" tvg-name="Agro TV Cusco" tvg-logo="https://peruagropecuario.com/content/img_notas/FICA.png" group-title="Nacional",Agro TV Cusco
 https://live-evg21.tv360.bitel.com.pe/p/3179/live/agrotvlive.m3u8?uid=1111947
-#EXTINF:-1 tvg-id="QT TV Cusco" tvg-name="QT TV Cusco" tvg-logo="https://qosqotimes.pe/wp-content/uploads/2022/10/My-project-1-7-1.jpg" group-title="Nacional",QT TV Cusco
-https://servilive.com:3753/live/qosqotimeslive.m3u8
-#EXTINF:-1 tvg-id="TV Cusco" tvg-name="TV Cusco" tvg-logo="https://www.tvenlineaoficial.com/wp-content/uploads/2024/03/logo-tv-en-linea-cusco.jpg" group-title="Nacional",TV Cusco
-https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8
-#EXTINF:-1 tvg-id="Region TV Callao" tvg-name="Region TV Callao" tvg-logo="https://pbs.twimg.com/profile_images/573080179238563840/xsxKaNdz_400x400.png" group-title="Nacional",Region TV Callao
-https://servilive.com:3757/live/regiontvlive.m3u8
-#EXTINF:-1 tvg-id="Creo TV Cajamarca" tvg-name="Creo TV Cajamarca" tvg-logo="https://creotvperu.com/logos-canales/fondo-creotv.png" group-title="Nacional",Creo TV Cajamarca
-https://srv1.mediastreamperu.com:19360/creotv/creotv.m3u8
-#EXTINF:-1 tvg-id="Cajamarca TV" tvg-name="Cajamarca TV" tvg-logo="https://appnew.megainfoapp.com/files/1/Cajamarca%20TV.png" group-title="Nacional",Cajamarca TV
-https://s1.tvdatta.com:3252/live/cajamarcatvlive.m3u8
+#EXTINF:-1 tvg-id="Via TV" tvg-name="Via TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Via_Televisi%C3%B3n_logo_Via_TV.png" group-title="Nacional",Via TV
+https://live-evg2.tv360.bitel.com.pe/cablerasvia/cablerasvia.m3u8?uid=1111947
+#EXTINF:-1 tvg-id="Atlantis TV" tvg-name="Atlantis TV" tvg-logo="https://cdn.futbolperuano.com/canales/atlantis-47-5651.jpg" group-title="Nacional",Atlantis TV
+https://live-evg25.tv360.bitel.com.pe/bitel/atlantis/playlist.m3u8?uid=1111947
+#EXTINF:-1 tvg-id="Televesur Cusco" tvg-name="Televesur Cusco" tvg-logo="https://cuscotravelagency.com/wp-content/uploads/2021/07/logo-png.png" group-title="Nacional",Televesur Cusco
+https://live-evg9.tv360.bitel.com.pe/tevesurlive/index.m3u8?uid=1111947
+#EXTINF:-1 tvg-id="Ayacucho TV" tvg-name="Ayacucho TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ke-EPe5MNaIMCGag_VcZrovR09YMxO-ZBA&s" group-title="Nacional",Ayacucho TV
+https://live-evg19.tv360.bitel.com.pe/canal25ayacucho/index.m3u8?uid=1111947
+#EXTINF:-1 tvg-id="Lambayeque TV" tvg-name="Lambayeque TV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/07/25/21/1721919151436/341aa24e0986_640_360.jpg" group-title="Nacional",Lambayeque TV
+https://live-evg25.tv360.bitel.com.pe/bitel/lambayeque/bitel/lambayeque_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-id="Cadena TV Huancayo" tvg-name="Cadena TV Huancayo" tvg-logo="https://www.cadenatv.com.pe/wp-content/uploads/2019/11/28579934_1845911755481020_1619509742_o.png" group-title="Nacional",Cadena TV Huancayo
 https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
 #EXTINF:-1 tvg-id="Tropical TV Moquegua" tvg-name="Tropical TV Moquegua" tvg-logo="https://tvhdtropical.com/wp-content/uploads/2024/01/LOGO-TROPICAL-PNG.png" group-title="Nacional",Tropical TV Moquegua
