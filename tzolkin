@@ -190,8 +190,8 @@ http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/984?uid=1111947
 #EXTINF:-1 tvg-id="Gol Peru" tvg-name="Gol Peru" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/golperu_logo_horizontal1-1.jpg" group-title="Nacional",Gol Peru
 http://alfatv.lat:2082/diego270903/diego270903/234942
 #EXTINF:-1 tvg-id="Espn" tvg-name="Espn" tvg-logo="https://w7.pngwing.com/pngs/109/662/png-transparent-logo-page-footer-espn-magazine-television-text-photograp" group-title="Nacional",Espn
-http://bantel-cdn1.iptvperu.tv:1935/cdnwen/ESPN.stream/chunks.m3u8?nimblesessionid=149649007
+http://bantel-cdn1.iptvperu.tv:1935/cdnwen/ESPN.stream/chunks.m3u8?nimblesessionid=151026805
 #EXTINF:-1 tvg-id="Espn 6" tvg-name="Espn 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" group-title="Nacional",Espn 6
-http://bantel-cdn1.iptvperu.tv:1935/cdnwen/espn6/chunks.m3u8?nimblesessionid=149648462
+http://bantel-cdn1.iptvperu.tv:1935/cdnwen/espn6/chunks.m3u8?nimblesessionid=151025311
 #EXTINF:-1 tvg-id="Espn 7" tvg-name="Espn 7" tvg-logo="https://i.pinimg.com/originals/30/be/74/30be740563e5b68dd65a1b30472a4a36.jpg" group-title="Nacional",Espn 7
 http://bantel-cdn1.iptvperu.tv:1935/cdnwen/espn7.stream/chunks.m3u8?nimblesessionid=149647243
