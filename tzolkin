@@ -124,7 +124,7 @@ http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/588?uid=1111947
 #EXTINF:-1 tvg-id="Universal Cinema" tvg-name="Universal Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png" group-title="Nacional",Universal Cinema
 http://168.181.122.234:8000/play/a02u/index.m3u
 #EXTINF:-1 tvg-id="Cinecanal" tvg-name="Cinecanal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Cinecanal_HD_%282010%29.png" group-title="Nacional",Cinecanal
-http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/cinecanal/chunks.m3u8?nimblesessionid=148113275?l_58952_8046937_1340.ts
+http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/cinecanal/chunks.m3u8
 #EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Paramount_Network_%28Black%29_Logo.png" group-title="Nacional",Paramount Network
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/paramount/chunks.m3u8
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://w7.pngwing.com/pngs/211/697/png-transparent-fxx-logo-television-show-television-channel-tv-channel-television-angle-text.png" group-title="Nacional",FX
@@ -140,7 +140,7 @@ http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/589?uid=1111947
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/AE-logo.png" group-title="Nacional",A&E
 http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/68?uid=1111947
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Nacional",Cinemax
-http://51.79.81.69:8080/live/433b64850bfd490d82b344df534af410/e7cdde47b8ff496d83c5e1d34ec2d093/4.m3u8
+http://168.181.122.234:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://w7.pngwing.com/pngs/842/991/png-transparent-axn-television-channel-pay-television-logo-others-miscellaneous-television-angle.png" group-title="Nacional",AXN
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/axn/chunks.m3u8
 #EXTINF:-1 tvg-id="Gam TV" tvg-name="Gam TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/GamaTV_2006.png" group-title="Nacional",Gam TV
