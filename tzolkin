@@ -115,8 +115,8 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/History/chunks.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/History2/chunks.m3u8
 #EXTINF:-1 tvg-id="Bob Esponja TV" tvg-name="Bob Esponja TV" tvg-logo="https://w7.pngwing.com/pngs/639/164/png-transparent-spongebob-squarepants-with-logo-cartoons-spongebob.png" group-title="Nacional",Bob Esponja TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Nacional",Cartoon Network
-http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/454?uid=1111947
+#EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Nacional",Disney Jr
+http://bantel-cdn1.iptvperu.tv:1935/cdnijc/disney_jr/chunks.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-Nickelodeon.png" group-title="Nacional",Nickelodeon
 http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/741?uid=1111947
 #EXTINF:-1 tvg-id="Movistar Accion" tvg-name="Movistar Accion" tvg-logo="https://download.logo.wine/logo/Movistar_Acci%C3%B3n/Movistar_Acci%C3%B3n-Logo.wine.png" group-title="Nacional",Movistar Accion
