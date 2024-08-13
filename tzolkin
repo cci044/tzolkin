@@ -116,7 +116,7 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnijc/FMH_Kids/chunks.m3u8
 #EXTINF:-1 tvg-id="Movistar Accion" tvg-name="Movistar Accion" tvg-logo="https://download.logo.wine/logo/Movistar_Acci%C3%B3n/Movistar_Acci%C3%B3n-Logo.wine.png" group-title="Nacional",Movistar Accion
 http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/592?uid=1111947
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="Nacional",AMC
-http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/588?uid=1111947
+http://tvdirecto.pro:8080/live/quienesodi/odiyblack/3496.m3u8
 #EXTINF:-1, Starz Channel
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/StarChannel.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Universal Cinema" tvg-name="Universal Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png" group-title="Nacional",Universal Cinema
