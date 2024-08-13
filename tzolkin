@@ -63,30 +63,12 @@ https://live-evg9.tv360.bitel.com.pe/tevesurlive/index.m3u8?uid=1111947
 https://live-evg19.tv360.bitel.com.pe/canal25ayacucho/index.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Lambayeque TV" tvg-name="Lambayeque TV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/07/25/21/1721919151436/341aa24e0986_640_360.jpg" group-title="Nacional",Lambayeque TV
 https://live-evg25.tv360.bitel.com.pe/bitel/lambayeque/bitel/lambayeque_ori_source/chunks.m3u8
-#EXTINF:-1 tvg-id="Cadena TV Huancayo" tvg-name="Cadena TV Huancayo" tvg-logo="https://www.cadenatv.com.pe/wp-content/uploads/2019/11/28579934_1845911755481020_1619509742_o.png" group-title="Nacional",Cadena TV Huancayo
-https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
-#EXTINF:-1 tvg-id="Tropical TV Moquegua" tvg-name="Tropical TV Moquegua" tvg-logo="https://tvhdtropical.com/wp-content/uploads/2024/01/LOGO-TROPICAL-PNG.png" group-title="Nacional",Tropical TV Moquegua
-https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
-#EXTINF:-1 tvg-id="America Stereo TV Ecuador" tvg-name="America Stereo TV Ecuador" tvg-logo="https://www.americaestereo.com/wp-content/uploads/2023/10/LogoFavicon.png" group-title="Nacional",America Stereo TV Ecuador
-https://video2.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
-#EXTINF:-1 tvg-id="Teleamazonas TV Ecuador" tvg-name="Teleamazonas TV Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1024px-Teleamazonas_Logo.png" group-title="Nacional",Teleamazonas TV Ecuador
-https://teleamazonas-live.cdn.vustreams.com/live/43953caa-53ff-4525-9f9e-202a12bf264e/live.isml/live.m3u8
-#EXTINF:-1 tvg-id="Teleamazonas TV Ecuador" tvg-name="Oromar TV Ecuador" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Oromar-TV-en-vivo-Online.png" group-title="Nacional",Oromar TV Ecuador
-https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
-#EXTINF:-1 tvg-id="RTU TV Ecuador" tvg-name="RTU TV Ecuador" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Rtu_logo_2020.png" group-title="Nacional",RTU TV Ecuador
-https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
 #EXTINF:-1 tvg-id="DW Internacional" tvg-name="DW Internacional" tvg-logo="https://i.pinimg.com/736x/ce/ca/0e/ceca0eba616c946fdef3303a7baeb3eb.jpg" group-title="Nacional",Dw Internacional
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:-1, CNN
 http://168.181.122.234:8000/play/a01r/index.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Nativa TV" tvg-name="Nativa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png" group-title="Nacional",Nativa TV
 https://live-evg4.tv360.bitel.com.pe/bitel/nativa/playlist.m3u8?uid=1111947
-#EXTINF:-1 tvg-id="Moni TV" tvg-name="Moni TV" tvg-logo="https://monitv.net/wp-content/uploads/2024/02/monitvojos.png" group-title="Nacional",Moni TV
-https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
-#EXTINF:-1 tvg-id="Via Altomayo" tvg-name="Via Altomayo" tvg-logo="https://www.viaaltomayotv.com/panel/archivos-panel/logotipo/Logo-c7e-355.png" group-title="Nacional",Via Altomayo
-https://live.obslivestream.com/viaaltomayomux/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-chno="16" tvg-id="Doble C" tvg-name="Doble C" tvg-logo="https://www.coolstreaming.us/img/ch/image86573092547.jpg" group-title="Nacional",Doble C
-https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-id="Telemundo Internacional" tvg-name="Telemundo Internacional" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/styles/article_cover_image/public/images/article/cover/2015/04/14/untitled.jpg" group-title="Nacional",Telemundo Internacional
 http://51.79.81.69:8080/live/5bb1d796ffbd446a9f4dccafc81ca352/5850952ce750443faa258be29fd97d22/56.m3u8
 #EXTINF:-1 tvg-id="Azteca Internacional" tvg-name="Azteca Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Azteca_Internacional_2008.png" group-title="Nacional",Azteca Internacional
@@ -101,8 +83,6 @@ http://51.79.81.69:8080/live/825e01bc6ded4df9b608d98323f9a854/b5885f0464ab42a889
 http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/501?uid=1111947
 #EXTINF:-1 tvg-id="Pasiones" tvg-name="Pasiones" tvg-logo="https://logowik.com/content/uploads/images/pasiones-tv1683.jpg" group-title="Nacional",Pasiones
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/pasiones.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="CGTN Novelas" tvg-name="CGTN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/640px-CGTN_Espanol.png" group-title="Nacional",CGTN Novelas
-https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 #EXTINF:-1, life time
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/lifetime/chunks.m3u8
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://greyboxcreativemain.b-cdn.net/wp-content/uploads/2020/01/National-Geographic-logo.jpg" group-title="Nacional",National Geographic
@@ -115,6 +95,8 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/History/chunks.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/History2/chunks.m3u8
 #EXTINF:-1 tvg-id="Bob Esponja TV" tvg-name="Bob Esponja TV" tvg-logo="https://w7.pngwing.com/pngs/639/164/png-transparent-spongebob-squarepants-with-logo-cartoons-spongebob.png" group-title="Nacional",Bob Esponja TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="Bob Esponja 2" tvg-name="Bob Esponja 2" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-Nickelodeon.png" group-title="Nacional",Bob Esponja 2
+http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/741?uid=1111947
 #EXTINF:-1, Bob Esponja 3
 http://51.159.104.29:8080/bobesponja/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Nacional",Disney Jr
@@ -127,8 +109,6 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnfit/nick/chunks.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnijc/disneychannel/chunks.m3u8
 #EXTINF:-1, FMH Kids
 http://bantel-cdn1.iptvperu.tv:1935/cdnijc/FMH_Kids/chunks.m3u8
-#EXTINF:-1 tvg-id="Bob Esponja 2" tvg-name="Bob Esponja 2" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-Nickelodeon.png" group-title="Nacional",Bob Esponja 2
-http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/741?uid=1111947
 #EXTINF:-1 tvg-id="Movistar Accion" tvg-name="Movistar Accion" tvg-logo="https://download.logo.wine/logo/Movistar_Acci%C3%B3n/Movistar_Acci%C3%B3n-Logo.wine.png" group-title="Nacional",Movistar Accion
 http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/592?uid=1111947
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="Nacional",AMC
@@ -161,36 +141,12 @@ http://168.181.122.234:8000/play/a00u/index.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/axn/chunks.m3u8
 #EXTINF:-1 tvg-id="Gam TV" tvg-name="Gam TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/GamaTV_2006.png" group-title="Nacional",Gam TV
 https://v2.azulstream.com:8081/gamtv/gamtv/playlist.m3u8
-#EXTINF:-1 tvg-chno="21" tvg-id="+Cine" tvg-name="+Cine" tvg-logo="https://image.roku.com/developer_channels/prod/1259781ea85e3469a0ef1867e2463c4e22dd4343b00af5a84d9c0319b9106615.png" group-title="Nacional",+Cine
-https://tv.streaming-chile.com:19360/8142/8142.m3u8
-#EXTINF:-1 tvg-id="Runtime Series" tvg-name="Runtime Series" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/960x540/runtime_series_16x9_0.jpg" group-title="Nacional",Runtime Series
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649&amp;avod=1&amp;coppa=0&amp;is_lat=0
-#EXTINF:-1 tvg-id="Runtime Familia" tvg-name="Runtime Familia" tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/960x540/runtime_familia_16x9.jpg" group-title="Nacional",Runtime Familia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528&amp;avod=1&amp;coppa=0&amp;is_lat=0
-#EXTINF:-1 tvg-id="Runtime Comedia" tvg-name="Runtime Comedia" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Comedia-en-directo-Online.png" group-title="Nacional",Runtime Comedia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551&amp;avod=1&amp;coppa=0&amp;is_lat=0
-#EXTINF:-1 tvg-id="Runtime Crimen" tvg-name="Runtime Crimen" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Crimen-en-directo-Online.png" group-title="Nacional",Runtime Crimen
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533&amp;avod=1&amp;coppa=0&amp;is_lat=0
-#EXTINF:-1 tvg-id="Runtime Peliculas" tvg-name="Runtime Peliculas" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/960x540/runtime_ush_1920x1080.jpg" group-title="Nacional",Runtime Peliculas
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153&amp;avod=1&amp;coppa=0&amp;is_lat=0
-#EXTINF:-1 tvg-id="Runtime Terror y Thriller" tvg-name="Runtime Terror y Thriller" tvg-logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/960x540/runtime_thriller_16x9.jpg" group-title="Nacional",Runtime Terror y Thriller
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529&amp;avod=1&amp;coppa=0&amp;is_lat=0
-#EXTINF:-1 tvg-id="Runtime Accion" tvg-name="Runtime Accion" tvg-logo="https://img3.static-ottera.com/prod/run/linear_channel/logo/960x540/runtime_accion_16x9.jpg" group-title="Nacional",Runtime Accion
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550&amp;avod=1&amp;coppa=0&amp;is_lat=0
 #EXTINF:-1 tvg-id="Sony Cine" tvg-name="Sony Cine" tvg-logo="https://www.pngitem.com/pimgs/m/189-1891635_cine-sony-channel-logo-hd-png-download.png" group-title="Nacional",Sony Cine
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1, Sony Channel
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/sonychannel/chunks.m3u8
-#EXTINF:-1, CINE TERROR
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1, CINE FAMILIAR
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1, CINE SUSPENSO
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bcbb9010009b4e84f/3063648/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-d10a1df2-2d98-48ad-b277-64361a73837b&deviceDNT=0&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&embedPartner=samsung-tvplus&samsung_app_domain=https%3A%2F%2Fwww.samsung.com%2Fus%2Fappstore%2Fapp.do%3FappId%3DG15147002586&samsung_app_name=Samsung%20TV%20Plus&serverSideAds=true&appName=samsungtvplus&deviceId=4d5d441a-a297-4706-b38d-1ae6338be7a8&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true&us_privacy=1YNY
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Logo_Distrito_Comedia.png" group-title="Nacional",Distrito Comedia
 http://51.79.81.69:8080/live/f8f1c1bd2d0d4b62b70a72c8ac8db4c4/0b15f7ef43f749118fb2edf73017f129/55.m3u8
-#EXTINF:-1 tvg-id="TV Peleas" tvg-name="TV Peleas" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/featuredImage.jpg" group-title="Nacional",TV Peleas
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="Futmax" tvg-name="Futmax" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/f1/29/96f12970-b693-8322-5b5d-b2f681824f9a/AppIcon-0-0-1x_U007epad-0-85-220.png/1200x600wa.png" group-title="Nacional",Futmax
 https://live-evg7.tv360.bitel.com.pe/index.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Tigo Sport" tvg-name="Tigo Sport" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ioy32l1623579346.png" group-title="Nacional",Tigo Sport
