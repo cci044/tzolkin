@@ -123,6 +123,8 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnijc/disney_jr/chunks.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnijc/nick_jr/chunks.m3u8
 #EXTINF:-1, Nickelodeon 
 http://bantel-cdn1.iptvperu.tv:1935/cdnfit/nick/chunks.m3u8
+#EXTINF:-1, Disney Channel
+http://bantel-cdn1.iptvperu.tv:1935/cdnijc/disneychannel/chunks.m3u8
 #EXTINF:-1, FMH Kids
 http://bantel-cdn1.iptvperu.tv:1935/cdnijc/FMH_Kids/chunks.m3u8
 #EXTINF:-1 tvg-id="Bob Esponja 2" tvg-name="Bob Esponja 2" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-Nickelodeon.png" group-title="Nacional",Bob Esponja 2
