@@ -143,6 +143,8 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/cinecanal/chunks.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/paramount/chunks.m3u8
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://w7.pngwing.com/pngs/211/697/png-transparent-fxx-logo-television-show-television-channel-tv-channel-television-angle-text.png" group-title="Nacional",FX
 http://168.181.122.234:8000/play/a033/index.m3u
+#EXTINF:-1, Golden
+http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/Golden/chunks.m3u8
 #EXTINF:-1 tvg-id="Golden Premiere" tvg-name="Golden Premiere" tvg-logo="https://www.claro.com.co/portal/co/recursos_contenido/1707924122108-Golden_Premiere-100.jpg" group-title="Nacional",Golden Premiere 
 http://168.181.122.234:8000/play/a01t/index.m3u
 #EXTINF:-1 tvg-id="Golden Premiere 2" tvg-name="Golden Premiere 2" tvg-logo="https://claroperupoc.vtexassets.com/arquivos/golden-premier-2hd-v2.png" group-title="Nacional",Golden Premiere 2
