@@ -199,8 +199,8 @@ http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/500?uid=1111947
 http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/450?uid=1111947
 #EXTINF:-1 tvg-id="TNT Sport" tvg-name="TNT Sport" tvg-logo="https://c0.klipartz.com/pngpicture/621/229/gratis-png-superliga-argentina-de-futbol-logo-tnt-sports-logo-sport.png" group-title="Nacional",TNT Sport
 http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/440?uid=1111947
-#EXTINF:-1 tvg-id="Caracol Sport" tvg-name="Caracol Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/CaracolSports.png/640px-CaracolSports.png" group-title="Nacional",Caracol Sport
-http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/3?uid=1111947
+#EXTINF:-1, Azteca Deportes
+http://bantel-cdn1.iptvperu.tv:1935/cdnwen/Az_Deportes/chunks.m3u8
 #EXTINF:-1 tvg-id="Fox Sport 2" tvg-name="Fox Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="Nacional",Fox Sport 2
 http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/62?uid=1111947
 #EXTINF:-1 tvg-id="Movistar Deportes" tvg-name="Movistar Deportes" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="Nacional",Movistar Deportes
