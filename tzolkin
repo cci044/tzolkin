@@ -99,6 +99,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d85
 http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/741?uid=1111947
 #EXTINF:-1, Bob Esponja 3
 http://51.159.104.29:8080/bobesponja/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Funbox
+https://live-evg4.tv360.bitel.com.pe/bitel/funbox/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Nacional",Disney Jr
 http://bantel-cdn1.iptvperu.tv:1935/cdnijc/disney_jr/chunks.m3u8
 #EXTINF:-1, Nick Jr
