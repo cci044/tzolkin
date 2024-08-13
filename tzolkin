@@ -125,6 +125,8 @@ http://168.181.122.234:8000/play/a02u/index.m3u
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/universalchannel/chunks.m3u8
 #EXTINF:-1 tvg-id="Cinecanal" tvg-name="Cinecanal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Cinecanal_HD_%282010%29.png" group-title="Nacional",Cinecanal
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/cinecanal/chunks.m3u8
+#EXTINF:-1, Entertaiment
+http://bantel-cdn1.iptvperu.tv:1935/cdnfhv/entertainment.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Paramount_Network_%28Black%29_Logo.png" group-title="Nacional",Paramount Network
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/paramount/chunks.m3u8
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://w7.pngwing.com/pngs/211/697/png-transparent-fxx-logo-television-show-television-channel-tv-channel-television-angle-text.png" group-title="Nacional",FX
