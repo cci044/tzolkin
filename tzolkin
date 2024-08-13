@@ -123,6 +123,8 @@ http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/741?uid=1111947
 http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/592?uid=1111947
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="Nacional",AMC
 http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/588?uid=1111947
+#EXTINF:-1, Starz Channel
+http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/StarChannel.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Universal Cinema" tvg-name="Universal Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png" group-title="Nacional",Universal Cinema
 http://168.181.122.234:8000/play/a02u/index.m3u
 #EXTINF:-1 tvg-id="Cinecanal" tvg-name="Cinecanal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Cinecanal_HD_%282010%29.png" group-title="Nacional",Cinecanal
