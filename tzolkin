@@ -97,21 +97,21 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/History/chunks.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/History2/chunks.m3u8
 #EXTINF:-1 tvg-id="Bob Esponja TV" tvg-name="Bob Esponja TV" tvg-logo="https://w7.pngwing.com/pngs/639/164/png-transparent-spongebob-squarepants-with-logo-cartoons-spongebob.png" group-title="Nacional",Bob Esponja TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="Bob Esponja 2" tvg-name="Bob Esponja 2" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-Nickelodeon.png" group-title="Nacional",Bob Esponja 2
+#EXTINF:-1 tvg-id="Bob Esponja 2" tvg-name="Bob Esponja 2" tvg-logo="https://s2-ug.ap4r.com/image-aigc-article/seoPic/origin/235a428710b626ec5ce32c53d17c9f602afd1502.png" group-title="Nacional",Bob Esponja 2
 http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/741?uid=1111947
-#EXTINF:-1, Bob Esponja 3
+#EXTINF:-1 tvg-id="Bob Esponja 3" tvg-name="Bob Esponja 3" tvg-logo="https://img.buzzfeed.com/buzzfeed-static/static/2017-05/18/17/campaign_images/buzzfeed-prod-fastlane-02/que-personaje-de-bob-esponja-eres-2-20182-1495143595-10_dblwide.jpg" group-title="Nacional",Bob Esponja 3
 http://51.159.104.29:8080/bobesponja/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Funbox
+#EXTINF:-1 tvg-id="Funbox" tvg-name="Funbox" tvg-logo="https://funbox.com/img/funbox_logo.png" group-title="Nacional",Funbox
 https://live-evg4.tv360.bitel.com.pe/bitel/funbox/playlist.m3u8?uid=1111947
-#EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Nacional",Disney Jr
+#EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Disney_Junior_Logo_2020.png" group-title="Nacional",Disney Jr
 http://bantel-cdn1.iptvperu.tv:1935/cdnijc/disney_jr/chunks.m3u8
-#EXTINF:-1, Nick Jr
+#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="https://logowik.com/content/uploads/images/nick-jr9053.jpg" group-title="Nacional",Nick Jr
 http://bantel-cdn1.iptvperu.tv:1935/cdnijc/nick_jr/chunks.m3u8
-#EXTINF:-1, Nickelodeon 
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-Nickelodeon.png" group-title="Nacional",Nickelodeon
 http://bantel-cdn1.iptvperu.tv:1935/cdnfit/nick/chunks.m3u8
-#EXTINF:-1, Disney Channel
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://w7.pngwing.com/pngs/223/1022/png-transparent-disney-channel-television-show-television-channel-the-walt-disney-company-pixel-disney-television-blue-text.png" group-title="Nacional",Disney Channel
 http://bantel-cdn1.iptvperu.tv:1935/cdnijc/disneychannel/chunks.m3u8
-#EXTINF:-1, FMH Kids
+#EXTINF:-1 tvg-id="FMH Kids" tvg-name="FMH Kids" tvg-logo="https://www.fmh.la/images/logos_slider/kids.png" group-title="Nacional",FMH Kids
 http://bantel-cdn1.iptvperu.tv:1935/cdnijc/FMH_Kids/chunks.m3u8
 #EXTINF:-1 tvg-id="Movistar Accion" tvg-name="Movistar Accion" tvg-logo="https://download.logo.wine/logo/Movistar_Acci%C3%B3n/Movistar_Acci%C3%B3n-Logo.wine.png" group-title="Nacional",Movistar Accion
 http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/592?uid=1111947
