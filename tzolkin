@@ -110,7 +110,7 @@ http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/562?uid=1111947
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://w7.pngwing.com/pngs/934/382/png-transparent-logo-discovery-channel-brazil-discovery-inc-animal-planet-design-text-logo-brazil.png" group-title="Nacional",Discovery Channel
 http://168.181.122.234:8000/play/a01s/index.m3u
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/History-Logo.png" group-title="Nacional",History
-http://168.181.122.234:8000/play/a019/index.m3u
+http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/History/chunks.m3u8
 #EXTINF:-1 tvg-id="Bob Esponja TV" tvg-name="Bob Esponja TV" tvg-logo="https://w7.pngwing.com/pngs/639/164/png-transparent-spongebob-squarepants-with-logo-cartoons-spongebob.png" group-title="Nacional",Bob Esponja TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png" group-title="Nacional",Cartoon Network
