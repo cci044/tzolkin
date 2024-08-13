@@ -49,6 +49,8 @@ http://bantel-cdn1.iptvperu.tv:1935/cdngrl/GamarraChannel/chunks.m3u8
 https://live-evg11.tv360.bitel.com.pe/hls/rcr_peru_srt/index.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Ucayali TV" tvg-name="Ucayali TV" tvg-logo="https://ucayaliperu.files.wordpress.com/2012/05/ucayali-23.jpg" group-title="Nacional",Ucayali TV
 https://live-evg25.tv360.bitel.com.pe/bitel/ucayalitv/playlist.m3u8?uid=1111947
+#EXTINF:-1, BHTV 
+https://live-evg25.tv360.bitel.com.pe/bitel/bhtv/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="RTV Callao" tvg-name="RTV Callao" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/157/rtv-total.c6f92e8b.png" group-title="Nacional",RTV Callao
 https://live-evg25.tv360.bitel.com.pe/bitel/regiontv/bitel/regiontv_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-id="Agro TV Cusco" tvg-name="Agro TV Cusco" tvg-logo="https://peruagropecuario.com/content/img_notas/FICA.png" group-title="Nacional",Agro TV Cusco
