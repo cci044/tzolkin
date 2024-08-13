@@ -123,6 +123,8 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/StarChannel.stream/chunks.m3u8
 http://168.181.122.234:8000/play/a02u/index.m3u
 #EXTINF:-1, Universal Channel
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/universalchannel/chunks.m3u8
+#EXTINF:-1, Studio Universal
+http://tvdirecto.pro:8080/live/quienesodi/odiyblack/3524.m3u8
 #EXTINF:-1 tvg-id="Cinecanal" tvg-name="Cinecanal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Cinecanal_HD_%282010%29.png" group-title="Nacional",Cinecanal
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/cinecanal/chunks.m3u8
 #EXTINF:-1, Entertaiment
