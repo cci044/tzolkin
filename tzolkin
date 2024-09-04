@@ -199,3 +199,5 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnwen/espn6/chunks.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnwen/espn7.stream/chunks.m3u8
 #EXTINF:-1, SKY SPORT LIGA
 http://181.78.109.49:8000/play/a06r/index.m3u8
+#EXTINF:-1, Direct TV Sport
+http://38.43.151.206:8000/play/a04m/index.m3u8
