@@ -178,7 +178,7 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnwen/Az_Deportes/chunks.m3u8
 #EXTINF:-1 tvg-id="Fox Sport 2" tvg-name="Fox Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="Nacional",Fox Sport 2
 http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/62?uid=1111947
 #EXTINF:-1 tvg-id="Movistar Deportes" tvg-name="Movistar Deportes" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="Nacional",Movistar Deportes
-http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/984?uid=1111947
+http://38.43.151.206:8000/play/a02z/index.m3u8
 #EXTINF:-1, TNT Sport Premium 
 http://tvdirecto.pro:8080/live/quienesodi/odiyblack/25835.m3u8
 #EXTINF:-1, GolTV-EC
@@ -201,3 +201,9 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnwen/espn7.stream/chunks.m3u8
 http://181.78.109.49:8000/play/a06r/index.m3u8
 #EXTINF:-1, Direct TV Sport
 http://38.43.151.206:8000/play/a04m/index.m3u8
+#EXTINF:-1, Tigo Sport
+http://190.185.121.102:58092/play/a00s
+#EXTINF:-1, TUDN
+http://190.185.121.102:58092/play/a00m
+#EXTINF:-1, Euro Sport
+http://185.189.225.157/EuroSport1/index.m3u8
