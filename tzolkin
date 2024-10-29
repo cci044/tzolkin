@@ -97,6 +97,8 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/History/chunks.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/History2/chunks.m3u8
 #EXTINF:-1 tvg-id="Bob Esponja TV" tvg-name="Bob Esponja TV" tvg-logo="https://w7.pngwing.com/pngs/639/164/png-transparent-spongebob-squarepants-with-logo-cartoons-spongebob.png" group-title="Nacional",Bob Esponja TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1, Tooncast
+http://190.61.44.34:1010/play/a09n/index.m3u8
 #EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Disney_Junior_Logo_2020.png" group-title="Nacional",Disney Jr
 http://bantel-cdn1.iptvperu.tv:1935/cdnijc/disney_jr/chunks.m3u8
 #EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="https://logowik.com/content/uploads/images/nick-jr9053.jpg" group-title="Nacional",Nick Jr
@@ -113,8 +115,6 @@ http://190.61.44.34:1010/play/a04s/index.m3u8
 http://190.61.44.34:1010/play/a04z/index.m3u8
 #EXTINF:-1, HBO Familia
 http://190.61.44.34:1010/play/a05w/index.m3u8
-#EXTINF:-1 tvg-id="Movistar Accion" tvg-name="Movistar Accion" tvg-logo="https://download.logo.wine/logo/Movistar_Acci%C3%B3n/Movistar_Acci%C3%B3n-Logo.wine.png" group-title="Nacional",Movistar Accion
-http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/592?uid=1111947
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="Nacional",AMC
 http://tvdirecto.pro:8080/live/quienesodi/odiyblack/3496.m3u8
 #EXTINF:-1, Starz Channel
