@@ -136,9 +136,9 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/FX/chunks.m3u8
 #EXTINF:-1, Golden
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/Golden/chunks.m3u8
 #EXTINF:-1 tvg-id="Golden Premiere" tvg-name="Golden Premiere" tvg-logo="https://www.claro.com.co/portal/co/recursos_contenido/1707924122108-Golden_Premiere-100.jpg" group-title="Nacional",Golden Premiere 
-http://168.181.122.234:8000/play/a01t/index.m3u
+http://168.181.122.234:8000/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="Golden Premiere 2" tvg-name="Golden Premiere 2" tvg-logo="https://claroperupoc.vtexassets.com/arquivos/golden-premier-2hd-v2.png" group-title="Nacional",Golden Premiere 2
-http://tvdirecto.pro:8080/live/quienesodi/odiyblack/3510.m3u8
+http://168.181.122.234:8000/play/a03r/index.m3u8
 #EXTINF:-1, Space
 http://168.181.122.234:8000/play/a03h/index.m3u8
 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Nacional",TCM
