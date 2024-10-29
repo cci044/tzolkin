@@ -163,8 +163,8 @@ http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/770?uid=1111947
 http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/770?uid=1111947
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Logo_Distrito_Comedia.png" group-title="Nacional",Distrito Comedia
 http://51.79.81.69:8080/live/f8f1c1bd2d0d4b62b70a72c8ac8db4c4/0b15f7ef43f749118fb2edf73017f129/55.m3u8
-#EXTINF:-1 tvg-id="Futmax" tvg-name="Futmax" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/f1/29/96f12970-b693-8322-5b5d-b2f681824f9a/AppIcon-0-0-1x_U007epad-0-85-220.png/1200x600wa.png" group-title="Nacional",Futmax
-https://live-evg7.tv360.bitel.com.pe/index.m3u8?uid=1111947
+#EXTINF:-1 tvg-id="Claro Sport" tvg-name="Claro Sport" tvg-logo="" group-title="Nacional",Claro Sport
+http://181.78.105.146:2000/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="Tigo Sport" tvg-name="Tigo Sport" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ioy32l1623579346.png" group-title="Nacional",Tigo Sport
 http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/500?uid=1111947
 #EXTINF:-1 tvg-id="TNT Sport Premium" tvg-name="TNT Sport Premium" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/c/o/color_1.png" group-title="Nacional",TNT Sport Premium
