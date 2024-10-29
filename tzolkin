@@ -144,7 +144,7 @@ http://168.181.122.234:8000/play/a03r/index.m3u8
 #EXTINF:-1, Space
 http://168.181.122.234:8000/play/a03h/index.m3u8
 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Nacional",TCM
-http://tvdirecto.pro:8080/live/quienesodi/odiyblack/3525.m3u8
+http://190.61.44.34:1010/play/a08o/index.m3u8
 #EXTINF:-1 tvg-id="Warner" tvg-name="Warner" tvg-logo="https://w7.pngwing.com/pngs/722/1014/png-transparent-logo-warner-bros-others-emblem-company-logo-thumbnail.png" group-title="Nacional",Warner
 http://190.61.44.34:1010/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/AE-logo.png" group-title="Nacional",A&E
