@@ -205,3 +205,5 @@ http://190.185.121.102:58092/play/a00s
 http://190.185.121.102:58092/play/a00m
 #EXTINF:-1, Euro Sport
 http://185.189.225.157/EuroSport1/index.m3u8
+#EXTINF:-1, Beins Sport
+http://51.178.65.238/BeinSport/mono.m3u8
