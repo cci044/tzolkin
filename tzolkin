@@ -158,7 +158,7 @@ http://bantel-cdn1.iptvperu.tv:1935/transcoder5_cdnmkd/dhe.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Gam TV" tvg-name="Gam TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/GamaTV_2006.png" group-title="Nacional",Gam TV
 https://v2.azulstream.com:8081/gamtv/gamtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Sony Cine" tvg-name="Sony Cine" tvg-logo="https://www.pngitem.com/pimgs/m/189-1891635_cine-sony-channel-logo-hd-png-download.png" group-title="Nacional",Sony Cine
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/sonymovies/chunks.m3u8
 #EXTINF:-1, Sony Channel
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/sonychannel/chunks.m3u8
 #EXTINF:-1, Cinema Terror
