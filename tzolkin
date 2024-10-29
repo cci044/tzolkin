@@ -119,6 +119,8 @@ http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/592?uid=1111947
 http://tvdirecto.pro:8080/live/quienesodi/odiyblack/3496.m3u8
 #EXTINF:-1, Starz Channel
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/StarChannel.stream/chunks.m3u8
+#EXTINF:-1, Universal tv
+http://190.61.44.34:1010/play/a09f/index.m3u8
 #EXTINF:-1 tvg-id="Universal Cinema" tvg-name="Universal Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png" group-title="Nacional",Universal Cinema
 http://168.181.122.234:8000/play/a02u/index.m3u8
 #EXTINF:-1, Universal Channel
