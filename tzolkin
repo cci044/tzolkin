@@ -111,6 +111,8 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnfit/nick/chunks.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnijc/disneychannel/chunks.m3u8
 #EXTINF:-1 tvg-id="FMH Kids" tvg-name="FMH Kids" tvg-logo="https://www.fmh.la/images/logos_slider/kids.png" group-title="Nacional",FMH Kids
 http://bantel-cdn1.iptvperu.tv:1935/cdnijc/FMH_Kids/chunks.m3u8
+#EXTINF:-1, Moni TV
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:-1, HBO
 http://190.61.44.34:1010/play/a04s/index.m3u8
 #EXTINF:-1, HBO 2
