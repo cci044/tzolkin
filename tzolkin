@@ -184,7 +184,7 @@ http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/440?uid=1111947
 #EXTINF:-1, Azteca Deportes
 http://bantel-cdn1.iptvperu.tv:1935/cdnwen/Az_Deportes/chunks.m3u8
 #EXTINF:-1 tvg-id="Fox Sport 2" tvg-name="Fox Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="Nacional",Fox Sport 2
-http://209.126.119.148:20102/live/3a2fac51a2434812a44445a1bba81dbd/b52b475339d64b4497dd084f9e2c9b1e/415.m3u8
+http://209.126.106.30:8081/live/2974b649b79d4bc7a64f4e8637d69384/d2893114efb14fbdb0e333d4a04155b7/43.m3u8
 #EXTINF:-1 tvg-id="Movistar Deportes" tvg-name="Movistar Deportes" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="Nacional",Movistar Deportes
 http://38.43.151.206:8000/play/a02z/index.m3u8
 #EXTINF:-1, TNT Sport Premium 
