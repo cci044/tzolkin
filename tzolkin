@@ -125,6 +125,8 @@ http://51.79.81.69:8080/live/a7475a3a20c140e28b59a829159c678f/c7db49a6569b41569e
 http://51.79.81.69:8080/live/9bde59335ffc46bd8bea23f97c5d2b56/2d041dc19b544ea6843fd7c50538cc7d/10.m3u8
 #EXTINF:-1, HBO Outers Max
 http://51.79.81.69:8080/live/2931bd732fe6419ea3d2c7d68e588c38/71085e5ea8924245a41ad2fa4e56038d/16.m3u8
+#EXTINF:-1, ShowTime Beyond
+http://51.79.81.69:8080/live/8ea65ab63d4a4bc083c1c07c8e698edb/0111cc3b27c04c85bb34dc861a807b6b/18.m3u8
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="Nacional",AMC
 http://190.61.44.34:1010/play/a04q/index.m3u8
 #EXTINF:-1, Starz Channel
