@@ -133,6 +133,8 @@ http://51.79.81.69:8080/live/f49cc1588f2342a6a084fec14e4d2720/8a470bf34c824f5fa5
 http://190.61.44.34:1010/play/a04q/index.m3u8
 #EXTINF:-1, Starz Channel
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/StarChannel.stream/chunks.m3u8
+#EXTINF:-1, Starz East
+http://51.79.81.69:8080/live/2a1d2962138747a19ee53636218dc5c5/20ba96046e424057aec127c11e725890/28.m3u8
 #EXTINF:-1, Universal tv
 http://190.61.44.34:1010/play/a09f/index.m3u8
 #EXTINF:-1 tvg-id="Universal Cinema" tvg-name="Universal Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png" group-title="Nacional",Universal Cinema
