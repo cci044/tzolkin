@@ -129,6 +129,8 @@ http://51.79.81.69:8080/live/2931bd732fe6419ea3d2c7d68e588c38/71085e5ea8924245a4
 http://51.79.81.69:8080/live/8ea65ab63d4a4bc083c1c07c8e698edb/0111cc3b27c04c85bb34dc861a807b6b/18.m3u8
 #EXTINF:-1, Starz Black
 http://51.79.81.69:8080/live/f49cc1588f2342a6a084fec14e4d2720/8a470bf34c824f5fa595d87782161e80/24.m3u8
+#EXTINF:-1, Starz Cinema
+http://51.79.81.69:8080/live/4e376e240b7e4c2fb1d934eab73659ba/8872122a300345f9b5da83ecfa4ff707/25.m3u8
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="Nacional",AMC
 http://190.61.44.34:1010/play/a04q/index.m3u8
 #EXTINF:-1, Starz Channel
