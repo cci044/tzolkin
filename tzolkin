@@ -195,20 +195,10 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/sonychannel/chunks.m3u8
 http://51.79.81.69:8080/live/f8f1c1bd2d0d4b62b70a72c8ac8db4c4/0b15f7ef43f749118fb2edf73017f129/55.m3u8
 #EXTINF:-1 tvg-id="Claro Sport" tvg-name="Claro Sport" tvg-logo="" group-title="Nacional",Claro Sport
 http://181.78.105.146:2000/play/a053/index.m3u8
-#EXTINF:-1 tvg-id="Tigo Sport" tvg-name="Tigo Sport" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ioy32l1623579346.png" group-title="Nacional",Tigo Sport
-http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/500?uid=1111947
 #EXTINF:-1 tvg-id="TNT Sport Premium" tvg-name="TNT Sport Premium" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/c/o/color_1.png" group-title="Nacional",TNT Sport Premium
 http://190.61.44.34:1010/play/a008/index.m3u8
-#EXTINF:-1 tvg-id="TNT Sport" tvg-name="TNT Sport" tvg-logo="https://c0.klipartz.com/pngpicture/621/229/gratis-png-superliga-argentina-de-futbol-logo-tnt-sports-logo-sport.png" group-title="Nacional",TNT Sport
-http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/440?uid=1111947
 #EXTINF:-1, Azteca Deportes
 http://bantel-cdn1.iptvperu.tv:1935/cdnwen/Az_Deportes/chunks.m3u8
-#EXTINF:-1 tvg-id="Fox Spo" tvg-name="Fox Spo 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="Nacional",Fox Spo
-http://209.126.106.30:8081/live/68faebc604b142b5a51887896e9096f4/a57739f09f0c456a93f226039c5d449d/55.m3u8
-#EXTINF:-1 tvg-id="Movistar Deportes" tvg-name="Movistar Deportes" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="Nacional",Movistar Deportes
-http://38.43.151.206:8000/play/a02z/index.m3u8
-#EXTINF:-1, TNT Sport Premium 
-http://tvdirecto.pro:8080/live/quienesodi/odiyblack/25835.m3u8
 #EXTINF:-1, GolTV-EC
 http://bantel-cdn1.iptvperu.tv:1935/cdnwen/goltv.stream/chunks.m3u8
 #EXTINF:-1, ESPN Premium
@@ -229,14 +219,10 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnwen/espn6/chunks.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnwen/espn7.stream/chunks.m3u8
 #EXTINF:-1, SKY SPORT LIGA
 http://181.78.109.49:8000/play/a06r/index.m3u8
-#EXTINF:-1, Direct TV Sport
-http://38.43.151.206:8000/play/a04m/index.m3u8
 #EXTINF:-1, Tigo Sport
 http://190.185.121.102:58092/play/a00s
 #EXTINF:-1, TUDN
 http://190.185.121.102:58092/play/a00m
-#EXTINF:-1, Euro Sport
-http://185.189.225.157/EuroSport1/index.m3u8
 #EXTINF:-1, Gol Peru
 http://190.61.44.34:1010/play/a05g/index.m3u8
 #EXTINF:-1, Beins Sport
