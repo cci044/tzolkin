@@ -197,6 +197,8 @@ http://51.79.81.69:8080/live/f8f1c1bd2d0d4b62b70a72c8ac8db4c4/0b15f7ef43f749118f
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1, Controversia TV
 https://live.obslivestream.com/canal8/index.m3u8
+#EXTINF:-1, DMJ TV
+https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Claro Sport" tvg-name="Claro Sport" tvg-logo="" group-title="Nacional",Claro Sport
 http://181.78.105.146:2000/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="TNT Sport Premium" tvg-name="TNT Sport Premium" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/c/o/color_1.png" group-title="Nacional",TNT Sport Premium
