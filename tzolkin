@@ -63,6 +63,8 @@ https://live-evg9.tv360.bitel.com.pe/tevesurlive/index.m3u8?uid=1111947
 https://live-evg19.tv360.bitel.com.pe/canal25ayacucho/index.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Lambayeque TV" tvg-name="Lambayeque TV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/07/25/21/1721919151436/341aa24e0986_640_360.jpg" group-title="Nacional",Lambayeque TV
 https://live-evg25.tv360.bitel.com.pe/bitel/lambayeque/bitel/lambayeque_ori_source/chunks.m3u8
+#EXTINF:-1, Mega TV Jaen
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 #EXTINF:-1 tvg-id="DW Internacional" tvg-name="DW Internacional" tvg-logo="https://i.pinimg.com/736x/ce/ca/0e/ceca0eba616c946fdef3303a7baeb3eb.jpg" group-title="Nacional",Dw Internacional
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:-1, CNN
