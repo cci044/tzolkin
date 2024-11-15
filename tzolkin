@@ -27,8 +27,6 @@ http://15.204.58.7/auth/JyVKkxz2mL4rNdzntHw4bInnt6cNmk1s86gKALkzmlJZ24fjCzF06Pso
 https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-id="RPP Noticias" tvg-name="RPP Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="Nacional",RPP Noticias
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/RPP/chunks.m3u8
-#EXTINF:-1 tvg-id="Peru Magico TV" tvg-name="Peru Magico TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Per%C3%BA_M%C3%A1gico_%28Logo_2014%29.png" group-title="Nacional",Peru Magico TV
-http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/987
 #EXTINF:-1 tvg-id="PBO Noticias" tvg-name="PBO Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_de_Radio_PBO.jpg" group-title="Nacional",PBO Noticias
 https://live-evg1.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Milenial TV" tvg-name="Milenial TV" tvg-logo="https://i.ytimg.com/vi/PdLp6LBt-pU/maxresdefault.jpg" group-title="Nacional",Milenial TV
@@ -73,16 +71,10 @@ http://168.181.122.234:8000/play/a01r/index.m3u8?uid=1111947
 https://live-evg4.tv360.bitel.com.pe/bitel/nativa/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-chno="16" tvg-id="Telemundo Internacional" tvg-name="Telemundo Internacional" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/styles/article_cover_image/public/images/article/cover/2015/04/14/untitled.jpg" group-title="Nacional",Telemundo Internacional
 http://51.79.81.69:8080/live/5bb1d796ffbd446a9f4dccafc81ca352/5850952ce750443faa258be29fd97d22/56.m3u8
-#EXTINF:-1 tvg-id="Azteca Internacional" tvg-name="Azteca Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Azteca_Internacional_2008.png" group-title="Nacional",Azteca Internacional
-http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/959
-#EXTINF:-1 tvg-id="Corazon Novelas" tvg-name="Corazon Novelas" tvg-logo="https://cdn.mitvstatic.com/channels/pe_az-corazon_m.png" group-title="Nacional",Corazon Novelas
-http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/956?uid=1111947
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Nacional",Las Estrellas
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/Canal_LasEstrellas/chunks.m3u8
 #EXTINF:-1 tvg-id="Tl Novelas" tvg-name="Tl Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/2560px-Tlnovelas_2011_logo.svg.png" group-title="Nacional",Tl Novelas
 http://51.79.81.69:8080/live/825e01bc6ded4df9b608d98323f9a854/b5885f0464ab42a8895ee565d977834b/57.m3u8
-#EXTINF:-1 tvg-id="RCN Novelas" tvg-name="RCN Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/RCN_Novelas_logo_2019.png" group-title="Nacional",RCN Novelas
-http://skytvpluzz.xyz:2082/EJ4R673PDzqa/jBhahjdMKLa/501?uid=1111947
 #EXTINF:-1 tvg-id="Pasiones" tvg-name="Pasiones" tvg-logo="https://logowik.com/content/uploads/images/pasiones-tv1683.jpg" group-title="Nacional",Pasiones
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/pasiones.stream/chunks.m3u8
 #EXTINF:-1, life time
@@ -97,10 +89,6 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/History/chunks.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/History2/chunks.m3u8
 #EXTINF:-1 tvg-id="Bob Esponja TV" tvg-name="Bob Esponja TV" tvg-logo="https://w7.pngwing.com/pngs/639/164/png-transparent-spongebob-squarepants-with-logo-cartoons-spongebob.png" group-title="Nacional",Bob Esponja TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1, Cartoon Network
-http://190.61.44.34:1010/play/a04u/index.m3u8
-#EXTINF:-1, Tooncast
-http://190.61.44.34:1010/play/a09n/index.m3u8
 #EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Disney_Junior_Logo_2020.png" group-title="Nacional",Disney Jr
 http://bantel-cdn1.iptvperu.tv:1935/cdnijc/disney_jr/chunks.m3u8
 #EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="https://logowik.com/content/uploads/images/nick-jr9053.jpg" group-title="Nacional",Nick Jr
@@ -133,8 +121,6 @@ http://51.79.81.69:8080/live/8ea65ab63d4a4bc083c1c07c8e698edb/0111cc3b27c04c85bb
 http://51.79.81.69:8080/live/f49cc1588f2342a6a084fec14e4d2720/8a470bf34c824f5fa595d87782161e80/24.m3u8
 #EXTINF:-1, Starz Cinema
 http://51.79.81.69:8080/live/4e376e240b7e4c2fb1d934eab73659ba/8872122a300345f9b5da83ecfa4ff707/25.m3u8
-#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Amc_logo_2013.png" group-title="Nacional",AMC
-http://190.61.44.34:1010/play/a04q/index.m3u8
 #EXTINF:-1, Starz Channel
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/StarChannel.stream/chunks.m3u8
 #EXTINF:-1, Starz East
@@ -145,8 +131,6 @@ https://tv.streaming-chile.com:19360/8140/8140.m3u8
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
 #EXTINF:-1, Planeta tv
 https://live.obslivestream.com/planetatv/index.m3u8
-#EXTINF:-1 tvg-id="Universal Cinema" tvg-name="Universal Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png" group-title="Nacional",Universal Cinema
-http://168.181.122.234:8000/play/a02u/index.m3u8
 #EXTINF:-1, Universal Channel
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/universalchannel/chunks.m3u8
 #EXTINF:-1, Studio Universal
@@ -161,28 +145,10 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/paramount/chunks.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/FX/chunks.m3u8
 #EXTINF:-1, Golden
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/Golden/chunks.m3u8
-#EXTINF:-1, Golden Edge
-http://190.61.44.34:1010/play/a084/index.m3u8
-#EXTINF:-1, Golden Plus
-http://190.61.44.34:1010/play/a055/index.m3u8
-#EXTINF:-1 tvg-id="Golden Premiere" tvg-name="Golden Premiere" tvg-logo="https://www.claro.com.co/portal/co/recursos_contenido/1707924122108-Golden_Premiere-100.jpg" group-title="Nacional",Golden Premiere 
-http://168.181.122.234:8000/play/a01t/index.m3u8
-#EXTINF:-1 tvg-id="Golden Premiere 2" tvg-name="Golden Premiere 2" tvg-logo="https://claroperupoc.vtexassets.com/arquivos/golden-premier-2hd-v2.png" group-title="Nacional",Golden Premiere 2
-http://168.181.122.234:8000/play/a03r/index.m3u8
-#EXTINF:-1, Space
-http://168.181.122.234:8000/play/a03h/index.m3u8
-#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="Nacional",TCM
-http://190.61.44.34:1010/play/a08o/index.m3u8
-#EXTINF:-1 tvg-id="Warner" tvg-name="Warner" tvg-logo="https://w7.pngwing.com/pngs/722/1014/png-transparent-logo-warner-bros-others-emblem-company-logo-thumbnail.png" group-title="Nacional",Warner
-http://190.61.44.34:1010/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/AE-logo.png" group-title="Nacional",A&E
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/aye/chunks.m3u8
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Cinemax_LA.png" group-title="Nacional",Cinemax
-http://168.181.122.234:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://w7.pngwing.com/pngs/842/991/png-transparent-axn-television-channel-pay-television-logo-others-miscellaneous-television-angle.png" group-title="Nacional",AXN
 http://bantel-cdn1.iptvperu.tv:1935/cdnmkd/axn/chunks.m3u8
-#EXTINF:-1, TNT
-http://190.61.44.34:1010/play/a09e/index.m3u8
 #EXTINF:-1, DHE
 http://bantel-cdn1.iptvperu.tv:1935/transcoder5_cdnmkd/dhe.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Gam TV" tvg-name="Gam TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/GamaTV_2006.png" group-title="Nacional",Gam TV
@@ -199,6 +165,8 @@ https://live.obslivestream.com/autenticatvmux/index.m3u8
 https://live.obslivestream.com/canal8/index.m3u8
 #EXTINF:-1, DMJ TV
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
+#EXTINF:-1, Genios TV
+https://live.obslivestream.com/geniostvmux/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Claro Sport" tvg-name="Claro Sport" tvg-logo="" group-title="Nacional",Claro Sport
 http://181.78.105.146:2000/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="TNT Sport Premium" tvg-name="TNT Sport Premium" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/c/o/color_1.png" group-title="Nacional",TNT Sport Premium
