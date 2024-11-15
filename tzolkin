@@ -103,6 +103,8 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnijc/FMH_Kids/chunks.m3u8
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:-1, Cinemax
 http://51.79.81.69:8080/live/433b64850bfd490d82b344df534af410/e7cdde47b8ff496d83c5e1d34ec2d093/4.m3u8
+#EXTINF:-1, HBO PLUS
+http://51.79.81.69:8080/live/0612606c4df540d888f2b6ba90e3af26/14da04ca6bde4d99b7886dc9d7cb8040/8.m3u8
 #EXTINF:-1, HBO East
 http://51.79.81.69:8080/live/d06b788200344b8ba9b63705f2feff86/b51eda5af06a4f36851a6ac81b8e225d/6.m3u8
 #EXTINF:-1, HBO West
