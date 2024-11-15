@@ -143,8 +143,8 @@ http://51.79.81.69:8080/live/2a1d2962138747a19ee53636218dc5c5/20ba96046e424057ae
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
 #EXTINF:-1, +Cine
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
-#EXTINF:-1, Universal tv
-http://190.61.44.34:1010/play/a09f/index.m3u8
+#EXTINF:-1, Planeta tv
+https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 tvg-id="Universal Cinema" tvg-name="Universal Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png" group-title="Nacional",Universal Cinema
 http://168.181.122.234:8000/play/a02u/index.m3u8
 #EXTINF:-1, Universal Channel
@@ -193,6 +193,8 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/sonymovies/chunks.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/sonychannel/chunks.m3u8
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Logo_Distrito_Comedia.png" group-title="Nacional",Distrito Comedia
 http://51.79.81.69:8080/live/f8f1c1bd2d0d4b62b70a72c8ac8db4c4/0b15f7ef43f749118fb2edf73017f129/55.m3u8
+#EXTINF:-1,Autentica TV
+https://live.obslivestream.com/autenticatvmux/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Claro Sport" tvg-name="Claro Sport" tvg-logo="" group-title="Nacional",Claro Sport
 http://181.78.105.146:2000/play/a053/index.m3u8
 #EXTINF:-1 tvg-id="TNT Sport Premium" tvg-name="TNT Sport Premium" tvg-logo="https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/c/o/color_1.png" group-title="Nacional",TNT Sport Premium
