@@ -125,6 +125,8 @@ http://51.79.81.69:8080/live/4e376e240b7e4c2fb1d934eab73659ba/8872122a300345f9b5
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/StarChannel.stream/chunks.m3u8
 #EXTINF:-1, Starz East
 http://51.79.81.69:8080/live/2a1d2962138747a19ee53636218dc5c5/20ba96046e424057aec127c11e725890/28.m3u8
+#EXTINF:-1, Azteca Cinema
+http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/AZ_Cinema/chunks.m3u8?nimblesessionid=274428861
 #EXTINF:-1, Terror TV
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
 #EXTINF:-1, +Cine
