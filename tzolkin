@@ -185,6 +185,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b186
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1, Top Latino
 https://live-evg25.tv360.bitel.com.pe:443/bitel/toplatino/chunks.m3u8?uid=1111947
+#EXTINF:-1, Trace latino
+https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tracetv-tracelatina-xiaomi/cb573f166577639098c83e78d1f04982e65939d91374942a6bb455956bc10d4d83bff6c2bb49e66041cd1f8a61176c500831d64bd62906da8b2bfc04327e1e739390e47dbbc928218a09f4e71899487b32ec33708e7c1777dda9291c8429b06a776b826b4077424039949f5c6fbbdf48cf2739faf08823602e0b75af476de7b6667bc8c08ed07398b1616e38bce7263417e98dbceca1bfa506cb01df25a00beecaa9d88247ddecb2599408e93c1d4c3232cdce28c1870dc4bae00933fd263027fe341b1744242877aa42d681e5a2b2ca223a0063b2842d/7/1920x1080_4716800/index.m3u8
 #EXTINF:-1, Mix Hit
 https://giatv.bozztv.com:443/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 #EXTINF:-1, Hit top
