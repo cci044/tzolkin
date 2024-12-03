@@ -201,6 +201,8 @@ https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tra
 https://giatv.bozztv.com:443/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 #EXTINF:-1, Hit top
 https://live-evg4.tv360.bitel.com.pe:443/bitel/vmlatino/bitel/vmlatino_ori_source/chunks.m3u8?uid=1111947
+#EXTINF:-1, Music Bruno
+https://stream9.xdevel.com/video0s975758-1052/stream/playlist.m3u8
 #EXTINF:-1, Tendencias Top
 https://s1.tvdatta.com:3950/multi_web/play_1080.m3u8
 #EXTINF:-1, The Retro Channel
