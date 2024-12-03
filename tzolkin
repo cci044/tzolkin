@@ -181,6 +181,8 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnwen/espn7.stream/chunks.m3u8
 https://ca8s9.pricesaskeloadsc.com:443/movistar_deportes_peru/tracks-v1a1/mono.m3u8?token=fb59917001f9c6ba6627f79a60cbfbb8af7b4157-76-1733201611-1733165611
 #EXTINF:-1, Gol Peru
 https://bgfuzq.la10tv.com:443/golperu/tracks-v1a1/mono.m3u8?token=6fc689a4b9470b0e893bb194f3b54902992f20ba-58-1733207747-1733171747
+#EXTINF:-1, Dazn 1
+https://coeld.pricesaskeloadsc.com:443/dazn1/tracks-v1a1/mono.m3u8?token=9265b84deea701f6d4edd80dd4c172d83bdd91f1-3d-1733208017-1733172017
 #EXTINF:-1, Karibeña
 https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
 #EXTINF:-1, Top Latino
