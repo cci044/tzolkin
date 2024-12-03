@@ -177,6 +177,8 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnwen/espn5/chunks.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnwen/espn6/chunks.m3u8
 #EXTINF:-1 tvg-id="Espn 7" tvg-name="Espn 7" tvg-logo="https://i.pinimg.com/originals/30/be/74/30be740563e5b68dd65a1b30472a4a36.jpg" group-title="Nacional",Espn 7
 http://bantel-cdn1.iptvperu.tv:1935/cdnwen/espn7.stream/chunks.m3u8
+#EXTINF:-1, Fox Sport
+https://bgvnzw5k.la10tv.com:443/foxsports/tracks-v1a1/mono.m3u8?token=f1913eabfa521887986e730731f51ccba0c5a376-d6-1733204720-1733168720
 #EXTINF:-1, Movistar Deportes
 https://ca8s9.pricesaskeloadsc.com:443/movistar_deportes_peru/tracks-v1a1/mono.m3u8?token=fb59917001f9c6ba6627f79a60cbfbb8af7b4157-76-1733201611-1733165611
 #EXTINF:-1, Gol Peru
