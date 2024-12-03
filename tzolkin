@@ -14,9 +14,9 @@ https://live-evg4.tv360.bitel.com.pe:443/bitel/atvmas/bitel/atvmas_ori_source/ch
 #EXTINF:-1 tvg-id="La Tele" tvg-name="La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/LaTele_Per%C3%BA_2018_Logo.png" group-title="Nacional",La Tele
 http://bantel-cdn1.iptvperu.tv:1935/cdnecl/la-tele/chunks.m3u8
 #EXTINF:-1 tvg-id="Tv peru" tvg-name="Tv Peru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LOGO_TV_PERU_2012.png" group-title="Nacional",Tv peru
-https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/playlist.m3u8?uid=1111947
+https://live-evg4.tv360.bitel.com.pe:443/bitel/tvperu/bitel/tvperu_ori_source/chunks.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Panamericana" tvg-name="Panamericana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="Nacional",Panamericana
-https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?uid=1111947
+https://live-evg4.tv360.bitel.com.pe:443/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Atv Sur" tvg-name="Atv Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATV_Sur_-_2018_logo_%28final%29.png" group-title="Nacional",Atv Sur
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1 tvg-id="Justicia TV Peru" tvg-name="Justicia TV Peru" tvg-logo="https://justiciatv.pj.gob.pe/wp-content/uploads/2016/05/logo.png" group-title="Nacional",Justicia TV Peru
