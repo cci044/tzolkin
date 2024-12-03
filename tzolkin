@@ -179,6 +179,8 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnwen/espn6/chunks.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnwen/espn7.stream/chunks.m3u8
 #EXTINF:-1, Fox Sport
 https://bgvnzw5k.la10tv.com:443/foxsports/tracks-v1a1/mono.m3u8?token=f1913eabfa521887986e730731f51ccba0c5a376-d6-1733204720-1733168720
+#EXTINF:-1, Direct TV Sport plus
+https://ym9yzq.la10tv.com:443/dsportsplus/tracks-v1a1/mono.m3u8?token=3406f3b58919b1d48824d556ed1da409651b8b33-10-1733227881-1733191881
 #EXTINF:-1, Direct TV Sport2
 https://lae.pricesaskeloadsc.com:443/dsports_2/tracks-v1a1/mono.m3u8?token=e3bf1855797327afacaecd07bc91ed36816f8a63-18-1733227727-1733191727
 #EXTINF:-1, Movistar Deportes
