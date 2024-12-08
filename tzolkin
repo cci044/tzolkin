@@ -170,7 +170,7 @@ https://cars565.pricesaskeloadsc.com/global/dsports_2/playlist.m3u8?token=2b1392
 #EXTINF:-1, Movistar Deportes
 https://cale.pricesaskeloadsc.com/global/movistar_deportes_peru/index.m3u8?token=84211324372e196d1b530415c3526b9a944d4c48-17-1733263975-1733227975
 #EXTINF:-1, Gol Peru
-http://tvlatino.club:2082/12397FDeaLp/vHdSRyFzYTqD/243976GZmhQaUJjOFNuNUl0amR1V1F4VGFnPT0mdmFsaWRtaW51dGVzPTI0MA==
+http://tvlatino.club:2082/12397FDeaLp/vHdSRyFzYTqD/243976
 #EXTINF:-1, Liga1 Max
 https://z29vzc.la10tv.com:443/liga1max/tracks-v1a1/mono.m3u8?token=1a2cd650f963ef0414a6b2f55f30371a90fa369d-e5-1733228466-1733192466
 #EXTINF:-1, Liga de Campeones
@@ -187,8 +187,6 @@ https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tra
 https://giatv.bozztv.com:443/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 #EXTINF:-1, Hit top
 https://live-evg4.tv360.bitel.com.pe:443/bitel/vmlatino/bitel/vmlatino_ori_source/chunks.m3u8?uid=1111947
-#EXTINF:-1, Music Bruno
-https://stream9.xdevel.com/video0s975758-1052/stream/playlist.m3u8
 #EXTINF:-1, Tendencias Top
 https://s1.tvdatta.com:3950/multi_web/play_1080.m3u8
 #EXTINF:-1, The Retro Channel
