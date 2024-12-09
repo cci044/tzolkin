@@ -113,6 +113,8 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/AZ_Cinema/chunks.m3u8
 https://tv.streaming-chile.com:19360/8140/8140.m3u8
 #EXTINF:-1, Tele clásica 
 https://ssh101-fl.bozztv.com/ssh101/teleclasik/index.m3u8
+#EXTINF:-1, Grjngo TV
+https://amogonetworx-grjngo-2-eu.plex.wurl.tv:443/4300.m3u8
 #EXTINF:-1, Universal Channel
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/universalchannel/chunks.m3u8
 #EXTINF:-1, Studio Universal
