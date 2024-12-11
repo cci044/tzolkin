@@ -165,22 +165,6 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnwen/espn5/chunks.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnwen/espn6/chunks.m3u8
 #EXTINF:-1 tvg-id="Espn 7" tvg-name="Espn 7" tvg-logo="https://i.pinimg.com/originals/30/be/74/30be740563e5b68dd65a1b30472a4a36.jpg" group-title="Nacional",Espn 7
 http://bantel-cdn1.iptvperu.tv:1935/cdnwen/espn7.stream/chunks.m3u8
-#EXTINF:-1, Fox Sport
-https://bgvnzw5k.la10tv.com:443/foxsports/tracks-v1a1/mono.m3u8?token=f1913eabfa521887986e730731f51ccba0c5a376-d6-1733204720-1733168720
-#EXTINF:-1, Direct TV Sport plus
-https://ym9yzq.la10tv.com:443/dsportsplus/tracks-v1a1/mono.m3u8?token=3406f3b58919b1d48824d556ed1da409651b8b33-10-1733227881-1733191881
-#EXTINF:-1, Direct TV Sport2
-https://cars565.pricesaskeloadsc.com/global/dsports_2/playlist.m3u8?token=2b1392ae7eb4722844291ace815d945b8f79f644-c3-1733265214-1733229214
-#EXTINF:-1, Movistar Deportes
-https://cale.pricesaskeloadsc.com/global/movistar_deportes_peru/index.m3u8?token=84211324372e196d1b530415c3526b9a944d4c48-17-1733263975-1733227975
-#EXTINF:-1, Gol Peru
-http://tvlatino.club:2082/12397FDeaLp/vHdSRyFzYTqD/243976
-#EXTINF:-1, Liga1 Max
-http://tvlatino.club:2082/12397FDeaLp/vHdSRyFzYTqD/207701
-#EXTINF:-1, Liga de Campeones
-https://8c5.pricesaskeloadsc.com:443/movistarligadecampeones2/tracks-v1a1/mono.m3u8?token=a10432da92cb5690cff70e96ee547f5fc7b79256-f6-1733230171-1733194171
-#EXTINF:-1, Dazn 1
-https://coeld.pricesaskeloadsc.com:443/dazn1/tracks-v1a1/mono.m3u8?token=9265b84deea701f6d4edd80dd4c172d83bdd91f1-3d-1733208017-1733172017
 #EXTINF:-1, Karibeña
 https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
 #EXTINF:-1, Top Latino
