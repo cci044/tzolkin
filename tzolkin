@@ -91,6 +91,8 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/History2/chunks.m3u8
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:-1, Bob Esponja 2
 http://rey-stream.us:8880/play/oo_gm3-bQ_s6M-skuT3579n7yX15oHP6c0N5ILIe47Q
+#EXTINF:-1, Cartoonito
+http://198.255.5.2:25461/mwtv012020/1d13dwqef34t2oOasxc3!~~2/152744?token=ShsOUUsNR1sRBFtdV1QIUl0KBQAKXFQEU1BWVFNbXA5XAFdUAAdTWVEWFEZBFUoDBV9pXFwbXwBRVlRXBk9GQkJcFG9RAUdbEQUaSBAVUQsBEAwEDwpRAFVSUloHT0ZHWF1EChpXXFQHBBpIEARAEgFAWFRUZgFUEg0ABhBZCkJdVUoSVws6BVZZWQpWQwJEVBAaF1FKFRNeChYPXk9GVVhNFFFMAEdbEQUJXAdDFEQHXUNbTEscE15GNjAQT0ZSSU0DXksMCg8RDhoQQUMURA1BaUddShFDAQUOBkBBXhUAG0oSVQQdPlBbVgpXAkwPC1xFFwIbVgFUVEFPEA4LWVhNCUJnFQwFEQ4aUQpXCEQZ
 #EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Disney_Junior_Logo_2020.png" group-title="Nacional",Disney Jr
 http://bantel-cdn1.iptvperu.tv:1935/cdnijc/disney_jr/chunks.m3u8
 #EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="https://logowik.com/content/uploads/images/nick-jr9053.jpg" group-title="Nacional",Nick Jr
