@@ -66,7 +66,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/lambayeque/bitel/lambayeque_ori_sour
 #EXTINF:-1 tvg-id="DW Internacional" tvg-name="DW Internacional" tvg-logo="https://i.pinimg.com/736x/ce/ca/0e/ceca0eba616c946fdef3303a7baeb3eb.jpg" group-title="Nacional",Dw Internacional
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:-1, CNN
-http://168.181.122.234:8000/play/a01r/index.m3u8?uid=1111947
+http://streamsy.online:2999/PRPLUS/vevnife7/105
 #EXTINF:-1 tvg-id="Nativa TV" tvg-name="Nativa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Nativa_tv.png" group-title="Nacional",Nativa TV
 https://live-evg4.tv360.bitel.com.pe/bitel/nativa/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-chno="16" tvg-id="Telemundo Internacional" tvg-name="Telemundo Internacional" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/styles/article_cover_image/public/images/article/cover/2015/04/14/untitled.jpg" group-title="Nacional",Telemundo Internacional
