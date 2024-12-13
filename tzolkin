@@ -109,6 +109,8 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnijc/FMH_Kids/chunks.m3u8
 https://live-evg4.tv360.bitel.com.pe:443/bitel/funbox/bitel/funbox_ori_source/chunks.m3u8?uid=1111947
 #EXTINF:-1, Moni TV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
+#EXTINF:-1, AMC
+http://streamsy.online:2999/happy2024/newyear/2514
 #EXTINF:-1, Starz Channel
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/StarChannel.stream/chunks.m3u8
 #EXTINF:-1, Azteca Cinema
