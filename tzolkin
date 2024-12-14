@@ -175,6 +175,10 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnwen/espn6/chunks.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnwen/espn7.stream/chunks.m3u8
 #EXTINF:-1, Direct TV 2
 http://rey-stream.us:8880/play/oo_gm3-bQ_s6M-skuT35791CNfrR9iLO85x5eKLrG48
+#EXTINF:-1, Direct TV +
+http://rey-stream.us:8880/play/oo_gm3-bQ_s6M-skuT3571TtJMw9YXGWH0BWUL1Ocug
+#EXTINF:-1, Gol Peru
+http://rey-stream.us:8880/play/oo_gm3-bQ_s6M-skuT35791hCFU9vX30mSFzUeg-DLk
 #EXTINF:-1, Karibeña
 https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
 #EXTINF:-1, Top Latino
