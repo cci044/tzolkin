@@ -173,6 +173,8 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnwen/espn5/chunks.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnwen/espn6/chunks.m3u8
 #EXTINF:-1 tvg-id="Espn 7" tvg-name="Espn 7" tvg-logo="https://i.pinimg.com/originals/30/be/74/30be740563e5b68dd65a1b30472a4a36.jpg" group-title="Nacional",Espn 7
 http://bantel-cdn1.iptvperu.tv:1935/cdnwen/espn7.stream/chunks.m3u8
+#EXTINF:-1, Direct TV 2
+http://rey-stream.us:8880/play/oo_gm3-bQ_s6M-skuT35791CNfrR9iLO85x5eKLrG48
 #EXTINF:-1, Karibeña
 https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/index.fmp4.m3u8
 #EXTINF:-1, Top Latino
