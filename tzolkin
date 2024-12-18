@@ -136,7 +136,7 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnwen/Az_Deportes/chunks.m3u8
 #EXTINF:-1, GolTV-EC
 http://bantel-cdn1.iptvperu.tv:1935/cdnwen/goltv.stream/chunks.m3u8
 #EXTINF:-1, ESPN Premium
-http://51.79.81.69:8080/live/ffaeb25c809f4b6b9dd250982a448fd2/5f5191e5599e4ad58ad3699498f018cd/7.m3u8
+http://rey-stream.us:8880/play/oo_gm3-bQ_s6M-skuT35738y227B8QefuhuZhum123A
 #EXTINF:-1 tvg-id="Espn" tvg-name="Espn" tvg-logo="https://w7.pngwing.com/pngs/109/662/png-transparent-logo-page-footer-espn-magazine-television-text-photograp" group-title="Nacional",Espn
 http://bantel-cdn1.iptvperu.tv:1935/cdnwen/ESPN.stream/chunks.m3u8
 #EXTINF:-1, ESPN 2
