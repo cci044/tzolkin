@@ -87,6 +87,8 @@ http://168.181.122.234:8000/play/a01s/index.m3u
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/History/chunks.m3u8
 #EXTINF:-1, History 2
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/History2/chunks.m3u8
+#EXTINF:-1, Los Simpson Casita Horror
+http://sdmx.vip/Megatvplus/pZNvewtBmjTfAe/2091016
 #EXTINF:-1 tvg-id="Bob Esponja TV" tvg-name="Bob Esponja TV" tvg-logo="https://w7.pngwing.com/pngs/639/164/png-transparent-spongebob-squarepants-with-logo-cartoons-spongebob.png" group-title="Nacional",Bob Esponja TV
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:-1, Bob Esponja 2
