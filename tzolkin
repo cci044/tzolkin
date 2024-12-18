@@ -107,6 +107,8 @@ https://ssh101-fl.bozztv.com/ssh101/teleclasik/index.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/universalchannel/chunks.m3u8
 #EXTINF:-1, Studio Universal
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/studiouniversal/chunks.m3u8
+#EXTINF:-1, TNT
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/tnt/chunks.m3u8?nimblesessionid=280636685
 #EXTINF:-1 tvg-id="Cinecanal" tvg-name="Cinecanal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Cinecanal_HD_%282010%29.png" group-title="Nacional",Cinecanal
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/cinecanal/chunks.m3u8
 #EXTINF:-1, Entertaiment
