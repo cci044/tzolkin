@@ -155,7 +155,7 @@ http://rey-stream.us:8880/play/oo_gm3-bQ_s6M-skuT3570iOrnENSkWmKzwFe5lav8M
 #EXTINF:-1, ESPN 3
 http://rey-stream.us:8880/play/oo_gm3-bQ_s6M-skuT3573FZsTJJ2Z4SpOY14acthhM
 #EXTINF:-1, ESPN 4
-http://bantel-cdn1.iptvperu.tv:1935/cdnwen/Espn4.stream/chunks.m3u8
+http://rey-stream.us:8880/play/oo_gm3-bQ_s6M-skuT35713Xn6oPQrvVdVPpzTMR-LA
 #EXTINF:-1, ESPN 5
 http://bantel-cdn1.iptvperu.tv:1935/cdnwen/espn5/chunks.m3u8
 #EXTINF:-1 tvg-id="Espn 6" tvg-name="Espn 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" group-title="Nacional",Espn 6
