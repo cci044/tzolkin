@@ -166,6 +166,8 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnwen/espn7.stream/chunks.m3u8
 http://rey-stream.us:8880/play/oo_gm3-bQ_s6M-skuT357zriA4HsFOAjk9AbzGFyazk
 #EXTINF:-1, M+ Liga De Campeones
 http://rey-stream.us:8880/play/oo_gm3-bQ_s6M-skuT3573qe5LABt8hoeVZf6XxRTSk
+#EXTINF:-1, TNT Sport
+http://rey-stream.us:8880/play/oo_gm3-bQ_s6M-skuT357yUt2nVBgPIlfiybHhadd_w
 #EXTINF:-1, Direct TV 2
 http://rey-stream.us:8880/play/oo_gm3-bQ_s6M-skuT35791CNfrR9iLO85x5eKLrG48
 #EXTINF:-1, Direct TV +
