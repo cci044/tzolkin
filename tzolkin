@@ -161,7 +161,7 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnwen/espn5/chunks.m3u8
 #EXTINF:-1 tvg-id="Espn 6" tvg-name="Espn 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" group-title="Nacional",Espn 6
 http://rey-stream.us:8880/play/oo_gm3-bQ_s6M-skuT3578VOyfTVVdFjDuXGb7Ap52Q
 #EXTINF:-1 tvg-id="Espn 7" tvg-name="Espn 7" tvg-logo="https://i.pinimg.com/originals/30/be/74/30be740563e5b68dd65a1b30472a4a36.jpg" group-title="Nacional",Espn 7
-http://bantel-cdn1.iptvperu.tv:1935/cdnwen/espn7.stream/chunks.m3u8
+http://rey-stream.us:8880/play/oo_gm3-bQ_s6M-skuT357z2lU5xuruwos1FgrBnZfVU
 #EXTINF:-1, Afizzionados
 http://rey-stream.us:8880/play/oo_gm3-bQ_s6M-skuT357zriA4HsFOAjk9AbzGFyazk
 #EXTINF:-1, M+ Liga De Campeones
