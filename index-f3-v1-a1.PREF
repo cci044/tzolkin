@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:0,Exitosa ᴴᴰ
-https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
-#EXTINF:0,LATINA ᴴᴰ
-https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index.m3u8?aid=5ce70c587398b977dc0743b5&amp;uid=xw5jmxijpnx9kqcoxt8dxgi5zmbimxk7&amp;sid=j2dl7fltgsrgr4bekqdbo8zlcab7m8sz&amp;pid=mlyhivruifnaaptdbn0mkbltrserlkum&amp;ref=https%3a%2f%2fwww.latina.pe%2f&amp;without_cookies=false&amp;listenerid=&amp;dnt=true&amp;es=live-latinav2-mdstrm.secure.footprint.net&amp;proto=https&amp;pz=us&amp;access_token=okhhwl7ipkl5qpjooqlxus3al2xndvccwizhgrz4dibcwcwacc3hi1myzkolqdyvwdlbpicnjak&amp;manifestfilter=video_height:360-480&amp;hash=077d06ac21daee25a2901
-http://170.82.37.21:8000/play/a02o/index.m3u8
+#EXTINF:-1, sh
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://vulpix.kouzentv.win
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; 21121119VL Build/TP1A.220624.014)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:name:MXL TV
+#EXTVLCOPT:tv.mxliptv.app
+#EXTVLCOPT:104.21.75.194:443
+https://vulpix.kouzentv.win/iptv_data/app/script/tv/6438761251bf95187d5109f49c93250f64aa1f77/23504a104e7e73236403e8cb09fd532d1b884004/1008_19.m3u8
