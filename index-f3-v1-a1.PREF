@@ -19,4 +19,25 @@ https://vulpix.kouzentv.win/iptv_data/app/script/tv/6438761251bf95187d5109f49c93
 #EXTVLCOPT:id:tv.mxliptv.app
 #EXTVLCOPT:id:23
 #EXTVLCOPT:remote-address:172.67.180.228:443
+{
+  "ip": "2803:a3e0:10b3:6f40:a5b2:e58e:be05:20a2",
+  "ip_decimal": 5.318802050701472e+37,
+  "country": "Peru",
+  "country_iso": "PE",
+  "country_eu": false,
+  "region_name": "Lambayeque",
+  "region_code": "LAM",
+  "city": "Chiclayo",
+  "latitude": -6.7711,
+  "longitude": -79.8431,
+  "time_zone": "America/Lima",
+  "asn": "AS270068",
+  "asn_org": "DESARROLLO DE INFRAESTRUCTURA DE TELECOMUNICACIONES PERU S.A.C. INFRATEL",
+  "user_agent": {
+    "product": "Mozilla",
+    "version": "5.0",
+    "comment": "(Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36",
+    "raw_value": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Mobile Safari/537.36"
+  }
+}
 https://vulpix.kouzentv.win/iptv_data/app/script/tv/6438761251bf95187d5109f49c93250f64aa1f77/07443fe1de39fdb0337fd1a9171ac1089686370d/100367_9.m3u8
