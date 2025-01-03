@@ -65,16 +65,8 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/History2/chunks.m3u8
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2090881
 #EXTINF:-1, Los Simpson Casita Horror
 http://sdmx.vip/Megatvplus/pZNvewtBmjTfAe/2091016
-#EXTINF:-1, Coraje 
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://vulpix.kouzentv.win
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 13; 21121119VL Build/TP1A.220624.014)
-#EXTVLCOPT:network-caching=dynamic
-#EXTVLCOPT:name:mxltv
-#EXTVLCOPT:id:tv.mxliptv.app
-#EXTVLCOPT:id:23
-#EXTVLCOPT:remote-address:172.67.180.228:443
-https://vulpix.kouzentv.win/iptv_data/app/script/tv/6438761251bf95187d5109f49c93250f64aa1f77/5827b4ce43a41cb60e957252b99a22c8b0ad1216/100367_9.m3u8?s=ne3fzzipBfk3Xx0z94xwlZVxBwQPoBMrJQVRhqbbbde89bvpnKUCdSf2pz6hh%2Bp7nep7QxwawxTeslcPwSSf2hdvO78ta2LfZdgKQWdivBs2Il6c4IW%2F73Z27qUkePUYW%2FUsIp2o=cfL4;desc=?proto=TCP&rtt=115541&min_rtt=95192&rtt_var=41542&sent=6&recv=8&lost=0&retrans=0&sent_bytes=2842&recv_bytes=732&delivery_rate=44359&cwnd=252&unsent_bytes=0&cid=a9032f2392047e8b&ts=330&x=0
+#EXTINF:-1, La Pantera Rosa
+http://rey-stream.us:8880/play/oo_gm3-bQ_s6M-skuT3573AMrOlF9-1KMNI6ShyRbUE
 #EXTINF:-1 tvg-id="Bob Esponja TV" tvg-name="Bob Esponja TV" tvg-logo="https://w7.pngwing.com/pngs/639/164/png-transparent-spongebob-squarepants-with-logo-cartoons-spongebob.png" group-title="Nacional",Bob Esponja TV
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:-1, Bob Esponja 2
