@@ -63,6 +63,8 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/History/chunks.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/History2/chunks.m3u8
 #EXTINF:-1, El Chavo Animado
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2090881
+#EXTINF:-1, El Chavo
+http://rey-stream.us:8880/play/oo_gm3-bQ_s6M-skuT357zduQDPsodvjoE3Rndeqapo
 #EXTINF:-1, Los Simpson Casita Horror
 http://sdmx.vip/Megatvplus/pZNvewtBmjTfAe/2091016
 #EXTINF:-1, Cinema Disney Familia
