@@ -31,6 +31,8 @@ http://bantel-cdn1.iptvperu.tv:1935/cdntij/RPP/chunks.m3u8
 https://live-evg1.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="TV Norte" tvg-name="TV Norte" tvg-logo="https://tunorte.co/wp-content/uploads/2020/02/tunorte-logoweb.jpg" group-title="Nacional",TV Norte
 https://live-evg25.tv360.bitel.com.pe/bitel/tvnorte/bitel/tvnorte_ori_source/chunks.m3u8
+#EXTINF:-1, BNF 
+https://live-evg25.tv360.bitel.com.pe:443/bitel/bitt/chunks.m3u8
 #EXTINF:-1 tvg-id="Telelima" tvg-name="Telelima" tvg-logo="https://www.telelima.pe/img/logoweb1.png" group-title="Nacional",Telelima
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/telelima.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Gamarra Channel" tvg-name="Gamarra Channel" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/b038b9193708333.Y3JvcCw4MDEsNjI2LDI5OSwxNTI.png" group-title="Nacional",Gamarra Channel
