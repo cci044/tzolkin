@@ -6,19 +6,19 @@ https://live-evg1.tv360.bitel.com.pe:443/bitel/latina/bitel/latina_ori_source/ch
 #EXTINF:-1 tvg-id="Willax" tvg-name="Willax" tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2015-205_import.png" group-title="Nacional",Willax
 https://live-evg1.tv360.bitel.com.pe:443/bitel/willax/bitel/willax_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-id="America" tvg-name="America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png" group-title="Nacional",America
-https://live-evg4.tv360.bitel.com.pe:443/-XNT0SwyMkMNm1yWUE6ePw/1737737034/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
+https://live-evg1.tv360.bitel.com.pe:443/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-id="Atv" tvg-name="Atv" tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-E0FD3BBF05-seeklogo.com.png" group-title="Nacional",Atv
-https://live-evg4.tv360.bitel.com.pe:443/bitel/atv/bitel/atv_ori_source/chunks.m3u8?uid=1111947
+https://live-evg1.tv360.bitel.com.pe:443/bitel/atv/bitel/atv_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-id="Atv+" tvg-name="Atv+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title="Nacional",Atv+
-https://live-evg4.tv360.bitel.com.pe:443/bitel/atvmas/bitel/atvmas_ori_source/chunks.m3u8?uid=1111947
+https://live-evg1.tv360.bitel.com.pe:443/bitel/atvmas/bitel/atvmas_ori_source/chunks.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="La Tele" tvg-name="La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/LaTele_Per%C3%BA_2018_Logo.png" group-title="Nacional",La Tele
 http://bantel-cdn1.iptvperu.tv:1935/cdnecl/la-tele/chunks.m3u8
 #EXTINF:-1 tvg-id="Tv peru" tvg-name="Tv Peru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LOGO_TV_PERU_2012.png" group-title="Nacional",Tv peru
-https://live-evg4.tv360.bitel.com.pe:443/bitel/tvperu/bitel/tvperu_ori_source/chunks.m3u8?uid=1111947
+https://live-evg1.tv360.bitel.com.pe:443/bitel/tvperu/bitel/tvperu_ori_source/chunks.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Panamericana" tvg-name="Panamericana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="Nacional",Panamericana
-https://live-evg4.tv360.bitel.com.pe:443/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8?uid=1111947
+https://live-evg1.tv360.bitel.com.pe:443/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Atv Sur" tvg-name="Atv Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATV_Sur_-_2018_logo_%28final%29.png" group-title="Nacional",Atv Sur
-https://alba-pe-atv-atvsur.stream.mediatiquestream.com/original.m3u8
+https://live-evg1.tv360.bitel.com.pe:443/bitel/atvsur/chunks.m3u8
 #EXTINF:-1 tvg-id="Justicia TV Peru" tvg-name="Justicia TV Peru" tvg-logo="https://justiciatv.pj.gob.pe/wp-content/uploads/2016/05/logo.png" group-title="Nacional",Justicia TV Peru
 http://bantel-cdn1.iptvperu.tv:1935/cdntij/justicia.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Canal N Noticias" tvg-name="Canal N Noticias" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/4e22375e9e0c7192c6e44bb70522bf4b.jpg" group-title="Nacional",Canal N Noticias
