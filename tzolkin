@@ -27,6 +27,8 @@ https://live-evg1.tv360.bitel.com.pe:443/bitel/atvsur/chunks.m3u8
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 #EXTINF:-1 tvg-id="Global TV" tvg-name="Global TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png" group-title="Nacional",Global TV
 https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_source/chunks.m3u8
+#EXTINF:-1, Sol Tv
+https://live-evg25.tv360.bitel.com.pe/bitel/soltv/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="PBO Noticias" tvg-name="PBO Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_de_Radio_PBO.jpg" group-title="Nacional",PBO Noticias
 https://live-evg1.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="TV Norte" tvg-name="TV Norte" tvg-logo="https://tunorte.co/wp-content/uploads/2020/02/tunorte-logoweb.jpg" group-title="Nacional",TV Norte
