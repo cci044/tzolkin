@@ -15,18 +15,18 @@ https://live-evg1.tv360.bitel.com.pe:443/bitel/atvmas/bitel/atvmas_ori_source/ch
 https://live-evg1.tv360.bitel.com.pe:443/bitel/latele/chunks.m3u8
 #EXTINF:-1 tvg-id="Tv peru" tvg-name="Tv Peru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LOGO_TV_PERU_2012.png" group-title="Nacional",Tv peru
 https://live-evg1.tv360.bitel.com.pe:443/bitel/tvperu/bitel/tvperu_ori_source/chunks.m3u8?uid=1111947
+#EXTINF:-1, Tv Peru Internacional
+https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
+#EXTINF:-1, Tv Peru Noticias
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 tvg-id="Panamericana" tvg-name="Panamericana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="Nacional",Panamericana
 https://live-evg1.tv360.bitel.com.pe:443/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Atv Sur" tvg-name="Atv Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATV_Sur_-_2018_logo_%28final%29.png" group-title="Nacional",Atv Sur
 https://live-evg1.tv360.bitel.com.pe:443/bitel/atvsur/chunks.m3u8
 #EXTINF:-1, Azteca internacional 
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
-#EXTINF:-1 tvg-id="Canal N Noticias" tvg-name="Canal N Noticias" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/4e22375e9e0c7192c6e44bb70522bf4b.jpg" group-title="Nacional",Canal N Noticias
-http://15.204.58.7/auth/JyVKkxz2mL4rNdzntHw4bInnt6cNmk1s86gKALkzmlJZ24fjCzF06Pso7p6k-ddXBu39Ng4dOIMQryJwTbLa857iBhwdBs2gwNP_VH5JAYHTebQBLzCl68eDBx786NYofn76YryHQqb_RxSZ_-lQESJlTszt-sPN-jHmUEzpUM_dmJmer6BNlarHziTyvxLO6K8UL1QvSXIXXbyX_nNTa-FPol1mF6rN4v0EH4gvgAwM0lg7vq_KaeDyQHNlwFXywQjolsekkwnuaT_u0ZyAcQAiEIIXZOL--R8JdByQ7I-43I9e5iNWkI7FfcmIbN-xHEVscvmpL2sRKroGXs43erBWAUCU-uwxdDT-UYTnTacRt3WOEVQ8jOxl1gYyCuCWnUV05TJC5T3rjjTl_1O7Vmj57bLlZakvcHZ6mfBN5fc-57HRnORc5Fk-JiBYMhT1Gnfj0mmw3EgQ451cgFSQpCCOpPzSh-_zoOZOYquurjW4UZBsl0A33CRDvcZobY5160NyvH_ILzZ8UvsDMdq1bp3rYH1EZ8ai2xBzJGHUqHw4-rd54XYaDsy6AxmqclNm4lxwSQs6wWIaHbQ2kECvHM6J3xGsU4qiKCtFHz31DkDvSB7OIXbXfST_0SitDpphb-5IO-kgj4FxdPk6gyj6bA
 #EXTINF:-1 tvg-id="Global TV" tvg-name="Global TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png" group-title="Nacional",Global TV
 https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_source/chunks.m3u8
-#EXTINF:-1 tvg-id="RPP Noticias" tvg-name="RPP Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/RPP_logo.png" group-title="Nacional",RPP Noticias
-http://bantel-cdn1.iptvperu.tv:1935/cdntij/RPP/chunks.m3u8
 #EXTINF:-1 tvg-id="PBO Noticias" tvg-name="PBO Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_de_Radio_PBO.jpg" group-title="Nacional",PBO Noticias
 https://live-evg1.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="TV Norte" tvg-name="TV Norte" tvg-logo="https://tunorte.co/wp-content/uploads/2020/02/tunorte-logoweb.jpg" group-title="Nacional",TV Norte
@@ -181,7 +181,7 @@ http://rey-stream.us:8880/play/oo_gm3-bQ_s6M-skuT357_NkR3Wn9MZ8jBmlzrQQ-jc
 #EXTINF:-1, ESPN Premium
 http://rey-stream.us:8880/play/oo_gm3-bQ_s6M-skuT357-teL2VVedDa2BNxIPHiLCY
 #EXTINF:-1 tvg-id="Espn" tvg-name="Espn" tvg-logo="https://w7.pngwing.com/pngs/109/662/png-transparent-logo-page-footer-espn-magazine-television-text-photograp" group-title="Nacional",Espn
-http://rey-stream.us:8880/play/oo_gm3-bQ_s6M-skuT3578uYNLGBQINYynUWx_UUsZM
+http://190.102.246.93:9005/play/a026
 #EXTINF:-1, ESPN 2
 http://rey-stream.us:8880/play/oo_gm3-bQ_s6M-skuT3570iOrnENSkWmKzwFe5lav8M
 #EXTINF:-1, ESPN 3
