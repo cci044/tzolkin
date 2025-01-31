@@ -39,8 +39,18 @@ https://live-evg25.tv360.bitel.com.pe/bitel/tvnorte/bitel/tvnorte_ori_source/chu
 https://live-evg25.tv360.bitel.com.pe:443/bitel/bitt/chunks.m3u8
 #EXTINF:-1 tvg-id="Lambayeque TV" tvg-name="Lambayeque TV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/07/25/21/1721919151436/341aa24e0986_640_360.jpg" group-title="Nacional",Lambayeque TV
 https://live-evg25.tv360.bitel.com.pe/bitel/lambayeque/bitel/lambayeque_ori_source/chunks.m3u8
+#EXTINF:-1, Bethel TV
+https://live-evg25.tv360.bitel.com.pe/bitel/bethel/bitel/bethel_ori_source/chunks.m3u8
 #EXTINF:-1, Telelima
 https://live-evg25.tv360.bitel.com.pe/bitel/telelima/playlist.m3u8?uid=1111947
+#EXTINF:-1, Nuestro Canal
+https://live-evg25.tv360.bitel.com.pe/bitel/ncanal/playlist.m3u8?uid=1111947
+#EXTINF:-1, Like TV
+https://live-evg25.tv360.bitel.com.pe/bitel/liketv/playlist.m3u8?uid=1111947
+#EXTINF:-1, Creo TV
+https://live-evg25.tv360.bitel.com.pe/bitel/creo/playlist.m3u8?uid=1111947
+#EXTINF:-1, Conecta2 TV
+https://live-evg25.tv360.bitel.com.pe/bitel/conectado2/bitel/conectado2_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-id="DW Internacional" tvg-name="DW Internacional" tvg-logo="https://i.pinimg.com/736x/ce/ca/0e/ceca0eba616c946fdef3303a7baeb3eb.jpg" group-title="Nacional",Dw Internacional
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 #EXTINF:-1, Imagen TV
@@ -119,6 +129,22 @@ https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8?uid=1111947
 #EXTINF:-1, TV Humor
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1, Movie Fe
+https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
+#EXTINF:-1, Todo Cine
+https://stream.ads.ottera.tv/cl/250131cue5dnp9a2fbn2j5ig00/1280x720_3046884_0_f.m3u8?i=475_4565
+#EXTINF:-1, My Time Movie Network
+https://appletree-mytimespain-rakuten.amagi.tv/1080p/index.m3u8
+#EXTINF:-1, Cine Feel Good Verdi TV
+https://daiconnect.com/live/hls/tvup/tvfy-feelgood/b8ee129e0585ae0c1eb5b4187f8e4fa7/index.m3u8
+#EXTINF:-1, Valle Nuevo TV
+https://media.streambrothers.com:19360/8262/8262.m3u8
+#EXTINF:-1, Grjngo
+https://amogonetworx-grjngo-2-eu.plex.wurl.tv/3000.m3u8
+#EXTINF:-1, Teleclasica
+https://ssh101-fl.bozztv.com/ssh101/teleclasik/index.m3u8
+#EXTINF:-1, TV Prime
+https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8
 #EXTINF:-1, Cinemax
 http://rey-stream.us:8880/play/oo_gm3-bQ_s6M-skuT3570twedlWPe-BWpKMq-IhQzk
 
