@@ -43,11 +43,11 @@ https://live-evg25.tv360.bitel.com.pe/bitel/lambayeque/bitel/lambayeque_ori_sour
 https://live-evg25.tv360.bitel.com.pe/bitel/bethel/bitel/bethel_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-id="TELELIMA" tvg-name="TELELIMA" tvg-logo="https://www.telelima.pe/img/logoweb1.png" group-title="Nacional",TELELIMA
 https://live-evg25.tv360.bitel.com.pe/bitel/telelima/playlist.m3u8?uid=1111947
-#EXTINF:-1, Nuestro Canal
+#EXTINF:-1 tvg-id="NUESTRO CANAL" tvg-name="NUESTRO CANAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzobn0GUh47CUrrsdxc1c1ctv8z20emLnTMw&s" group-title="Nacional",NUESTRO CANAL
 https://live-evg25.tv360.bitel.com.pe/bitel/ncanal/playlist.m3u8?uid=1111947
-#EXTINF:-1, Like TV
+#EXTINF:-1 tvg-id="LIKE TV" tvg-name="LIKE TV" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/liketvpe.jpg" group-title="Nacional",LIKE TV
 https://live-evg25.tv360.bitel.com.pe/bitel/liketv/playlist.m3u8?uid=1111947
-#EXTINF:-1, Creo TV
+#EXTINF:-1 tvg-id="CREO TV" tvg-name="CREO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJJPPuLHtUE0Gext62svRnDz7h0IospOV1rA&s" group-title="Nacional",CREO TV
 https://live-evg25.tv360.bitel.com.pe/bitel/creo/playlist.m3u8?uid=1111947
 #EXTINF:-1, Conecta2 TV
 https://live-evg25.tv360.bitel.com.pe/bitel/conectado2/bitel/conectado2_ori_source/chunks.m3u8
@@ -125,7 +125,7 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnijc/FMH_Kids/chunks.m3u8
 https://live-evg4.tv360.bitel.com.pe:443/bitel/funbox/bitel/funbox_ori_source/chunks.m3u8?uid=1111947
 #EXTINF:-1, Moni TV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
-#EXTINF:-1, FMH Peliculas
+#EXTINF:-1 tvg-id="FMH Peliculas" tvg-name="FMH Peliculas" tvg-logo="https://www.fmh.la/images/logos_slider/movies.png" group-title="Nacional",FMH Peliculas
 https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8?uid=1111947
 #EXTINF:-1, TV Humor
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
