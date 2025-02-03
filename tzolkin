@@ -35,13 +35,13 @@ https://live-evg25.tv360.bitel.com.pe/bitel/neotv/playlist.m3u8?uid=1111947
 https://live-evg1.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="TV Norte" tvg-name="TV Norte" tvg-logo="https://tunorte.co/wp-content/uploads/2020/02/tunorte-logoweb.jpg" group-title="Nacional",TV Norte
 https://live-evg25.tv360.bitel.com.pe/bitel/tvnorte/bitel/tvnorte_ori_source/chunks.m3u8
-#EXTINF:-1, BNF 
+#EXTINF:-1 tvg-id="BITT" tvg-name="BITT" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/bittchannel_op-1.jpg" group-title="Nacional",BITT
 https://live-evg25.tv360.bitel.com.pe:443/bitel/bitt/chunks.m3u8
 #EXTINF:-1 tvg-id="Lambayeque TV" tvg-name="Lambayeque TV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/07/25/21/1721919151436/341aa24e0986_640_360.jpg" group-title="Nacional",Lambayeque TV
 https://live-evg25.tv360.bitel.com.pe/bitel/lambayeque/bitel/lambayeque_ori_source/chunks.m3u8
-#EXTINF:-1, Bethel TV
+#EXTINF:-1 tvg-id="BHETEL" tvg-name="BHETEL" tvg-logo="https://www.newslinereport.com/online/nota_bethel-televisin-ahora-en-hd-.jpg" group-title="Nacional",BHETEL
 https://live-evg25.tv360.bitel.com.pe/bitel/bethel/bitel/bethel_ori_source/chunks.m3u8
-#EXTINF:-1, Telelima
+#EXTINF:-1 tvg-id="TELELIMA" tvg-name="TELELIMA" tvg-logo="https://www.telelima.pe/img/logoweb1.png" group-title="Nacional",TELELIMA
 https://live-evg25.tv360.bitel.com.pe/bitel/telelima/playlist.m3u8?uid=1111947
 #EXTINF:-1, Nuestro Canal
 https://live-evg25.tv360.bitel.com.pe/bitel/ncanal/playlist.m3u8?uid=1111947
