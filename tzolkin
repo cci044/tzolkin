@@ -15,9 +15,9 @@ https://live-evg1.tv360.bitel.com.pe:443/bitel/atvmas/bitel/atvmas_ori_source/ch
 https://live-evg1.tv360.bitel.com.pe:443/bitel/latele/chunks.m3u8
 #EXTINF:-1 tvg-id="Tv peru" tvg-name="Tv Peru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LOGO_TV_PERU_2012.png" group-title="Nacional",Tv peru
 https://live-evg1.tv360.bitel.com.pe:443/bitel/tvperu/bitel/tvperu_ori_source/chunks.m3u8?uid=1111947
-#EXTINF:-1, Tv Peru Internacional
+#EXTINF:-1 tvg-id="TV Peru Internacional" tvg-name="TV Peru Internacional" tvg-logo="https://www.tvperu.gob.pe/sites/default/files/styles/note/public/tvpeint.png?itok=ocrjsP2g" group-title="Nacional",TV Peru Internacional
 https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
-#EXTINF:-1, Tv Peru Noticias
+#EXTINF:-1 tvg-id="TV Peru Noticias" tvg-name="TV Peru Noticias" tvg-logo="" group-title="Nacional",TV Peru Noticias
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 tvg-id="Panamericana" tvg-name="Panamericana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="Nacional",Panamericana
 https://live-evg1.tv360.bitel.com.pe:443/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8?uid=1111947
@@ -27,9 +27,9 @@ https://live-evg1.tv360.bitel.com.pe:443/bitel/atvsur/chunks.m3u8
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 #EXTINF:-1 tvg-id="Global TV" tvg-name="Global TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png" group-title="Nacional",Global TV
 https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_source/chunks.m3u8
-#EXTINF:-1, Sol Tv
+#EXTINF:-1 tvg-id="Sol TV" tvg-name="Sol TV" tvg-logo="https://soltvperu.com/wp-content/uploads/2024/05/logo-sol-tv.png" group-title="Nacional",Sol TV
 https://live-evg25.tv360.bitel.com.pe/bitel/soltv/playlist.m3u8?uid=1111947
-#EXTINF:-1, NeoTV
+#EXTINF:-1 tvg-id="Neo TV" tvg-name="Neo TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc2-aU92aZyWgV4w-JnqhqtYgVlrvcEnXAag&s" group-title="Nacional",Neo TV
 https://live-evg25.tv360.bitel.com.pe/bitel/neotv/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="PBO Noticias" tvg-name="PBO Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_de_Radio_PBO.jpg" group-title="Nacional",PBO Noticias
 https://live-evg1.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8?uid=1111947
