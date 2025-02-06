@@ -129,6 +129,8 @@ https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8?uid=1111947
 #EXTINF:-1, TV Humor
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="TV Prime" tvg-name="TV Prime" tvg-logo="https://play-lh.googleusercontent.com/gquCn_qsLy2j7lnXDuvdvaO8zrCePB_1ahdHKCKeIrT4momD9SjxH2_OmP2hMwcK98k" group-title="Nacional",TV Prime
+https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8
 #EXTINF:-1, Movie Fe
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 #EXTINF:-1, Todo Cine
@@ -143,8 +145,7 @@ https://media.streambrothers.com:19360/8262/8262.m3u8
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/3000.m3u8
 #EXTINF:-1, Teleclasica
 https://ssh101-fl.bozztv.com/ssh101/teleclasik/index.m3u8
-#EXTINF:-1, TV Prime
-https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8
+
 #EXTINF:-1, Cinemax
 http://rey-stream.us:8880/play/oo_gm3-bQ_s6M-skuT3570twedlWPe-BWpKMq-IhQzk
 
@@ -172,8 +173,6 @@ http://streamsy.online:2999/PRPLUS/vevnife7/79
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/StarChannel.stream/chunks.m3u8
 #EXTINF:-1, Azteca Cinema
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/AZ_Cinema/chunks.m3u8
-#EXTINF:-1, Terror TV
-https://tv.streaming-chile.com:19360/8140/8140.m3u8
 #EXTINF:-1, Tele clásica 
 https://ssh101-fl.bozztv.com/ssh101/teleclasik/index.m3u8
 #EXTINF:-1, Universal Channel
