@@ -79,12 +79,6 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/NatGeo/chunks.m3u8
 http://168.181.122.234:8000/play/a01s/index.m3u
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/History-Logo.png" group-title="Nacional",History
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/History/chunks.m3u8
-#EXTINF:-1, Los archivos del FBI
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67d41b93312100076f3fca/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1, Misterios Medicos
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f230e416b68ff00075b0139/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1, Archivos Forenses
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1, History 2
 http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/History2/chunks.m3u8
 #EXTINF:-1, Historias de Ultratumba
@@ -121,8 +115,6 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnijc/canalinfantil/chunks.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/cdnijc/FMH_Kids/chunks.m3u8
 #EXTINF:-1, Funbox
 https://live-evg4.tv360.bitel.com.pe:443/bitel/funbox/bitel/funbox_ori_source/chunks.m3u8?uid=1111947
-#EXTINF:-1, Moni TV
-https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 #EXTINF:-1 tvg-id="FMH Peliculas" tvg-name="FMH Peliculas" tvg-logo="https://www.fmh.la/images/logos_slider/movies.png" group-title="Nacional",FMH Peliculas
 https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8?uid=1111947
 #EXTINF:-1, TV Humor
