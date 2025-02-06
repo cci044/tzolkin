@@ -23,12 +23,10 @@ https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 https://live-evg1.tv360.bitel.com.pe:443/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Atv Sur" tvg-name="Atv Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATV_Sur_-_2018_logo_%28final%29.png" group-title="Nacional",Atv Sur
 https://live-evg1.tv360.bitel.com.pe:443/bitel/atvsur/chunks.m3u8
-#EXTINF:-1, Azteca internacional 
-https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
-#EXTINF:-1 tvg-id="Global TV" tvg-name="Global TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png" group-title="Nacional",Global TV
-https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-id="Sol TV" tvg-name="Sol TV" tvg-logo="https://soltvperu.com/wp-content/uploads/2024/05/logo-sol-tv.png" group-title="Nacional",Sol TV
 https://live-evg25.tv360.bitel.com.pe/bitel/soltv/playlist.m3u8?uid=1111947
+#EXTINF:-1 tvg-id="Global TV" tvg-name="Global TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png" group-title="Nacional",Global TV
+https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-id="Neo TV" tvg-name="Neo TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc2-aU92aZyWgV4w-JnqhqtYgVlrvcEnXAag&s" group-title="Nacional",Neo TV
 https://live-evg25.tv360.bitel.com.pe/bitel/neotv/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="PBO Noticias" tvg-name="PBO Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_de_Radio_PBO.jpg" group-title="Nacional",PBO Noticias
@@ -49,17 +47,17 @@ https://live-evg25.tv360.bitel.com.pe/bitel/ncanal/playlist.m3u8?uid=1111947
 https://live-evg25.tv360.bitel.com.pe/bitel/liketv/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="CREO TV" tvg-name="CREO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJJPPuLHtUE0Gext62svRnDz7h0IospOV1rA&s" group-title="Nacional",CREO TV
 https://live-evg25.tv360.bitel.com.pe/bitel/creo/playlist.m3u8?uid=1111947
-#EXTINF:-1, Conecta2 TV
+#EXTINF:-1 tvg-id="Conecta2" tvg-name="Conecta2" tvg-logo="https://conecta2.pe/wp-content/uploads/2023/09/logo.png" group-title="Nacional",Conecta2
 https://live-evg25.tv360.bitel.com.pe/bitel/conectado2/bitel/conectado2_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-id="DW Internacional" tvg-name="DW Internacional" tvg-logo="https://i.pinimg.com/736x/ce/ca/0e/ceca0eba616c946fdef3303a7baeb3eb.jpg" group-title="Nacional",Dw Internacional
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
-#EXTINF:-1, Imagen TV
+#EXTINF:-1 tvg-id="Azteca  Internacional" tvg-name="Azteca  Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Azteca_Internacional_2008.png/revision/latest?cb=20200207215451&path-prefix=es" group-title="Nacional",Azteca  Internacional
+https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
+#EXTINF:-1 tvg-id="Imagen tv" tvg-name="Imagen tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" group-title="Nacional",Imagen tv
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/IMAGEN/40-hls/live-media.m3u8
-#EXTINF:-1, TV5
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/CANAL5/40-hls/live-media.m3u8
-#EXTINF:-1, Puebla TV
+#EXTINF:-1 tvg-id="Puebla" tvg-name="Puebla" tvg-logo="https://i1.sndcdn.com/artworks-000109810993-vtd560-t500x500.jpg" group-title="Nacional",Puebla
 https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
-#EXTINF:-1 tvg-chno="16" tvg-id="Telemundo Internacional" tvg-name="Telemundo Internacional" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/styles/article_cover_image/public/images/article/cover/2015/04/14/untitled.jpg" group-title="Nacional",Telemundo Internacional
+#EXTINF:-1 tvg-id="Telemundo Internacional" tvg-name="Telemundo Internacional" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/styles/article_cover_image/public/images/article/cover/2015/04/14/untitled.jpg" group-title="Nacional",Telemundo Internacional
 http://51.79.81.69:8080/live/5bb1d796ffbd446a9f4dccafc81ca352/5850952ce750443faa258be29fd97d22/56.m3u8
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Nacional",Las Estrellas
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/ESTRELLAS/20-hls/live-media.m3u8
