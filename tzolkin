@@ -63,20 +63,6 @@ http://51.79.81.69:8080/live/5bb1d796ffbd446a9f4dccafc81ca352/5850952ce750443faa
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/ESTRELLAS/20-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="Tl Novelas" tvg-name="Tl Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/2560px-Tlnovelas_2011_logo.svg.png" group-title="Nacional",Tl Novelas
 http://51.79.81.69:8080/live/825e01bc6ded4df9b608d98323f9a854/b5885f0464ab42a8895ee565d977834b/57.m3u8
-#EXTINF:-1 tvg-id="Pasiones" tvg-name="Pasiones" tvg-logo="https://logowik.com/content/uploads/images/pasiones-tv1683.jpg" group-title="Nacional",Pasiones
-http://181.78.27.128:8000/play/a00r/index.m3u8
-#EXTINF:-1, Animal Planet
-http://181.78.27.128:8000/play/a03l/index.m3u8
-#EXTINF:-1, life time
-http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/lifetime/chunks.m3u8
-#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://greyboxcreativemain.b-cdn.net/wp-content/uploads/2020/01/National-Geographic-logo.jpg" group-title="Nacional",National Geographic
-http://181.78.27.128:8000/play/a01g/index.m3u8
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://w7.pngwing.com/pngs/934/382/png-transparent-logo-discovery-channel-brazil-discovery-inc-animal-planet-design-text-logo-brazil.png" group-title="Nacional",Discovery Channel
-http://181.78.27.128:8000/play/a03k/index.m3u8
-#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://logos-world.net/wp-content/uploads/2023/07/History-Logo.png" group-title="Nacional",History
-http://181.78.27.128:8000/play/a01h/index.m3u8
-#EXTINF:-1, History 2
-http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/History2/chunks.m3u8
 #EXTINF:-1, El Chavo Animado
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2090881
 #EXTINF:-1 tvg-id="Bob Esponja TV" tvg-name="Bob Esponja TV" tvg-logo="https://w7.pngwing.com/pngs/639/164/png-transparent-spongebob-squarepants-with-logo-cartoons-spongebob.png" group-title="Nacional",Bob Esponja TV
@@ -85,26 +71,46 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d85
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1, Cartoon Network
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/CARTOON/20-hls/live-media.m3u8
-#EXTINF:-1, Cartoonito
-http://181.78.27.128:8000/play/a003/index.m3u8
-#EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Disney_Junior_Logo_2020.png" group-title="Nacional",Disney Jr
-http://181.78.27.128:8000/play/a02a/index.m3u8
 #EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="https://logowik.com/content/uploads/images/nick-jr9053.jpg" group-title="Nacional",Nick Jr
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-Nickelodeon.png" group-title="Nacional",Nickelodeon
-http://181.78.27.128:8000/play/a01f/index.m3u8
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://w7.pngwing.com/pngs/223/1022/png-transparent-disney-channel-television-show-television-channel-the-walt-disney-company-pixel-disney-television-blue-text.png" group-title="Nacional",Disney Channel
-http://181.78.27.128:8000/play/a03k/index.m3u8
-#EXTINF:-1, Bitme
-http://rey-stream.us:8880/play/oo_gm3-bQ_s6M-skuT357-V-99aaK2GxfwLbqZsjyfM
 #EXTINF:-1 tvg-id="FMH Kids" tvg-name="FMH Kids" tvg-logo="https://www.fmh.la/images/logos_slider/kids.png" group-title="Nacional",FMH Kids
 http://bantel-cdn1.iptvperu.tv:1935/cdnijc/FMH_Kids/chunks.m3u8
 #EXTINF:-1, Funbox
 https://live-evg4.tv360.bitel.com.pe:443/bitel/funbox/bitel/funbox_ori_source/chunks.m3u8?uid=1111947
+#EXTINF:-1, Moni TV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/monitv/playlist.m3u8
+#EXTINF:-1, Moni TV2
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
+#EXTINF:-1, Uva TV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvhduva/playlist.m3u8
+#EXTINF:-1, FunTV Retro
+https://giatv.bozztv.com/giatv/giatv-funtvretro/funtvretro/playlist.m3u8
 #EXTINF:-1 tvg-id="FMH Peliculas" tvg-name="FMH Peliculas" tvg-logo="https://www.fmh.la/images/logos_slider/movies.png" group-title="Nacional",FMH Peliculas
 https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8?uid=1111947
-#EXTINF:-1, TV Humor
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1, Linea TV
+https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8
+#EXTINF:-1, Wow Channel
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/wowchannelsd/playlist.m3u8
+#EXTINF:-1, RetroxCR
+https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8
+#EXTINF:-1, MixBolivia
+https://giatv.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
+#EXTINF:-1, Gogo Play
+https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAYTVE/NEOGOGOPLAYTVE/playlist.m3u8
+#EXTINF:-1, CN10CostaRica
+https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8
+#EXTINF:-1, Wensterteve
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/westernteve/playlist.m3u8
+#EXTINF:-1, Ciudad Magica
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/verycoolfgr/playlist.m3u8
+#EXTINF:-1, La InterTV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/laintertv/playlist.m3u8
+#EXTINF:-1, Tele Altura
+https://fl1004.bozztv.com/ssh101/codificador7/playlist.m3u8
+#EXTINF:-1, SumaTV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/makins/playlist.m3u8
+#EXTINF:-1, R&E
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/retv/playlist.m3u8
 #EXTINF:-1 tvg-id="TV Prime" tvg-name="TV Prime" tvg-logo="https://play-lh.googleusercontent.com/gquCn_qsLy2j7lnXDuvdvaO8zrCePB_1ahdHKCKeIrT4momD9SjxH2_OmP2hMwcK98k" group-title="Nacional",TV Prime
 https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8
 #EXTINF:-1, Movie Fe
@@ -121,48 +127,44 @@ https://media.streambrothers.com:19360/8262/8262.m3u8
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/3000.m3u8
 #EXTINF:-1, Teleclasica
 https://ssh101-fl.bozztv.com/ssh101/teleclasik/index.m3u8
-#EXTINF:-1, Cinemax
-http://181.78.27.128:8000/play/a031/index.m3u8
-#EXTINF:-1, SYFY
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/SYFY/20-hls/live-media.m3u8
-#EXTINF:-1, AMC
-http://streamsy.online:2999/PRPLUS/vevnife7/1741
-#EXTINF:-1, Space
-http://streamsy.online:2999/PRPLUS/vevnife7/79
-#EXTINF:-1, Starz Channel
-http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/StarChannel.stream/chunks.m3u8
-#EXTINF:-1, Azteca Cinema
-http://bantel-cdn1.iptvperu.tv:1935/cdnnjf/AZ_Cinema/chunks.m3u8
+#EXTINF:-1, DMJ
+https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
+#EXTINF:-1, Planeta
+https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Doble A
+https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
+#EXTINF:-1, PancTV
+https://panel.host-live.com:19360/81500/81500.m3u8
+#EXTINF:-1, Señal Peru
+https://livestream.perucast.com/low/stream_low/index.m3u8
+#EXTINF:-1, Super Canal
+https://live.obslivestream.com/supercanal/index.m3u8
+#EXTINF:-1, Bella Azuncion
+https://tvdatta.com:3602/stream/play.m3u8
+#EXTINF:-1, Nova Star
+https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
+#EXTINF:-1, Master
+https://live.obslivestream.com/regionaltv/index.m3u8
+#EXTINF:-1, +Cine
+https://tv.streaming-chile.com:19360/8142/8142.m3u8?WebM3UCL
+#EXTINF:-1, +Cine Clasico
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/playlist.m3u8
+#EXTINF:-1, Cinema Time2
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/cinematimetv2/playlist.m3u8
+#EXTINF:-1, Pantalla Clasico
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
+#EXTINF:-1, Yisus Go
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/yigo/playlist.m3u8
+#EXTINF:-1, Sport Monterrey
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/sportsgroupmty/playlist.m3u8
 #EXTINF:-1, Tele clásica 
 https://ssh101-fl.bozztv.com/ssh101/teleclasik/index.m3u8
-#EXTINF:-1, Universal Channel
-http://181.78.27.128:8000/play/a01j/index.m3u8
-#EXTINF:-1, Studio Universal
-http://181.78.27.128:8000/play/a02c/index.m3u8
-#EXTINF:-1, TNT
-http://181.78.27.128:8000/play/a01r/index.m3u8
-#EXTINF:-1 tvg-id="Cinecanal" tvg-name="Cinecanal" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Cinecanal_HD_%282010%29.png" group-title="Nacional",Cinecanal
-http://181.78.27.128:8000/play/a01i/index.m3u8
-#EXTINF:-1, Entertaiment
-http://181.78.27.128:8000/play/a03n/index.m3u8
-#EXTINF:-1 tvg-id="Paramount Network" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Paramount_Network_%28Black%29_Logo.png" group-title="Nacional",Paramount Network
-http://181.78.105.146:8800/play/a00z
-#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://w7.pngwing.com/pngs/211/697/png-transparent-fxx-logo-television-show-television-channel-tv-channel-television-angle-text.png" group-title="Nacional",FX
-http://181.78.27.128:8000/play/a035/index.m3u8
-#EXTINF:-1, Golden
-http:\\181.78.105.146:8800\play\a02b
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/AE-logo.png" group-title="Nacional",A&E
-http://181.78.27.128:8000/play/a03s/index.m3u8
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://w7.pngwing.com/pngs/842/991/png-transparent-axn-television-channel-pay-television-logo-others-miscellaneous-television-angle.png" group-title="Nacional",AXN
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/AXN/40-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="Gam TV" tvg-name="Gam TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/GamaTV_2006.png" group-title="Nacional",Gam TV
 https://v2.azulstream.com:8081/gamtv/gamtv/playlist.m3u8
-#EXTINF:-1 tvg-id="Sony Cine" tvg-name="Sony Cine" tvg-logo="https://www.pngitem.com/pimgs/m/189-1891635_cine-sony-channel-logo-hd-png-download.png" group-title="Nacional",Sony Cine
-http://181.78.27.128:8000/play/a032/index.m3u8
-#EXTINF:-1, Sony Channel
-http://181.78.105.146:8800/play/a04w
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Logo_Distrito_Comedia.png" group-title="Nacional",Distrito Comedia
 http://51.79.81.69:8080/live/f8f1c1bd2d0d4b62b70a72c8ac8db4c4/0b15f7ef43f749118fb2edf73017f129/55.m3u8
+#EXTINF:-1, TV Humor
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="Espn" tvg-name="Espn" tvg-logo="https://w7.pngwing.com/pngs/109/662/png-transparent-logo-page-footer-espn-magazine-television-text-photograp" group-title="Nacional",Espn
 http://181.78.27.128:8000/play/a03q/index.m3u8
 #EXTINF:-1, ESPN 2
@@ -173,22 +175,12 @@ http://181.78.27.128:8000/play/a03f/index.m3u8
 http://181.78.27.128:8000/play/a04b/index.m3u8
 #EXTINF:-1, ESPN 6
 http://45.71.254.1:8000/play/a0e9/index.m3u8
-#EXTINF:-1, FutTV
-http://45.71.254.1:8000/play/a0e5/index.m3u8
-#EXTINF:-1, M+ Liga De Campeones
-http://181.78.105.146:8800/play/a07h
-#EXTINF:-1, TNT Sport
-http://181.78.27.128:8000/play/a064/index.m3u8
-#EXTINF:-1, Direct TV 2
-http://rey-stream.us:8880/play/oo_gm3-bQ_s6M-skuT35791CNfrR9iLO85x5eKLrG48
-#EXTINF:-1, Direct TV +
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/11047
-#EXTINF:-1, Gol Peru
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10921
-#EXTINF:-1, La liga1 max
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2159178
-#EXTINF:-1, Tudn
-http://181.78.105.146:8800/play/a07e
+#EXTINF:-1, Zoy Sport
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/zoytvsports/playlist.m3u8
+#EXTINF:-1, Liga 1
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/cazador1/playlist.m3u8
+#EXTINF:-1, Linea Deportiva
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/lineasports/playlist.m3u8
 #EXTINF:-1, TyC Sport
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
 #EXTINF:-1, AyM Sport
@@ -211,4 +203,6 @@ https://live-evg4.tv360.bitel.com.pe:443/bitel/vmlatino/bitel/vmlatino_ori_sourc
 https://s1.tvdatta.com:3950/multi_web/play_1080.m3u8
 #EXTINF:-1, The Retro Channel
 https://5fd5567570c0e.streamlock.net:443/theretrochannel/stream/chunklist_w1129775069.m3u8
+#EXTINF:-1, La Inolvidable Corazon
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/corazon/playlist.m3u8
 
