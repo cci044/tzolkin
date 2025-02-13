@@ -74,15 +74,13 @@ https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/CARTOON/20-hls/live-media.m3u8
 #EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="https://logowik.com/content/uploads/images/nick-jr9053.jpg" group-title="Nacional",Nick Jr
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="FMH Kids" tvg-name="FMH Kids" tvg-logo="https://www.fmh.la/images/logos_slider/kids.png" group-title="Nacional",FMH Kids
-http://bantel-cdn1.iptvperu.tv:1935/cdnijc/FMH_Kids/chunks.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids/playlist.m3u8?uid=1111947
 #EXTINF:-1, Funbox
 https://live-evg4.tv360.bitel.com.pe:443/bitel/funbox/bitel/funbox_ori_source/chunks.m3u8?uid=1111947
 #EXTINF:-1, Moni TV2
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
 #EXTINF:-1, Uva TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvhduva/playlist.m3u8
-#EXTINF:-1, FunTV Retro
-https://giatv.bozztv.com/giatv/giatv-funtvretro/funtvretro/playlist.m3u8
 #EXTINF:-1 tvg-id="FMH Peliculas" tvg-name="FMH Peliculas" tvg-logo="https://www.fmh.la/images/logos_slider/movies.png" group-title="Nacional",FMH Peliculas
 https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8?uid=1111947
 #EXTINF:-1, Linea TV
@@ -114,7 +112,7 @@ https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8
 #EXTINF:-1, Movie Fe
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 #EXTINF:-1, Todo Cine
-https://stream.ads.ottera.tv/cl/250131cue5dnp9a2fbn2j5ig00/1280x720_3046884_0_f.m3u8?i=475_4565
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
 #EXTINF:-1, My Time Movie Network
 https://appletree-mytimespain-rakuten.amagi.tv/1080p/index.m3u8
 #EXTINF:-1, Cine Feel Good Verdi TV
@@ -195,8 +193,6 @@ https://live-evg25.tv360.bitel.com.pe:443/bitel/toplatino/chunks.m3u8?uid=111194
 https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tracetv-tracelatina-xiaomi/cb573f166577639098c83e78d1f04982e65939d91374942a6bb455956bc10d4d83bff6c2bb49e66041cd1f8a61176c500831d64bd62906da8b2bfc04327e1e739390e47dbbc928218a09f4e71899487b32ec33708e7c1777dda9291c8429b06a776b826b4077424039949f5c6fbbdf48cf2739faf08823602e0b75af476de7b6667bc8c08ed07398b1616e38bce7263417e98dbceca1bfa506cb01df25a00beecaa9d88247ddecb2599408e93c1d4c3232cdce28c1870dc4bae00933fd263027fe341b1744242877aa42d681e5a2b2ca223a0063b2842d/7/1920x1080_4716800/index.m3u8
 #EXTINF:-1, Mix Hit
 https://giatv.bozztv.com:443/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
-#EXTINF:-1, Hit top
-https://live-evg4.tv360.bitel.com.pe:443/bitel/vmlatino/bitel/vmlatino_ori_source/chunks.m3u8?uid=1111947
 #EXTINF:-1, Tendencias Top
 https://s1.tvdatta.com:3950/multi_web/play_1080.m3u8
 #EXTINF:-1, The Retro Channel
