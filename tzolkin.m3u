@@ -79,6 +79,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids/playlist.m3u8?uid=1111947
 https://live-evg4.tv360.bitel.com.pe:443/bitel/funbox/bitel/funbox_ori_source/chunks.m3u8?uid=1111947
 #EXTINF:-1, Moni TV2
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
+#EXTINF:-1, El MagoTV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/elmagotv2/playlist.m3u8
 #EXTINF:-1, Uva TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvhduva/playlist.m3u8
 #EXTINF:-1 tvg-id="FMH Peliculas" tvg-name="FMH Peliculas" tvg-logo="https://www.fmh.la/images/logos_slider/movies.png" group-title="Nacional",FMH Peliculas
@@ -95,6 +97,8 @@ https://giatv.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
 https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAYTVE/NEOGOGOPLAYTVE/playlist.m3u8
 #EXTINF:-1, CN10CostaRica
 https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8
+#EXTINF:-1, Opinion Sur
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/opinionsur/playlist.m3u8
 #EXTINF:-1, Wensterteve
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/westernteve/playlist.m3u8
 #EXTINF:-1, Ciudad Magica
