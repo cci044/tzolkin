@@ -115,8 +115,8 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/retv/playlist.m3u8
 https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8
 #EXTINF:-1, Movie Fe
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
-#EXTINF:-1, Todo Cine
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4565
+#EXTINF:-1, Cine.Ar
+https://dsr.ride.com.ar/tvmia/an16/playlist.m3u8
 #EXTINF:-1, My Time Movie Network
 https://appletree-mytimespain-rakuten.amagi.tv/1080p/index.m3u8
 #EXTINF:-1, Cine Feel Good Verdi TV
@@ -155,6 +155,12 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/cinematimetv2/playlist.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
 #EXTINF:-1, Yisus Go
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/yigo/playlist.m3u8
+#EXTINF:-1, El PalomarTV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvhd211/playlist.m3u8
+#EXTINF:-1, Canal69
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/canal69/playlist.m3u8
+#EXTINF:-1, Canal7 Salta
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/canal7salta/playlist.m3u8
 #EXTINF:-1, Sport Monterrey
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/sportsgroupmty/playlist.m3u8
 #EXTINF:-1, Tele clásica 
@@ -203,4 +209,5 @@ https://s1.tvdatta.com:3950/multi_web/play_1080.m3u8
 https://5fd5567570c0e.streamlock.net:443/theretrochannel/stream/chunklist_w1129775069.m3u8
 #EXTINF:-1, La Inolvidable Corazon
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/corazon/playlist.m3u8
-
+#EXTINF:-1, Only Radio FMV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/onlyradio11/playlist.m3u8
