@@ -70,11 +70,15 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d85
 #EXTINF:-1, Nick Clasico
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1, Cartoon Network
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/CARTOON/20-hls/live-media.m3u8
+http://89.117.146.57/televall/YbVVqpeaWU/58.m3u8
 #EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="https://logowik.com/content/uploads/images/nick-jr9053.jpg" group-title="Nacional",Nick Jr
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="FMH Kids" tvg-name="FMH Kids" tvg-logo="https://www.fmh.la/images/logos_slider/kids.png" group-title="Nacional",FMH Kids
 https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids/playlist.m3u8?uid=1111947
+#EXTINF:-1, Tooncast
+http://89.117.146.57/televall/YbVVqpeaWU/64.m3u8
+#EXTINF:-1, Bitme 
+http://89.117.146.57/televall/YbVVqpeaWU/65.m3u8
 #EXTINF:-1, Funbox
 https://live-evg4.tv360.bitel.com.pe:443/bitel/funbox/bitel/funbox_ori_source/chunks.m3u8?uid=1111947
 #EXTINF:-1, Moni TV2
@@ -85,6 +89,16 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/elmagotv2/playlist.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvhduva/playlist.m3u8
 #EXTINF:-1 tvg-id="FMH Peliculas" tvg-name="FMH Peliculas" tvg-logo="https://www.fmh.la/images/logos_slider/movies.png" group-title="Nacional",FMH Peliculas
 https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8?uid=1111947
+#EXTINF:-1, DPelicula
+http://89.117.146.57/televall/YbVVqpeaWU/70.m3u8
+#EXTINF:-1, Cinemax
+http://89.117.146.57/televall/YbVVqpeaWU/75.m3u8
+#EXTINF:-1, Paramount Network
+http://89.117.146.57/televall/YbVVqpeaWU/74.m3u8
+#EXTINF:-1, MP Player
+http://89.117.146.57/televall/YbVVqpeaWU/72.m3u8
+#EXTINF:-1, CineCanal
+http://89.117.146.57/televall/YbVVqpeaWU/69.m3u8
 #EXTINF:-1, Linea TV
 https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8
 #EXTINF:-1, Wow Channel
@@ -194,7 +208,7 @@ https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 #EXTINF:-1, Fox Sport
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 #EXTINF:-1, Beins Sport
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/2a3fbb29-0bc8-45fb-94b0-f7c8a08002a0/1.m3u8
 #EXTINF:-1, Karibeña
 https://live-evg25.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/playlist.m3u8?uid=1111947
 #EXTINF:-1, Top Latino
