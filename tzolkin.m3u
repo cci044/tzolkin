@@ -99,6 +99,16 @@ http://89.117.146.57/televall/YbVVqpeaWU/74.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/72.m3u8
 #EXTINF:-1, CineCanal
 http://89.117.146.57/televall/YbVVqpeaWU/69.m3u8
+#EXTINF:-1, Sony Channel
+http://89.117.146.57/televall/YbVVqpeaWU/22.m3u8
+#EXTINF:-1, Warner
+http://89.117.146.57/televall/YbVVqpeaWU/22.m3u8
+#EXTINF:-1, FX
+http://89.117.146.57/televall/YbVVqpeaWU/23.m3u8
+#EXTINF:-1, AXN
+http://89.117.146.57/televall/YbVVqpeaWU/27.m3u8
+#EXTINF:-1, TNT Series
+http://89.117.146.57/televall/YbVVqpeaWU/33.m3u8
 #EXTINF:-1, Linea TV
 https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8
 #EXTINF:-1, Wow Channel
