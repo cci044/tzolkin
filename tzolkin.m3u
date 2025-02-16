@@ -71,26 +71,22 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d85
 https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Anime Onegai" tvg-name="Anime Onegai" tvg-logo="https://m.media-amazon.com/images/I/41HfqRzfnLL.pnghttps://m.media-amazon.com/images/I/41HfqRzfnLL.png" group-title="Nacional",Anime Onegai
 https://live-evg25.tv360.bitel.com.pe/bitel/animeOnegai/bitel/animeOnegai_ori_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/f/ff/Tooncas_logo_jpg.png/revision/latest?cb=20140720173926&path-prefix=es" group-title="Nacional",Tooncast
+http://89.117.146.57/televall/YbVVqpeaWU/64.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png" group-title="Nacional",Cartoon Network
 http://89.117.146.57/televall/YbVVqpeaWU/58.m3u8
-#EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="https://logowik.com/content/uploads/images/nick-jr9053.jpg" group-title="Nacional",Nick Jr
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="FMH Kids" tvg-name="FMH Kids" tvg-logo="https://www.fmh.la/images/logos_slider/kids.png" group-title="Nacional",FMH Kids
-https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids/playlist.m3u8?uid=1111947
-#EXTINF:-1, Tooncast
-http://89.117.146.57/televall/YbVVqpeaWU/64.m3u8
-#EXTINF:-1, Bitme 
+#EXTINF:-1 tvg-id="Bitme" tvg-name="Bitme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/1200px-BitMe_logo.svg.png" group-title="Nacional",Bitme
 http://89.117.146.57/televall/YbVVqpeaWU/65.m3u8
-#EXTINF:-1, Funbox
-https://live-evg4.tv360.bitel.com.pe:443/bitel/funbox/bitel/funbox_ori_source/chunks.m3u8?uid=1111947
-#EXTINF:-1, Moni TV2
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/monitvhd/playlist.m3u8
+#EXTINF:-1 tvg-id="FMH Peliculas" tvg-name="FMH Peliculas" tvg-logo="https://www.fmh.la/images/logos_slider/movies.png" group-title="Nacional",FMH Peliculas
+https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8?uid=1111947
+#EXTINF:-1 tvg-id="TV Prime" tvg-name="TV Prime" tvg-logo="https://play-lh.googleusercontent.com/gquCn_qsLy2j7lnXDuvdvaO8zrCePB_1ahdHKCKeIrT4momD9SjxH2_OmP2hMwcK98k" group-title="Nacional",TV Prime
+https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8
+#EXTINF:-1 tvg-id="Cine.ar" tvg-name="Cine.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcStfpw8PuGprAhAtj0GAL5XX-1bt9ZWLr8Q&s" group-title="Nacional",Cine.ar
+https://dsr.ride.com.ar/tvmia/an16/playlist.m3u8
 #EXTINF:-1, El MagoTV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/elmagotv2/playlist.m3u8
 #EXTINF:-1, Uva TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvhduva/playlist.m3u8
-#EXTINF:-1 tvg-id="FMH Peliculas" tvg-name="FMH Peliculas" tvg-logo="https://www.fmh.la/images/logos_slider/movies.png" group-title="Nacional",FMH Peliculas
-https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8?uid=1111947
 #EXTINF:-1, DPelicula
 http://89.117.146.57/televall/YbVVqpeaWU/70.m3u8
 #EXTINF:-1, Cinemax
@@ -137,12 +133,8 @@ https://fl1004.bozztv.com/ssh101/codificador7/playlist.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/makins/playlist.m3u8
 #EXTINF:-1, R&E
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/retv/playlist.m3u8
-#EXTINF:-1 tvg-id="TV Prime" tvg-name="TV Prime" tvg-logo="https://play-lh.googleusercontent.com/gquCn_qsLy2j7lnXDuvdvaO8zrCePB_1ahdHKCKeIrT4momD9SjxH2_OmP2hMwcK98k" group-title="Nacional",TV Prime
-https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8
 #EXTINF:-1, Movie Fe
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
-#EXTINF:-1, Cine.Ar
-https://dsr.ride.com.ar/tvmia/an16/playlist.m3u8
 #EXTINF:-1, My Time Movie Network
 https://appletree-mytimespain-rakuten.amagi.tv/1080p/index.m3u8
 #EXTINF:-1, Cine Feel Good Verdi TV
