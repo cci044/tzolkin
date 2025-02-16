@@ -50,7 +50,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/creo/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Conecta2" tvg-name="Conecta2" tvg-logo="https://conecta2.pe/wp-content/uploads/2023/09/logo.png" group-title="Nacional",Conecta2
 https://live-evg25.tv360.bitel.com.pe/bitel/conectado2/bitel/conectado2_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-id="DW Internacional" tvg-name="DW Internacional" tvg-logo="https://i.pinimg.com/736x/ce/ca/0e/ceca0eba616c946fdef3303a7baeb3eb.jpg" group-title="Nacional",Dw Internacional
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="Azteca  Internacional" tvg-name="Azteca  Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Azteca_Internacional_2008.png/revision/latest?cb=20200207215451&path-prefix=es" group-title="Nacional",Azteca  Internacional
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 #EXTINF:-1 tvg-id="Imagen tv" tvg-name="Imagen tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" group-title="Nacional",Imagen tv
