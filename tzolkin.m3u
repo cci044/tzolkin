@@ -83,10 +83,18 @@ https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8?uid=1111947
 https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8
 #EXTINF:-1 tvg-id="Cine.ar" tvg-name="Cine.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcStfpw8PuGprAhAtj0GAL5XX-1bt9ZWLr8Q&s" group-title="Nacional",Cine.ar
 https://dsr.ride.com.ar/tvmia/an16/playlist.m3u8
+#EXTINF:-1 tvg-id="My Time Movie Network" tvg-name="My Time Movie Network" tvg-logo="https://yt3.googleusercontent.com/_IYldBaqPlDzVmhupfTuZlXegDoAw8cxmK54WY7vjPaTQwEh49Bco2D4lhlZ36cDy_VPv3zROw=s900-c-k-c0x00ffffff-no-rj" group-title="Nacional",My Time Movie Network
+https://appletree-mytimespain-rakuten.amagi.tv/1080p/index.m3u8
+#EXTINF:-1 tvg-id="DMJ" tvg-name="DMJ" tvg-logo="https://tvgratisperu.com/assets/img/canales/peru/dmj.png" group-title="Nacional",DMJ
+https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieFe" tvg-name="MovieFe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgxdsOOFRhsLfqZYbzuzSMW2TVK_r3USduyQ&s" group-title="Nacional",MovieFe
+https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
+#EXTINF:-1 tvg-id="Grjngo" tvg-name="Grjngo" tvg-logo="https://static.wixstatic.com/media/0e69b2_b95d085086fc46e7aba5f51308e0e74d~mv2.jpg/v1/fill/w_1920,h_1080,al_c/0e69b2_b95d085086fc46e7aba5f51308e0e74d~mv2.jpg" group-title="Nacional",Grjngo
+https://amogonetworx-grjngo-2-eu.plex.wurl.tv/3000.m3u8
+
+
 #EXTINF:-1, El MagoTV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/elmagotv2/playlist.m3u8
-#EXTINF:-1, Uva TV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvhduva/playlist.m3u8
 #EXTINF:-1, DPelicula
 http://89.117.146.57/televall/YbVVqpeaWU/70.m3u8
 #EXTINF:-1, Cinemax
@@ -133,20 +141,14 @@ https://fl1004.bozztv.com/ssh101/codificador7/playlist.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/makins/playlist.m3u8
 #EXTINF:-1, R&E
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/retv/playlist.m3u8
-#EXTINF:-1, Movie Fe
-https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
-#EXTINF:-1, My Time Movie Network
-https://appletree-mytimespain-rakuten.amagi.tv/1080p/index.m3u8
-#EXTINF:-1, Cine Feel Good Verdi TV
-https://daiconnect.com/live/hls/tvup/tvfy-feelgood/b8ee129e0585ae0c1eb5b4187f8e4fa7/index.m3u8
+
+
+
 #EXTINF:-1, Valle Nuevo TV
 https://media.streambrothers.com:19360/8262/8262.m3u8
-#EXTINF:-1, Grjngo
-https://amogonetworx-grjngo-2-eu.plex.wurl.tv/3000.m3u8
+
 #EXTINF:-1, Teleclasica
 https://ssh101-fl.bozztv.com/ssh101/teleclasik/index.m3u8
-#EXTINF:-1, DMJ
-https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 #EXTINF:-1, Planeta
 https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Doble A
@@ -157,14 +159,11 @@ https://panel.host-live.com:19360/81500/81500.m3u8
 https://livestream.perucast.com/low/stream_low/index.m3u8
 #EXTINF:-1, Super Canal
 https://live.obslivestream.com/supercanal/index.m3u8
-#EXTINF:-1, Bella Azuncion
-https://tvdatta.com:3602/stream/play.m3u8
+
 #EXTINF:-1, Nova Star
 https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
 #EXTINF:-1, Master
 https://live.obslivestream.com/regionaltv/index.m3u8
-#EXTINF:-1, +Cine
-https://tv.streaming-chile.com:19360/8142/8142.m3u8?WebM3UCL
 #EXTINF:-1, +Cine Clasico
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/playlist.m3u8
 #EXTINF:-1, Cinema Time2
