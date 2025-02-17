@@ -71,6 +71,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d85
 https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Anime Onegai" tvg-name="Anime Onegai" tvg-logo="https://m.media-amazon.com/images/I/41HfqRzfnLL.pnghttps://m.media-amazon.com/images/I/41HfqRzfnLL.png" group-title="Nacional",Anime Onegai
 https://live-evg25.tv360.bitel.com.pe/bitel/animeOnegai/bitel/animeOnegai_ori_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="MixB" tvg-name="MixB" tvg-logo="https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg" group-title="Nacional",MixB
+https://giatv.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
+#EXTINF:-1 tvg-id="GogoPlay" tvg-name="GogoPlay" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2023/07/gogo.jpg" group-title="Nacional",GogoPlay
+https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAYTVE/NEOGOGOPLAYTVE/playlist.m3u8
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/f/ff/Tooncas_logo_jpg.png/revision/latest?cb=20140720173926&path-prefix=es" group-title="Nacional",Tooncast
 http://89.117.146.57/televall/YbVVqpeaWU/64.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png" group-title="Nacional",Cartoon Network
@@ -91,6 +95,18 @@ https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 #EXTINF:-1 tvg-id="Grjngo" tvg-name="Grjngo" tvg-logo="https://static.wixstatic.com/media/0e69b2_b95d085086fc46e7aba5f51308e0e74d~mv2.jpg/v1/fill/w_1920,h_1080,al_c/0e69b2_b95d085086fc46e7aba5f51308e0e74d~mv2.jpg" group-title="Nacional",Grjngo
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="Planeta" tvg-name="Planeta" tvg-logo="https://www.pngkey.com/png/detail/221-2211630_planeta-tv-96-television.png" group-title="Nacional",Planeta
+https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Master" tvg-name="Master" tvg-logo="https://logopond.com/logos/d697fc07d0074842311879287c3a530b.png" group-title="Nacional",Master
+https://live.obslivestream.com/regionaltv/index.m3u8
+#EXTINF:-1 tvg-id="SeñalPeru" tvg-name="SeñalPeru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZtrCpj8gvK4AJTC6_hF2EVFuEqpx-rqwBRg&s" group-title="Nacional",SeñalPeru
+https://livestream.perucast.com/low/stream_low/index.m3u8
+#EXTINF:-1 tvg-id="+CineClassicos" tvg-name="+CineClassicos" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Cl%C3%A1sico_TV.svg/revision/latest/scale-to-width-down/250?cb=20230211015600&path-prefix=es" group-title="Nacional",+CineClassicos
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/playlist.m3u8
+#EXTINF:-1, Yisus Go
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/yigo/playlist.m3u8
+
+
 
 
 #EXTINF:-1, El MagoTV
@@ -121,12 +137,9 @@ https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/wowchannelsd/playlist.m3u8
 #EXTINF:-1, RetroxCR
 https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8
-#EXTINF:-1, MixBolivia
-https://giatv.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
-#EXTINF:-1, Gogo Play
-https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAYTVE/NEOGOGOPLAYTVE/playlist.m3u8
-#EXTINF:-1, CN10CostaRica
-https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8
+
+
+
 #EXTINF:-1, Opinion Sur
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/opinionsur/playlist.m3u8
 #EXTINF:-1, Wensterteve
@@ -135,8 +148,7 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/westernteve/playlist.m3u8
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/verycoolfgr/playlist.m3u8
 #EXTINF:-1, La InterTV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/laintertv/playlist.m3u8
-#EXTINF:-1, Tele Altura
-https://fl1004.bozztv.com/ssh101/codificador7/playlist.m3u8
+
 #EXTINF:-1, SumaTV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/makins/playlist.m3u8
 #EXTINF:-1, R&E
@@ -144,40 +156,28 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/retv/playlist.m3u8
 
 
 
-#EXTINF:-1, Valle Nuevo TV
-https://media.streambrothers.com:19360/8262/8262.m3u8
+
 
 #EXTINF:-1, Teleclasica
 https://ssh101-fl.bozztv.com/ssh101/teleclasik/index.m3u8
-#EXTINF:-1, Planeta
-https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, Doble A
 https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
 #EXTINF:-1, PancTV
 https://panel.host-live.com:19360/81500/81500.m3u8
-#EXTINF:-1, Señal Peru
-https://livestream.perucast.com/low/stream_low/index.m3u8
-#EXTINF:-1, Super Canal
-https://live.obslivestream.com/supercanal/index.m3u8
 
-#EXTINF:-1, Nova Star
-https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
-#EXTINF:-1, Master
-https://live.obslivestream.com/regionaltv/index.m3u8
-#EXTINF:-1, +Cine Clasico
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/playlist.m3u8
-#EXTINF:-1, Cinema Time2
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/cinematimetv2/playlist.m3u8
+
+
+
+
+
 #EXTINF:-1, Pantalla Clasico
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
-#EXTINF:-1, Yisus Go
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/yigo/playlist.m3u8
+
 #EXTINF:-1, El PalomarTV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvhd211/playlist.m3u8
-#EXTINF:-1, Canal69
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/canal69/playlist.m3u8
-#EXTINF:-1, Canal7 Salta
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/canal7salta/playlist.m3u8
+
+
 #EXTINF:-1, Sport Monterrey
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/sportsgroupmty/playlist.m3u8
 #EXTINF:-1, Tele clásica 
