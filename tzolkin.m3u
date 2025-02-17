@@ -176,9 +176,9 @@ http://89.117.146.57/televall/YbVVqpeaWU/20.m3u8
 #EXTINF:-1, Tudn
 https://tv1.strm2234.xyz/tudn/index.m3u8
 #EXTINF:-1 tvg-id="Espn" tvg-name="Espn" tvg-logo="https://w7.pngwing.com/pngs/109/662/png-transparent-logo-page-footer-espn-magazine-television-text-photograp" group-title="Nacional",Espn
-http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
+http://181.78.105.146:2000/play/a064/index.m3u8
 #EXTINF:-1, ESPN 2
-http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+http://181.78.105.146:2000/play/a063/index.m3u8
 #EXTINF:-1, ESPN 3
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/181348
 #EXTINF:-1, ESPN 4
