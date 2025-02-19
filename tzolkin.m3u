@@ -211,6 +211,8 @@ http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2095412
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
 #EXTINF:-1, Beins Sport
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/2a3fbb29-0bc8-45fb-94b0-f7c8a08002a0/1.m3u8
+#EXTINF:-1,deportes
+https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1YTIxZWZmZDY0YjQ2LTYzMDktZWEwNC03ZmQzLWE2NmNmNDIy/master.m3u8?md5=gL6F5-uy8nS_L6o28cBPKA&expires=1739937563
 #EXTINF:-1, Karibeña
 https://live-evg25.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/playlist.m3u8?uid=1111947
 #EXTINF:-1, Top Latino
@@ -227,3 +229,5 @@ https://5fd5567570c0e.streamlock.net:443/theretrochannel/stream/chunklist_w11297
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/corazon/playlist.m3u8
 #EXTINF:-1, Only Radio FMV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/onlyradio11/playlist.m3u8
+
+
