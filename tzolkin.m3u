@@ -31,14 +31,10 @@ https://live-evg1.tv360.bitel.com.pe:443/bitel/atvsur/chunks.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/soltv/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Global TV" tvg-name="Global TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png" group-title="Nacional",Global TV
 https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_source/chunks.m3u8
-#EXTINF:-1 tvg-id="Neo TV" tvg-name="Neo TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc2-aU92aZyWgV4w-JnqhqtYgVlrvcEnXAag&s" group-title="Nacional",Neo TV
-https://live-evg25.tv360.bitel.com.pe/bitel/neotv/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="PBO Noticias" tvg-name="PBO Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_de_Radio_PBO.jpg" group-title="Nacional",PBO Noticias
 https://live-evg1.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="TV Norte" tvg-name="TV Norte" tvg-logo="https://tunorte.co/wp-content/uploads/2020/02/tunorte-logoweb.jpg" group-title="Nacional",TV Norte
 https://live-evg25.tv360.bitel.com.pe/bitel/tvnorte/bitel/tvnorte_ori_source/chunks.m3u8
-#EXTINF:-1 tvg-id="BITT" tvg-name="BITT" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/bittchannel_op-1.jpg" group-title="Nacional",BITT
-https://live-evg25.tv360.bitel.com.pe:443/bitel/bitt/chunks.m3u8
 #EXTINF:-1 tvg-id="Lambayeque TV" tvg-name="Lambayeque TV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/07/25/21/1721919151436/341aa24e0986_640_360.jpg" group-title="Nacional",Lambayeque TV
 https://live-evg25.tv360.bitel.com.pe/bitel/lambayeque/bitel/lambayeque_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-id="BHETEL" tvg-name="BHETEL" tvg-logo="https://www.newslinereport.com/online/nota_bethel-televisin-ahora-en-hd-.jpg" group-title="Nacional",BHETEL
@@ -47,20 +43,12 @@ https://live-evg25.tv360.bitel.com.pe/bitel/bethel/bitel/bethel_ori_source/chunk
 https://live-evg25.tv360.bitel.com.pe/bitel/telelima/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="NUESTRO CANAL" tvg-name="NUESTRO CANAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzobn0GUh47CUrrsdxc1c1ctv8z20emLnTMw&s" group-title="Nacional",NUESTRO CANAL
 https://live-evg25.tv360.bitel.com.pe/bitel/ncanal/playlist.m3u8?uid=1111947
-#EXTINF:-1 tvg-id="LIKE TV" tvg-name="LIKE TV" tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/liketvpe.jpg" group-title="Nacional",LIKE TV
-https://live-evg25.tv360.bitel.com.pe/bitel/liketv/playlist.m3u8?uid=1111947
-#EXTINF:-1 tvg-id="CREO TV" tvg-name="CREO TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJJPPuLHtUE0Gext62svRnDz7h0IospOV1rA&s" group-title="Nacional",CREO TV
-https://live-evg25.tv360.bitel.com.pe/bitel/creo/playlist.m3u8?uid=1111947
-#EXTINF:-1 tvg-id="Conecta2" tvg-name="Conecta2" tvg-logo="https://conecta2.pe/wp-content/uploads/2023/09/logo.png" group-title="Nacional",Conecta2
-https://live-evg25.tv360.bitel.com.pe/bitel/conectado2/bitel/conectado2_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-id="Azteca  Internacional" tvg-name="Azteca  Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Azteca_Internacional_2008.png/revision/latest?cb=20200207215451&path-prefix=es" group-title="Nacional",Azteca  Internacional
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 #EXTINF:-1 tvg-id="Telemundo Internacional" tvg-name="Telemundo Internacional" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/styles/article_cover_image/public/images/article/cover/2015/04/14/untitled.jpg" group-title="Nacional",Telemundo Internacional
 http://51.79.81.69:8080/live/5bb1d796ffbd446a9f4dccafc81ca352/5850952ce750443faa258be29fd97d22/56.m3u8
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Nacional",Las Estrellas
 http://158.69.116.209:20102/live/117db0c748f543fc9bbfba2df8632a8a/a18cd0ea05454bde8e66a9f80453f955/71.m3u8
-#EXTINF:-1, Las Estrellas 2
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_4.m3u8
 #EXTINF:-1 tvg-id="Tl Novelas" tvg-name="Tl Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/2560px-Tlnovelas_2011_logo.svg.png" group-title="Nacional",Tl Novelas
 http://51.79.81.69:8080/live/825e01bc6ded4df9b608d98323f9a854/b5885f0464ab42a8895ee565d977834b/57.m3u8
 #EXTINF:-1 tvg-id="TNT Novelas" tvg-name="TNT Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_NOVELAS.png" group-title="Nacional",TNT Novelas
@@ -132,6 +120,14 @@ https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 https://mx1.gt-app.com/89/sFdTrWkjiPvlWmNyZsi.m3u8
 #EXTINF:-1, Space
 https://tv1.strm2234.xyz/space/index.m3u8
+#EXTINF:-1,AXN
+#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+https://mx1.gt-app.com/55/sFdTrWkjiPvlWmNyZsi.m3u8
+#EXTINF:-1, FX
+http://89.117.146.57/televall/YbVVqpeaWU/25.m3u8
+#EXTINF:1,Golden Premiere
+#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+https://mx1.gt-app.com/25/sFdTrWkjiPvlWmNyZsi.m3u8
 #EXTINF:-1, Lifetime
 #EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
 https://mx1.gt-app.com/33/sFdTrWkjiPvlWmNyZsi.m3u8
@@ -158,11 +154,6 @@ http://89.117.146.57/televall/YbVVqpeaWU/85.m3u8
 #EXTINF:-1,Cinemax
 #EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
 https://mx1.gt-app.com/49/sFdTrWkjiPvlWmNyZsi.m3u8
-#EXTINF:-1,AXN
-#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
-https://mx1.gt-app.com/55/sFdTrWkjiPvlWmNyZsi.m3u8
-#EXTINF:-1, FX
-http://89.117.146.57/televall/YbVVqpeaWU/25.m3u8
 #EXTINF:-1, Studio Universal
 http://89.117.146.57/televall/YbVVqpeaWU/74.m3u8
 #EXTINF:-1,AMC
@@ -170,9 +161,6 @@ http://89.117.146.57/televall/YbVVqpeaWU/74.m3u8
 https://mx1.gt-app.com/57/sFdTrWkjiPvlWmNyZsi.m3u8
 #EXTINF:-1, TNT Series
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2095396
-#EXTINF:1,Golden Premiere
-#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
-https://mx1.gt-app.com/25/sFdTrWkjiPvlWmNyZsi.m3u8
 #EXTINF:-1, TNT
 https://tv1.strm2234.xyz/tnt/index.m3u8
 #EXTINF:-1, Morvido
