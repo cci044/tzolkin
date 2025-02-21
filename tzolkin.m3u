@@ -120,11 +120,6 @@ https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 https://mx1.gt-app.com/89/sFdTrWkjiPvlWmNyZsi.m3u8
 #EXTINF:-1, Space
 https://tv1.strm2234.xyz/space/index.m3u8
-#EXTINF:-1,AXN
-#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
-https://mx1.gt-app.com/55/sFdTrWkjiPvlWmNyZsi.m3u8
-#EXTINF:-1, FX
-http://89.117.146.57/televall/YbVVqpeaWU/25.m3u8
 #EXTINF:1,Golden Premiere
 #EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
 https://mx1.gt-app.com/25/sFdTrWkjiPvlWmNyZsi.m3u8
@@ -143,6 +138,35 @@ https://mx1.gt-app.com/34/sFdTrWkjiPvlWmNyZsi.m3u8
 #EXTINF:-1, Universal Crime
 #EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
 https://mx1.gt-app.com/32/sFdTrWkjiPvlWmNyZsi.m3u8
+#EXTINF:-1, Sony Channel
+#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+https://mx1.gt-app.com/11/sFdTrWkjiPvlWmNyZsi.m3u8
+#EXTINF:-1, HBO
+https://tv1.strm2234.xyz/hbo/index.m3u8
+#EXTINF:1,HBO 2
+#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+https://mx1.gt-app.com/23/sFdTrWkjiPvlWmNyZsi.m3u8
+#EXTINF:1,HBO Extreme
+#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+https://mx1.gt-app.com/16/sFdTrWkjiPvlWmNyZsi.m3u8
+#EXTINF:1,HBO Family
+#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+https://mx1.gt-app.com/22/sFdTrWkjiPvlWmNyZsi.m3u8
+#EXTINF:1,HBO Plus
+#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+https://mx1.gt-app.com/21/sFdTrWkjiPvlWmNyZsi.m3u8
+#EXTINF:1,HBO Signature
+#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+https://mx1.gt-app.com/20/sFdTrWkjiPvlWmNyZsi.m3u8
+#EXTINF:-1, Starz Channel
+https://tv1.strm2234.xyz/starchannel/index.m3u8
+#EXTINF:-1,AXN
+#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+https://mx1.gt-app.com/55/sFdTrWkjiPvlWmNyZsi.m3u8
+#EXTINF:-1, FX
+http://89.117.146.57/televall/YbVVqpeaWU/25.m3u8
+#EXTINF:-1, AMC
+http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10548
 #EXTINF:-1 tvg-id="MultiPremier" tvg-name="MultiPremier" tvg-logo="https://e7.pngegg.com/pngimages/860/591/png-clipart-multipremier-52mx-television-multicinema-mvs-comunicaciones-cine-miscellaneous-television.png" group-title="Nacional",MultiPremier
 http://89.117.146.57/televall/YbVVqpeaWU/72.m3u8
 #EXTINF:-1, DPelicula
@@ -163,34 +187,8 @@ https://mx1.gt-app.com/57/sFdTrWkjiPvlWmNyZsi.m3u8
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2095396
 #EXTINF:-1, TNT
 https://tv1.strm2234.xyz/tnt/index.m3u8
-#EXTINF:-1, Morvido
-http://89.117.146.57/televall/YbVVqpeaWU/84.m3u8
-#EXTINF:-1, Sony Channel
-#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
-https://mx1.gt-app.com/11/sFdTrWkjiPvlWmNyZsi.m3u8
 #EXTINF:-1, Warner
 http://89.117.146.57/televall/YbVVqpeaWU/22.m3u8
-#EXTINF:-1, Unimas
-http://89.117.146.57/televall/YbVVqpeaWU/38.m3u8
-#EXTINF:-1, HBO
-https://tv1.strm2234.xyz/hbo/index.m3u8
-#EXTINF:1,HBO 2
-#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
-https://mx1.gt-app.com/23/sFdTrWkjiPvlWmNyZsi.m3u8
-#EXTINF:1,HBO Extreme
-#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
-https://mx1.gt-app.com/16/sFdTrWkjiPvlWmNyZsi.m3u8
-#EXTINF:1,HBO Family
-#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
-https://mx1.gt-app.com/22/sFdTrWkjiPvlWmNyZsi.m3u8
-#EXTINF:1,HBO Plus
-#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
-https://mx1.gt-app.com/21/sFdTrWkjiPvlWmNyZsi.m3u8
-#EXTINF:1,HBO Signature
-#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
-https://mx1.gt-app.com/20/sFdTrWkjiPvlWmNyZsi.m3u8
-#EXTINF:-1, Starz Channel
-https://tv1.strm2234.xyz/starchannel/index.m3u8
 #EXTINF:-1, Universal Crime
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2095406
 #EXTINF:-1 tvg-id="CineCanal" tvg-name="CineCanal" tvg-logo="https://cdn.mitvstatic.com/channels/sv_cinecanal_m.png" group-title="Nacional",CineCanal
