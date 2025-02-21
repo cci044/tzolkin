@@ -166,8 +166,9 @@ https://mx1.gt-app.com/57/sFdTrWkjiPvlWmNyZsi.m3u8
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2095396
 #EXTINF:-1, Space
 https://tv1.strm2234.xyz/space/index.m3u8
-#EXTINF:-1, Golden Premier
-http://89.117.146.57/televall/YbVVqpeaWU/81.m3u8
+#EXTINF:1,Golden Premiere
+#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+https://mx1.gt-app.com/25/sFdTrWkjiPvlWmNyZsi.m3u8
 #EXTINF:-1, TNT
 https://tv1.strm2234.xyz/tnt/index.m3u8
 #EXTINF:-1, Morvido
@@ -180,6 +181,21 @@ http://89.117.146.57/televall/YbVVqpeaWU/22.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/38.m3u8
 #EXTINF:-1, HBO
 https://tv1.strm2234.xyz/hbo/index.m3u8
+#EXTINF:1,HBO 2
+#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+https://mx1.gt-app.com/23/sFdTrWkjiPvlWmNyZsi.m3u8
+#EXTINF:1,HBO Extreme
+#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+https://mx1.gt-app.com/16/sFdTrWkjiPvlWmNyZsi.m3u8
+#EXTINF:1,HBO Family
+#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+https://mx1.gt-app.com/22/sFdTrWkjiPvlWmNyZsi.m3u8
+#EXTINF:1,HBO Plus
+#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+https://mx1.gt-app.com/21/sFdTrWkjiPvlWmNyZsi.m3u8
+#EXTINF:1,HBO Signature
+#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+https://mx1.gt-app.com/20/sFdTrWkjiPvlWmNyZsi.m3u8
 #EXTINF:-1, Starz Channel
 https://tv1.strm2234.xyz/starchannel/index.m3u8
 #EXTINF:-1, Universal Crime
@@ -202,20 +218,24 @@ https://mx1.gt-app.com/67/sFdTrWkjiPvlWmNyZsi.m3u8
 #EXTINF:-1, Fox Sports 2
 #EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
 https://mx1.gt-app.com/29/sFdTrWkjiPvlWmNyZsi.m3u8
+#EXTINF:-1, Fox Sports 3
+#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+https://mx1.gt-app.com/28/sFdTrWkjiPvlWmNyZsi.m3u8
 #EXTINF:-1, Tudn
 https://tv1.strm2234.xyz/tudn/index.m3u8
 #EXTINF:-1 tvg-id="Espn" tvg-name="Espn" tvg-logo="https://w7.pngwing.com/pngs/109/662/png-transparent-logo-page-footer-espn-magazine-television-text-photograp" group-title="Nacional",Espn
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/181347
-#EXTINF:-1, ESPN 2
-http://181.78.105.146:2000/play/a063/index.m3u8
-#EXTINF:-1, ESPN 3
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/181348
+#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+https://mx1.gt-app.com/77/sFdTrWkjiPvlWmNyZsi.m3u8
+#EXTINF:1,ESPN 2
+#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+https://mx1.gt-app.com/40/sFdTrWkjiPvlWmNyZsi.m3u8
+#EXTINF:1,ESPN 3
+#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+https://mx1.gt-app.com/39/sFdTrWkjiPvlWmNyZsi.m3u8
 #EXTINF:-1, ESPN 4
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2121680
 #EXTINF:-1, ESPN 6
 http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
-#EXTINF:-1, Zoy Sport
-http://fl2.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1, TyC Sport
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/25279
 #EXTINF:-1, TyC Sport2
