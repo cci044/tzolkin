@@ -148,17 +148,17 @@ http://89.117.146.57/televall/YbVVqpeaWU/70.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/80.m3u8
 #EXTINF:-1, Cine Dinamita
 http://89.117.146.57/televall/YbVVqpeaWU/85.m3u8
-#EXTINF:1,Cinemax
+#EXTINF:-1,Cinemax
 #EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
 https://mx1.gt-app.com/49/sFdTrWkjiPvlWmNyZsi.m3u8
-#EXTINF:1,AXN
+#EXTINF:-1,AXN
 #EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
 https://mx1.gt-app.com/55/sFdTrWkjiPvlWmNyZsi.m3u8
 #EXTINF:-1, FX
 http://89.117.146.57/televall/YbVVqpeaWU/25.m3u8
 #EXTINF:-1, Studio Universal
 http://89.117.146.57/televall/YbVVqpeaWU/74.m3u8
-#EXTINF:1,AMC
+#EXTINF:-1,AMC
 #EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
 https://mx1.gt-app.com/57/sFdTrWkjiPvlWmNyZsi.m3u8
 #EXTINF:-1, TNT Series
@@ -189,12 +189,14 @@ http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2095397
 http://89.117.146.57/televall/YbVVqpeaWU/69.m3u8
 #EXTINF:-1, MTV
 http://89.117.146.57/televall/YbVVqpeaWU/20.m3u8
-#EXTINF:1,Claro Sports
+#EXTINF:-1,Claro Sports
 #EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
 https://mx1.gt-app.com/82/sFdTrWkjiPvlWmNyZsi.m3u8
-#EXTINF:1,Dazn F1
+#EXTINF:-1,Dazn F1
 #EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
 https://mx1.gt-app.com/81/sFdTrWkjiPvlWmNyZsi.m3u8
+#EXTINF:-1, Win Sport
+https://mx1.gt-app.com/67/sFdTrWkjiPvlWmNyZsi.m3u8
 #EXTINF:-1, Tudn
 https://tv1.strm2234.xyz/tudn/index.m3u8
 #EXTINF:-1 tvg-id="Espn" tvg-name="Espn" tvg-logo="https://w7.pngwing.com/pngs/109/662/png-transparent-logo-page-footer-espn-magazine-television-text-photograp" group-title="Nacional",Espn
