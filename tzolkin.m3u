@@ -59,6 +59,18 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1, TLC
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2095400
+#EXTINF:-1, History
+https://mx1.gt-app.com/19/sFdTrWkjiPvlWmNyZsi.m3u8
+#EXTINF:-1, Discovery
+https://mx1.gt-app.com/47/sFdTrWkjiPvlWmNyZsi.m3u8
+#EXTINF:-1, Discovery HyH
+https://mx1.gt-app.com/46/sFdTrWkjiPvlWmNyZsi.m3u8
+#EXTINF:-1, Discovery ID
+https://mx1.gt-app.com/18/sFdTrWkjiPvlWmNyZsi.m3u8
+#EXTINF:-1, Discovery Turbo
+https://mx1.gt-app.com/80/sFdTrWkjiPvlWmNyZsi.m3u8
+#EXTINF:-1, Natgeo
+https://mx1.gt-app.com/15/sFdTrWkjiPvlWmNyZsi.m3u8
 #EXTINF:-1 tvg-id="Chavo Del 8 Animado" tvg-name="Chavo Del 8 Animado" tvg-logo="https://static.wikia.nocookie.net/teniaqueserlawikidelchavo/images/a/a5/Elchavoanimatedposter.jpg/revision/latest?cb=20211011205253&path-prefix=es" group-title="Nacional",Chavo Del 8 Animado
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2090881
 #EXTINF:-1 tvg-id="Bob Esponja TV" tvg-name="Bob Esponja TV" tvg-logo="https://w7.pngwing.com/pngs/639/164/png-transparent-spongebob-squarepants-with-logo-cartoons-spongebob.png" group-title="Nacional",Bob Esponja TV
