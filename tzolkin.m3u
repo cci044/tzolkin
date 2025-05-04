@@ -92,7 +92,7 @@ https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAYTVE/NEOGOGOPLAYTVE/playlist.m3u8
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/f/ff/Tooncas_logo_jpg.png/revision/latest?cb=20140720173926&path-prefix=es" group-title="Nacional",Tooncast
 http://89.117.146.57/televall/YbVVqpeaWU/64.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png" group-title="Nacional",Cartoon Network
-http://89.117.146.57/televall/YbVVqpeaWU/58.m3u8
+https://mx1.gt-app.com/51/sFdTrWkjiPvlWmNyZsi.m3u8
 #EXTINF:-1 tvg-id="Bitme" tvg-name="Bitme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/1200px-BitMe_logo.svg.png" group-title="Nacional",Bitme
 http://89.117.146.57/televall/YbVVqpeaWU/65.m3u8
 #EXTINF:-1, Creo Latino
@@ -121,6 +121,9 @@ https://ssh101stream.ssh101.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u
 https://v2.azulstream.com:8081/gamtv/gamtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Logo_Distrito_Comedia.png" group-title="Nacional",Distrito Comedia
 http://51.79.81.69:8080/live/f8f1c1bd2d0d4b62b70a72c8ac8db4c4/0b15f7ef43f749118fb2edf73017f129/55.m3u8
+#EXTINF:-1, Space
+#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+https://mx1.gt-app.com/10/sFdTrWkjiPvlWmNyZsi.m3u8
 #EXTINF:-1, Azcinema
 #EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
 https://mx1.gt-app.com/89/sFdTrWkjiPvlWmNyZsi.m3u8
@@ -163,9 +166,11 @@ https://mx1.gt-app.com/20/sFdTrWkjiPvlWmNyZsi.m3u8
 #EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
 https://mx1.gt-app.com/55/sFdTrWkjiPvlWmNyZsi.m3u8
 #EXTINF:-1, FX
-http://89.117.146.57/televall/YbVVqpeaWU/25.m3u8
+#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+https://mx1.gt-app.com/27/sFdTrWkjiPvlWmNyZsi.m3u8
 #EXTINF:-1, AMC
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/10548
+#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+https://mx1.gt-app.com/57/sFdTrWkjiPvlWmNyZsi.m3u8
 #EXTINF:-1 tvg-id="MultiPremier" tvg-name="MultiPremier" tvg-logo="https://e7.pngegg.com/pngimages/860/591/png-clipart-multipremier-52mx-television-multicinema-mvs-comunicaciones-cine-miscellaneous-television.png" group-title="Nacional",MultiPremier
 http://89.117.146.57/televall/YbVVqpeaWU/72.m3u8
 #EXTINF:-1, DPelicula
@@ -179,19 +184,18 @@ http://89.117.146.57/televall/YbVVqpeaWU/85.m3u8
 https://mx1.gt-app.com/49/sFdTrWkjiPvlWmNyZsi.m3u8
 #EXTINF:-1, Studio Universal
 http://89.117.146.57/televall/YbVVqpeaWU/74.m3u8
-#EXTINF:-1,AMC
-#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
-https://mx1.gt-app.com/57/sFdTrWkjiPvlWmNyZsi.m3u8
 #EXTINF:-1, TNT Series
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2095396
+#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+https://mx1.gt-app.com/5/sFdTrWkjiPvlWmNyZsi.m3u8
 #EXTINF:-1, Warner
-http://89.117.146.57/televall/YbVVqpeaWU/22.m3u8
-#EXTINF:-1, Universal Crime
-http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2095406
+#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+https://mx1.gt-app.com/2/sFdTrWkjiPvlWmNyZsi.m3u8
+#EXTINF:-1, Paramount Network
+#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+https://mx1.gt-app.com/12/sFdTrWkjiPvlWmNyZsi.m3u8
 #EXTINF:-1 tvg-id="CineCanal" tvg-name="CineCanal" tvg-logo="https://cdn.mitvstatic.com/channels/sv_cinecanal_m.png" group-title="Nacional",CineCanal
-http://89.117.146.57/televall/YbVVqpeaWU/69.m3u8
-#EXTINF:-1, MTV
-http://89.117.146.57/televall/YbVVqpeaWU/20.m3u8
+#EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+https://mx1.gt-app.com/50/sFdTrWkjiPvlWmNyZsi.m3u8
 #EXTINF:-1, Claro Sports
 #EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
 https://mx1.gt-app.com/82/sFdTrWkjiPvlWmNyZsi.m3u8
