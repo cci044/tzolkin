@@ -49,6 +49,10 @@ https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 http://51.79.81.69:8080/live/5bb1d796ffbd446a9f4dccafc81ca352/5850952ce750443faa258be29fd97d22/56.m3u8
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Nacional",Las Estrellas
 http://158.69.116.209:20102/live/117db0c748f543fc9bbfba2df8632a8a/a18cd0ea05454bde8e66a9f80453f955/71.m3u8
+#EXTINF:-1, Bonita TV
+https://live-evg25.tv360.bitel.com.pe/bitel/bonitatv/playlist.m3u8?uid=1111947
+#EXTINF:-1, Creo FE
+https://live-evg25.tv360.bitel.com.pe/bitel/creofe/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Tl Novelas" tvg-name="Tl Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/2560px-Tlnovelas_2011_logo.svg.png" group-title="Nacional",Tl Novelas
 http://51.79.81.69:8080/live/825e01bc6ded4df9b608d98323f9a854/b5885f0464ab42a8895ee565d977834b/57.m3u8
 #EXTINF:-1 tvg-id="TNT Novelas" tvg-name="TNT Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_NOVELAS.png" group-title="Nacional",TNT Novelas
@@ -77,6 +81,8 @@ http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2090881
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="FMH Kids" tvg-name="FMH Kids" tvg-logo="https://www.fmh.la/images/logos_slider/kids.png" group-title="Nacional",FMH Kids
 https://live-evg25.tv360.bitel.com.pe/bitel/fmhkids/playlist.m3u8?uid=1111947
+#EXTINF:-1, Creo Kids
+https://live-evg25.tv360.bitel.com.pe/bitel/creokids/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Anime Onegai" tvg-name="Anime Onegai" tvg-logo="https://m.media-amazon.com/images/I/41HfqRzfnLL.pnghttps://m.media-amazon.com/images/I/41HfqRzfnLL.png" group-title="Nacional",Anime Onegai
 https://live-evg25.tv360.bitel.com.pe/bitel/animeOnegai/bitel/animeOnegai_ori_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="MixB" tvg-name="MixB" tvg-logo="https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg" group-title="Nacional",MixB
@@ -89,6 +95,8 @@ http://89.117.146.57/televall/YbVVqpeaWU/64.m3u8
 http://89.117.146.57/televall/YbVVqpeaWU/58.m3u8
 #EXTINF:-1 tvg-id="Bitme" tvg-name="Bitme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/1200px-BitMe_logo.svg.png" group-title="Nacional",Bitme
 http://89.117.146.57/televall/YbVVqpeaWU/65.m3u8
+#EXTINF:-1, Creo Latino
+https://live-evg25.tv360.bitel.com.pe/bitel/creolatino/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="FMH Peliculas" tvg-name="FMH Peliculas" tvg-logo="https://www.fmh.la/images/logos_slider/movies.png" group-title="Nacional",FMH Peliculas
 https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="TV Prime" tvg-name="TV Prime" tvg-logo="https://play-lh.googleusercontent.com/gquCn_qsLy2j7lnXDuvdvaO8zrCePB_1ahdHKCKeIrT4momD9SjxH2_OmP2hMwcK98k" group-title="Nacional",TV Prime
@@ -262,15 +270,14 @@ https://live-evg25.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/playlist.m3u8?uid=11
 https://live-evg25.tv360.bitel.com.pe:443/bitel/toplatino/chunks.m3u8?uid=1111947
 #EXTINF:-1, Trace latino
 https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tracetv-tracelatina-xiaomi/cb573f166577639098c83e78d1f04982e65939d91374942a6bb455956bc10d4d83bff6c2bb49e66041cd1f8a61176c500831d64bd62906da8b2bfc04327e1e739390e47dbbc928218a09f4e71899487b32ec33708e7c1777dda9291c8429b06a776b826b4077424039949f5c6fbbdf48cf2739faf08823602e0b75af476de7b6667bc8c08ed07398b1616e38bce7263417e98dbceca1bfa506cb01df25a00beecaa9d88247ddecb2599408e93c1d4c3232cdce28c1870dc4bae00933fd263027fe341b1744242877aa42d681e5a2b2ca223a0063b2842d/7/1920x1080_4716800/index.m3u8
-#EXTINF:-1, Mix Hit
-https://giatv.bozztv.com:443/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8
 #EXTINF:-1, Tendencias Top
 https://s1.tvdatta.com:3950/multi_web/play_1080.m3u8
 #EXTINF:-1, The Retro Channel
 https://5fd5567570c0e.streamlock.net:443/theretrochannel/stream/chunklist_w1129775069.m3u8
 #EXTINF:-1, La Inolvidable Corazon
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/corazon/playlist.m3u8
-#EXTINF:-1, Only Radio FMV
+#EXTINF:-1, Radio Nova
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/onlyradio11/playlist.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/novatv/playlist.m3u8?uid=1111947
 
 
