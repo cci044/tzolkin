@@ -99,10 +99,6 @@ http://89.117.146.57/televall/YbVVqpeaWU/65.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/creolatino/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="FMH Peliculas" tvg-name="FMH Peliculas" tvg-logo="https://www.fmh.la/images/logos_slider/movies.png" group-title="Nacional",FMH Peliculas
 https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies/playlist.m3u8?uid=1111947
-#EXTINF:-1 tvg-id="TV Prime" tvg-name="TV Prime" tvg-logo="https://play-lh.googleusercontent.com/gquCn_qsLy2j7lnXDuvdvaO8zrCePB_1ahdHKCKeIrT4momD9SjxH2_OmP2hMwcK98k" group-title="Nacional",TV Prime
-https://vdo.paneldalestream.com:3786/live/tvprimelive.m3u8
-#EXTINF:-1 tvg-id="Cine.ar" tvg-name="Cine.ar" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcStfpw8PuGprAhAtj0GAL5XX-1bt9ZWLr8Q&s" group-title="Nacional",Cine.ar
-https://dsr.ride.com.ar/tvmia/an16/playlist.m3u8
 #EXTINF:-1 tvg-id="My Time Movie Network" tvg-name="My Time Movie Network" tvg-logo="https://yt3.googleusercontent.com/_IYldBaqPlDzVmhupfTuZlXegDoAw8cxmK54WY7vjPaTQwEh49Bco2D4lhlZ36cDy_VPv3zROw=s900-c-k-c0x00ffffff-no-rj" group-title="Nacional",My Time Movie Network
 https://appletree-mytimespain-rakuten.amagi.tv/1080p/index.m3u8
 #EXTINF:-1 tvg-id="DMJ" tvg-name="DMJ" tvg-logo="https://tvgratisperu.com/assets/img/canales/peru/dmj.png" group-title="Nacional",DMJ
@@ -117,29 +113,17 @@ https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
 https://live.obslivestream.com/mastertv/index.m3u8
 #EXTINF:-1 tvg-id="SeñalPeru" tvg-name="SeñalPeru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZtrCpj8gvK4AJTC6_hF2EVFuEqpx-rqwBRg&s" group-title="Nacional",SeñalPeru
 https://livestream.perucast.com/low/stream_low/index.m3u8
-#EXTINF:-1 tvg-id="+CineClassicos" tvg-name="+CineClassicos" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Cl%C3%A1sico_TV.svg/revision/latest/scale-to-width-down/250?cb=20230211015600&path-prefix=es" group-title="Nacional",+CineClassicos
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/playlist.m3u8
-#EXTINF:-1, El MagoTV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/elmagotv2/playlist.m3u8
 #EXTINF:-1, Wow Channel
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/wowchannelsd/playlist.m3u8
-#EXTINF:-1, Wensterteve
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/westernteve/playlist.m3u8
 #EXTINF:-1, Pantalla Clasico
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
-#EXTINF:-1, Tele clásica 
-https://ssh101-fl.bozztv.com/ssh101/teleclasik/index.m3u8
 #EXTINF:-1 tvg-id="Gam TV" tvg-name="Gam TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/GamaTV_2006.png" group-title="Nacional",Gam TV
 https://v2.azulstream.com:8081/gamtv/gamtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Logo_Distrito_Comedia.png" group-title="Nacional",Distrito Comedia
 http://51.79.81.69:8080/live/f8f1c1bd2d0d4b62b70a72c8ac8db4c4/0b15f7ef43f749118fb2edf73017f129/55.m3u8
-#EXTINF:-1, Tigueritos
-https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 #EXTINF:-1, Azcinema
 #EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
 https://mx1.gt-app.com/89/sFdTrWkjiPvlWmNyZsi.m3u8
-#EXTINF:-1, Space
-https://tv1.strm2234.xyz/space/index.m3u8
 #EXTINF:1,Golden Premiere
 http://sdmx.vip:80/Daleplayperu52/tVFeXytHnZ/200948
 #EXTINF:-1, Lifetime
@@ -160,8 +144,6 @@ https://mx1.gt-app.com/32/sFdTrWkjiPvlWmNyZsi.m3u8
 #EXTINF:-1, Sony Channel
 #EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
 https://mx1.gt-app.com/11/sFdTrWkjiPvlWmNyZsi.m3u8
-#EXTINF:-1, HBO
-https://tv1.strm2234.xyz/hbo/index.m3u8
 #EXTINF:1,HBO 2
 #EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
 https://mx1.gt-app.com/23/sFdTrWkjiPvlWmNyZsi.m3u8
@@ -177,8 +159,6 @@ https://mx1.gt-app.com/21/sFdTrWkjiPvlWmNyZsi.m3u8
 #EXTINF:1,HBO Signature
 #EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
 https://mx1.gt-app.com/20/sFdTrWkjiPvlWmNyZsi.m3u8
-#EXTINF:-1, Starz Channel
-https://tv1.strm2234.xyz/starchannel/index.m3u8
 #EXTINF:-1,AXN
 #EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
 https://mx1.gt-app.com/55/sFdTrWkjiPvlWmNyZsi.m3u8
@@ -204,8 +184,6 @@ http://89.117.146.57/televall/YbVVqpeaWU/74.m3u8
 https://mx1.gt-app.com/57/sFdTrWkjiPvlWmNyZsi.m3u8
 #EXTINF:-1, TNT Series
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2095396
-#EXTINF:-1, TNT
-https://tv1.strm2234.xyz/tnt/index.m3u8
 #EXTINF:-1, Warner
 http://89.117.146.57/televall/YbVVqpeaWU/22.m3u8
 #EXTINF:-1, Universal Crime
@@ -229,8 +207,6 @@ https://mx1.gt-app.com/29/sFdTrWkjiPvlWmNyZsi.m3u8
 #EXTINF:-1, Fox Sports 3
 #EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
 https://mx1.gt-app.com/28/sFdTrWkjiPvlWmNyZsi.m3u8
-#EXTINF:-1, Tudn
-https://tv1.strm2234.xyz/tudn/index.m3u8
 #EXTINF:-1 tvg-id="Espn" tvg-name="Espn" tvg-logo="https://w7.pngwing.com/pngs/109/662/png-transparent-logo-page-footer-espn-magazine-television-text-photograp" group-title="Nacional",Espn
 #EXTVLCOPT:http-user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
 https://mx1.gt-app.com/77/sFdTrWkjiPvlWmNyZsi.m3u8
@@ -242,8 +218,6 @@ https://mx1.gt-app.com/40/sFdTrWkjiPvlWmNyZsi.m3u8
 https://mx1.gt-app.com/39/sFdTrWkjiPvlWmNyZsi.m3u8
 #EXTINF:-1, ESPN 4
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2121680
-#EXTINF:-1, ESPN 6
-http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
 #EXTINF:-1, TyC Sport
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/25279
 #EXTINF:-1, TyC Sport2
@@ -256,14 +230,6 @@ https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2095413
 #EXTINF:-1, GolTV
 http://sdmx.vip:80/Megatvplus/pZNvewtBmjTfAe/2095412
-#EXTINF:-1, Fox Sport
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8
-#EXTINF:-1, Beins Sport
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/2a3fbb29-0bc8-45fb-94b0-f7c8a08002a0/1.m3u8
-#EXTINF:-1, deportes
-https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v3/director/VE1YTIxZWZmZDY0YjQ2LTYzMDktZWEwNC03ZmQzLWE2NmNmNDIy/master.m3u8?md5=gL6F5-uy8nS_L6o28cBPKA&expires=1739937563
-#EXTINF:-1, Sky la Liga
-https://agl2zq.fubohd.com/dsports/mono.m3u8?token=96ab56cebf3b27439589a2283bad186f6733fb08-4c-1740361524-1740325524
 #EXTINF:-1, Karibeña
 https://live-evg25.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/playlist.m3u8?uid=1111947
 #EXTINF:-1, Top Latino
@@ -274,10 +240,7 @@ https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tra
 https://s1.tvdatta.com:3950/multi_web/play_1080.m3u8
 #EXTINF:-1, The Retro Channel
 https://5fd5567570c0e.streamlock.net:443/theretrochannel/stream/chunklist_w1129775069.m3u8
-#EXTINF:-1, La Inolvidable Corazon
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/corazon/playlist.m3u8
 #EXTINF:-1, Radio Nova
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/onlyradio11/playlist.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/novatv/playlist.m3u8?uid=1111947
 
 
