@@ -39,6 +39,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/bethel/bitel/bethel_ori_source/chunk
 https://live-evg25.tv360.bitel.com.pe/bitel/telelima/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="NUESTRO CANAL" tvg-name="NUESTRO CANAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzobn0GUh47CUrrsdxc1c1ctv8z20emLnTMw&s" group-title="Nacional",NUESTRO CANAL
 https://live-evg25.tv360.bitel.com.pe/bitel/ncanal/playlist.m3u8?uid=1111947
+#EXTINF:-1, CNN 
+http://177.234.230.206:8011/play/a0mv/index.m3u8
 #EXTINF:-1 tvg-id="Azteca  Internacional" tvg-name="Azteca  Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Azteca_Internacional_2008.png/revision/latest?cb=20200207215451&path-prefix=es" group-title="Nacional",Azteca  Internacional
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 #EXTINF:-1 tvg-id="Telemundo Internacional" tvg-name="Telemundo Internacional" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/styles/article_cover_image/public/images/article/cover/2015/04/14/untitled.jpg" group-title="Nacional",Telemundo Internacional
@@ -113,32 +115,32 @@ https://panel.host-live.com:19360/gvbnwcaqke/gvbnwcaqke.m3u8
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
 #EXTINF:-1, Mega Cine
 https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
-#EXTINF:-1 tvg-id="MovieFe" tvg-name="MovieFe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgxdsOOFRhsLfqZYbzuzSMW2TVK_r3USduyQ&s" group-title="Nacional",MovieFe
-https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 #EXTINF:-1 tvg-id="Grjngo" tvg-name="Grjngo" tvg-logo="https://static.wixstatic.com/media/0e69b2_b95d085086fc46e7aba5f51308e0e74d~mv2.jpg/v1/fill/w_1920,h_1080,al_c/0e69b2_b95d085086fc46e7aba5f51308e0e74d~mv2.jpg" group-title="Nacional",Grjngo
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="Planeta" tvg-name="Planeta" tvg-logo="https://www.pngkey.com/png/detail/221-2211630_planeta-tv-96-television.png" group-title="Nacional",Planeta
 https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Master" tvg-name="Master" tvg-logo="https://logopond.com/logos/d697fc07d0074842311879287c3a530b.png" group-title="Nacional",Master
-https://live.obslivestream.com/mastertv/index.m3u8
 #EXTINF:-1 tvg-id="SeñalPeru" tvg-name="SeñalPeru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZtrCpj8gvK4AJTC6_hF2EVFuEqpx-rqwBRg&s" group-title="Nacional",SeñalPeru
 https://livestream.perucast.com/low/stream_low/index.m3u8
 #EXTINF:-1 tvg-id="Gam TV" tvg-name="Gam TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/GamaTV_2006.png" group-title="Nacional",Gam TV
 https://v2.azulstream.com:8081/gamtv/gamtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Logo_Distrito_Comedia.png" group-title="Nacional",Distrito Comedia
 http://51.79.81.69:8080/live/f8f1c1bd2d0d4b62b70a72c8ac8db4c4/0b15f7ef43f749118fb2edf73017f129/55.m3u8
+#EXTINF:-1, Comedy Central 
+http://177.234.230.206:8011/play/a0j5/index.m3u8
 #EXTINF:-1, Space
 http://177.234.230.206:8011/play/a00v/index.m3u8
 #EXTINF:-1, TCM
 http://177.234.230.206:8011/play/a0in/index.m3u8
 #EXTINF:-1, A&E 
 http://177.234.230.206:8011/play/a0j4/index.m3u8
-#EXTINF:1,Golden
-http://xcm.budtv-ultra.com:2424/budtv/websline/eWmWuCeW3j9F/278479.m3u8
 #EXTINF:-1, Lifetime
 http://200.60.124.19:29000/play/a021/index.m3u8
+#EXTINF:-1, MULTICINEMA
+http://177.234.230.206:8011/play/a00o/index.m3u8
 #EXTINF:-1 ,UNIVERSAL CHANNEL 
 http://177.234.230.206:8011/play/a0dn/index.m3u8
+#EXTINF:-1, De PelŦcula
+http://177.234.230.206:8011/play/a0ip/index.m3u8
 #EXTINF:-1, Sony Channel
 http://177.234.230.206:8011/play/a0n6/index.m3u8
 #EXTINF:-1, Sony Cine
