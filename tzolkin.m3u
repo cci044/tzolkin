@@ -90,7 +90,7 @@ http://177.234.230.206:8011/play/a0pg/index.m3u8
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/f/ff/Tooncas_logo_jpg.png/revision/latest?cb=20140720173926&path-prefix=es" group-title="Nacional",Tooncast
 http://179.61.31.142:8000/play/a07p/index.m3u8
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2560px-Cartoon_Network_2010_logo.svg.png" group-title="Nacional",Cartoon Network
-http://177.234.230.206:8011/play/a0gv/index.m3u8
+http://179.61.31.142:8000/play/a01q/index.m3u8
 #EXTINF:-1, Disney 
 http://177.234.230.206:8011/play/a0c2/index.m3u8
 #EXTINF:-1, Disney Junior
