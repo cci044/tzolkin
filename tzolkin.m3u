@@ -55,8 +55,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/creofe/playlist.m3u8?uid=1111947
 http://51.79.81.69:8080/live/825e01bc6ded4df9b608d98323f9a854/b5885f0464ab42a8895ee565d977834b/57.m3u8
 #EXTINF:-1 tvg-id="TNT Novelas" tvg-name="TNT Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_NOVELAS.png" group-title="Nacional",TNT Novelas
 http://51.79.81.69:8080/live/ff1bb2e6a4044117b3304befef31b640/29967f2f03d542fd94e5887578bd1acf/58.m3u8
-#EXTINF:-1 tvg-id="Knal Del Drama" tvg-name="Knal Del Drama" tvg-logo="https://kanalddrama.com/fav.png" group-title="Nacional",Knal Del Drama
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1, Pasiones
+http://38.44.109.41:8003/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="DW Internacional" tvg-name="DW Internacional" tvg-logo="https://i.pinimg.com/736x/ce/ca/0e/ceca0eba616c946fdef3303a7baeb3eb.jpg" group-title="Nacional",Dw Internacional
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
 #EXTINF:-1, History
@@ -206,15 +206,15 @@ http://38.7.204.232:8010/play/a2o5/index.m3u8
 #EXTINF:-1 tvg-id="Espn" tvg-name="Espn" tvg-logo="https://w7.pngwing.com/pngs/109/662/png-transparent-logo-page-footer-espn-magazine-television-text-photograp" group-title="Nacional",Espn
 http://179.61.31.142:8000/play/a0h6/index.m3u8
 #EXTINF:-1, ESPN 2 
-http://179.61.31.142:8000/play/a0h7/index.m3u8
+http://38.44.109.41:8003/play/a00v/index.m3u8
 #EXTINF:-1, ESPN 3 
-http://179.61.31.142:8000/play/a0h8/index.m3u8
+http://38.44.109.41:8003/play/a00w/index.m3u8
 #EXTINF:-1,ESPN 4
 http://179.61.31.142:8000/play/a0ho/index.m3u8
 #EXTINF:-1, ESPN 5 
 http://179.61.31.142:8000/play/a0ha/index.m3u8
 #EXTINF:-1, ESPN 6 
-http://179.61.31.142:8000/play/a0h9/index.m3u8
+http://38.44.109.41:8003/play/a00u/index.m3u8
 #EXTINF:-1 ,TNT Sports Premiun HD
 http://177.234.230.206:8011/play/a00w/index.m3u8
 #EXTINF:-1, TyC Sport
