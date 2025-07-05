@@ -223,6 +223,8 @@ http://177.234.230.206:8011/play/a09o/index.m3u8
 http://177.234.230.206:8011/play/a07r/index.m3u8
 #EXTINF:-1, DSPORTS 1 
 http://38.211.242.128:8001/play/a09s/index.m3u8 
+#EXTINF:-1, TUDN 
+https://ag9wzq.fubohd.com/tudn/mono.m3u8?token=629f524545b75e2abd158709693a7951b72773fd-a6-1751695038-1751677038
 #EXTINF:-1, DSPORTS 2 
 http://38.211.242.128:8001/play/a05g/index.m3u8 
 #EXTINF:-1, DSPORTS + 
