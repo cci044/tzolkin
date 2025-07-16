@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Exitosa" tvg-name="Exitosa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/640px-Logoexitosa.png" group-title="Nacional",Exitosa
-https://live-evg25.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8?uid=1111947
+https://live-evg25.tv360.bitel.com.pe/bitel/exitosa/bitel/exitosa_ori_360p/chunks.m3u8
 #EXTINF:-1 tvg-id="Latina" tvg-name="Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png" group-title="Nacional",Latina
-https://live-evg25.tv360.bitel.com.pe/bitel/latinatv/playlist.m3u8?uid=1111947
+https://live-evg25.tv360.bitel.com.pe/bitel/latinatv/bitel/latinatv_ori_360p/chunks.m3u8
 #EXTINF:-1 tvg-id="Willax" tvg-name="Willax" tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2015-205_import.png" group-title="Nacional",Willax
 https://live-evg25.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="America" tvg-name="America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png" group-title="Nacional", America
-https://live-evg4.tv360.bitel.com.pe/UbufyouPFH7C5yT244t3Cw/1752370560//bitel/americatv/playlist.m3u8?uid=1111947
+https://live-evg4.tv360.bitel.com.pe/DKxQ_xGJPJDCEuifbMSKFg/1752712155/bitel/americatv/bitel/americatv_ori_360p/chunks.m3u8
 #EXTINF:-1 tvg-id="Atv" tvg-name="Atv" tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-E0FD3BBF05-seeklogo.com.png" group-title="Nacional",Atv
-https://live-evg25.tv360.bitel.com.pe/bitel/atv/playlist.m3u8?uid=1111947
+https://live-evg25.tv360.bitel.com.pe/bitel/atv/bitel/atv_ori_360p/chunks.m3u8
 #EXTINF:-1 tvg-id="Atv+" tvg-name="Atv+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title="Nacional",Atv+
 https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="La Tele" tvg-name="La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/LaTele_Per%C3%BA_2018_Logo.png" group-title="Nacional",La Tele
