@@ -1,16 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Exitosa" tvg-name="Exitosa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/640px-Logoexitosa.png" group-title="Nacional",Exitosa
-https://live-evg25.tv360.bitel.com.pe/bitel/exitosa/bitel/exitosa_ori_360p/chunks.m3u8
+https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1, Latina Noticias
+https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream3/chunks.m3u8?dpssid=b254556248968ae5305462b2&sid=ba5t1l1xb247009203568ae538bdb304&ndvc=0
 #EXTINF:-1 tvg-id="Latina" tvg-name="Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png" group-title="Nacional",Latina
-https://live-evg25.tv360.bitel.com.pe/bitel/latinatv/bitel/latinatv_ori_360p/chunks.m3u8
+https://jireh-6-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream3/chunks.m3u8?dpssid=b254556248968ae5305462b2&sid=ba5t1l1xb2166159529668ae5328ec914&ndvc=0
 #EXTINF:-1 tvg-id="Willax" tvg-name="Willax" tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2015-205_import.png" group-title="Nacional",Willax
-https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_360p/chunks.m3u8
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(hY4f6nhzlf0spSIIGciNEbMaNefr3x9_oPIY_yfzJ3HMtUn04aJrDzLrpqWCWXsqwBHA8X9D5u_mLmBAzv01ujYGXZt1fE9-72cljH0N2MffnAgaoF-OzEU98lcHwHy7)/cloud/3/x7x4dgx/s/live-380.m3u8
 #EXTINF:-1 tvg-id="America" tvg-name="America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png" group-title="Nacional", America
 https://live-evg4.tv360.bitel.com.pe/jkEaNKw_qbPhMW2SL0kJAA/1755440310/bitel/americatvhd/bitel/americatvhd_ori_360p/chunks.m3u8
 #EXTINF:-1 tvg-id="Atv" tvg-name="Atv" tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-E0FD3BBF05-seeklogo.com.png" group-title="Nacional",Atv
-https://live-evg25.tv360.bitel.com.pe/bitel/atv/bitel/atv_ori_360p/chunks.m3u8
+https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/medialist_5900814650867226228_hls.m3u8
 #EXTINF:-1 tvg-id="Atv+" tvg-name="Atv+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title="Nacional",Atv+
-https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/playlist.m3u8?uid=1111947
+https://d2qsan2ut81n2k.cloudfront.net/live/77eece7f-8de5-4406-9f7e-7be16d81f2ce/medialist_5900814650867226228_hls.m3u8
 #EXTINF:-1 tvg-id="La Tele" tvg-name="La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/LaTele_Per%C3%BA_2018_Logo.png" group-title="Nacional",La Tele
 https://live-evg1.tv360.bitel.com.pe:443/bitel/latele/chunks.m3u8
 #EXTINF:-1 tvg-id="Tv peru" tvg-name="Tv Peru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LOGO_TV_PERU_2012.png" group-title="Nacional",Tv peru
@@ -20,9 +22,9 @@ https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8
 #EXTINF:-1 tvg-id="TV Peru Noticias" tvg-name="TV Peru Noticias" tvg-logo="" group-title="Nacional",TV Peru Noticias
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 #EXTINF:-1 tvg-id="Panamericana" tvg-name="Panamericana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="Nacional",Panamericana
-https://live-evg25.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?uid=1111947
+https://sae11.playlist.live-video.net/v1/playlist/CuIFknplTRpZWJ2ATJTJCWIUqOEj85dK0LBwN3FVLD4N_HLHmCrBEqWPvNDGajCp6_cQl0HogxFlkuFvB0iskA0K6iUhsezgo5y9-ejsmQifma43mYtdHTCLsty4ZU2Iuhz-j9IhuH_K_8LIUGrLsomzP6wptTyS_Jm8cKnU-NV3Iw2pB_BUv8dYqnMHwn2zgyO7PbP3YdEyWmLTElFJzMQMCwsLBXSHj7uiAMVNrI3bk0dkxasM5JX61zH4CS40MIr4rV7HzrznJsy4_oF__CoWn92sb9Tbs6NjjLuWBEqUQoTXBxpfPeimRCUWJ0xnMFViNykeU2mzdgrw54IKkDfDxSDI9Pfnjm8Y26CLiXIvMK8ghNRwdXTHUHxwOeWvUEi__CWV9lG_WKZiGmOkePSemYdUR-i6ii-imo8sziyNF_4Tw09Tp_2SIdA9A1Z97qTVA9s2LTR8Qz9aVfb_g0-EaeXZWODgLK745YMVdIVxJOZGZez8FHzbM_TS-CzfxJzrnyz43JYgEvx003KUIxupWNEPYr71ROed9utCNuhAxvbaWqLWjase_x3jzifLTLvsXVTP17S-2ZLvOqjguualuMJtfLqqJCgC3U0oJQemPlzyx4CVFhhNn_GfM_-WMTedL3qNax1kq41QZbQCRcWr8inQiKXWY9FvdHklpIPG2CRIeTiQy5hYmDBNO2_AAv5gpTyoDKqUo68u4fJyD0GTcZo-LTQMxJwO2clHNPU_531TA4TKll9uAQeDlqBZeopLNHPiRylHkJJoyRGt9eh9TXi50x6F4D4YrKS3GCJYgZW8Q3gKAHEr0LcTj3k3vTXNDjS9urimOB2-TrkRBKRAUD17Vw7N9Y24QNVQ7gx9mBNt0GQDaSe1E7z8YBRtd2BQTx_D0HQsB6zCZFuk8uHcESwIlmBMN-csoHRQtsZXeRvIiDSNfv640_w4jKSI5CRpJUZ29sWZk6P5Aagj7eXvhWKoGgxZkN4go9xSvfueu3MgASoJdXMtZWFzdC0yMIoN.m3u8
 #EXTINF:-1 tvg-id="Atv Sur" tvg-name="Atv Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATV_Sur_-_2018_logo_%28final%29.png" group-title="Nacional",Atv Sur
-https://live.airstream.run/alba-pe-atv-atvsur/original.m3u8
+https://d2qsan2ut81n2k.cloudfront.net/live/1dedd057-0bc1-44a7-a747-bd52e12166b3/medialist_5900814650867226228_hls.m3u8
 #EXTINF:-1 tvg-id="Sol TV" tvg-name="Sol TV" tvg-logo="https://soltvperu.com/wp-content/uploads/2024/05/logo-sol-tv.png" group-title="Nacional",Sol TV
 https://live-evg25.tv360.bitel.com.pe/bitel/soltv/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Global TV" tvg-name="Global TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png" group-title="Nacional",Global TV
