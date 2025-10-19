@@ -22,21 +22,23 @@ https://live-evg20.tv360.bitel.com.pe/bitel/panamericana_abr/bitel/panamericana_
 #EXTINF:-1 tvg-id="Atv Sur" tvg-name="Atv Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATV_Sur_-_2018_logo_%28final%29.png" group-title="Nacional",Atv Sur
 https://live-evg20.tv360.bitel.com.pe/bitel/atvsur_abr/bitel/atvsur_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="TV Norte Chiclayo" tvg-name="TV Norte Chiclayo" tvg-logo="https://tunorte.co/wp-content/uploads/2020/02/tunorte-logoweb.jpg" group-title="Nacional",TV Norte Chiclayo
-https://live-evg18.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8?uid=1111947
+https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Global TV" tvg-name="Global TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png" group-title="Nacional",Global TV
-https://live-evg25.tv360.bitel.com.pe/bitel/global/bitel/global_ori_source/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m3u8
 #EXTINF:-1, CosmosTV La Libertad
-https://live-evg25.tv360.bitel.com.pe/bitel/cosmos/playlist.m3u8?uid=1111947
+https://live-evg18.tv360.bitel.com.pe/bitel/cosmos/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Sol TV" tvg-name="Sol TV" tvg-logo="https://soltvperu.com/wp-content/uploads/2024/05/logo-sol-tv.png" group-title="Nacional",Sol TV
-https://live-evg25.tv360.bitel.com.pe/bitel/soltv/playlist.m3u8?uid=1111947
+https://live-evg7.tv360.bitel.com.pe/bitel/soltv/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="PBO Noticias" tvg-name="PBO Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_de_Radio_PBO.jpg" group-title="Nacional",PBO Noticias
 https://live-evg20.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_720p/chunks.m3u8
-#EXTINF:-1, RTV Callao
-https://live-evg18.tv360.bitel.com.pe/bitel/regiontv/playlist.m3u8?uid=1111947
-#EXTINF:-1, HoyPeru Cajamarca
-https://live-evg25.tv360.bitel.com.pe/bitel/hoyperutv/playlist.m3u8?uid=1111947
+#EXTINF:-1, CN34 La libertdad
+https://live-evg18.tv360.bitel.com.pe/bitel/conectado2/playlist.m3u8?uid=1111947
+#EXTINF:-1, ODTV
+https://live-evg5.tv360.bitel.com.pe/bitel/odtv/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Lambayeque TV" tvg-name="Lambayeque TV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/07/25/21/1721919151436/341aa24e0986_640_360.jpg" group-title="Nacional",Lambayeque TV
 https://live-evg25.tv360.bitel.com.pe/bitel/lambayeque/playlist.m3u8?uid=1111947
+#EXTINF:-1, Riku TV
+https://live-evg7.tv360.bitel.com.pe/bitel/riku/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="BHETEL" tvg-name="BHETEL" tvg-logo="https://www.newslinereport.com/online/nota_bethel-televisin-ahora-en-hd-.jpg" group-title="Nacional",BHETEL
 https://live-evg25.tv360.bitel.com.pe/bitel/bethel/bitel/bethel_ori_source/chunks.m3u8
 #EXTINF:-1 tvg-id="TELELIMA" tvg-name="TELELIMA" tvg-logo="https://www.telelima.pe/img/logoweb1.png" group-title="Nacional",TELELIMA
