@@ -176,9 +176,9 @@ http://179.61.31.142:8000/play/a0dg/index.m3u8
 #EXTINF:-1, Golden Premiere 2
 http://179.61.31.142:8000/play/a0dh/index.m3u8
 #EXTINF:-1, AXN
-http://200.60.124.19:29000/play/a027/index.m3u8
+http://177.234.230.206:8011/play/a0t4/index.m3u8
 #EXTINF:-1, FX
-http://200.60.124.19:29000/play/a029/index.m3u8
+http://177.234.230.206:8011/play/a0t4/index.m3u8
 #EXTINF:-1, AMC
 http://177.234.230.206:8011/play/a0jg/index.m3u8
 #EXTINF:-1 tvg-id="MultiPremier" tvg-name="MultiPremier" tvg-logo="https://e7.pngegg.com/pngimages/860/591/png-clipart-multipremier-52mx-television-multicinema-mvs-comunicaciones-cine-miscellaneous-television.png" group-title="Nacional",MultiPremier
