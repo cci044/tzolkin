@@ -148,7 +148,7 @@ http://177.234.230.206:8011/play/a0dn/index.m3u8
 #EXTINF:-1, De PelŦcula
 http://177.234.230.206:8011/play/a0ip/index.m3u8
 #EXTINF:-1, Sony Channel
-http://200.60.124.19:29000/play/a026/index.m3u8
+http://177.234.230.206:8011/play/a0q4/index.m3u8
 #EXTINF:-1, Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1, HBO 
@@ -201,8 +201,10 @@ http://177.234.230.206:8011/play/a0fd/index.m3u8
 http://177.234.230.206:8011/play/a0ic/index.m3u8
 #EXTINF:-1, Paramount Network
 http://177.234.230.206:8011/play/a0j0/index.m3u8
+#EXTINF:-1, DHE
+http://177.234.230.206:8011/play/a0o4/index.m3u8
 #EXTINF:-1 tvg-id="CineCanal" tvg-name="CineCanal" tvg-logo="https://cdn.mitvstatic.com/channels/sv_cinecanal_m.png" group-title="Nacional",CineCanal
-http://177.234.230.206:8011/play/a0oe/index.m3u8
+http://177.234.230.206:8011/play/a0c4/index.m3u8
 #EXTINF:-1, Star Channel
 https://tv1.strm2234.xyz/starchannel/index.m3u8
 #EXTINF:-1, FOX SPORTS 3 
