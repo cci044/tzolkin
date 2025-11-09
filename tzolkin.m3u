@@ -93,6 +93,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/animeOnegai/bitel/animeOnegai_ori_72
 https://giatv.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
 #EXTINF:-1 tvg-id="GogoPlay" tvg-name="GogoPlay" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2023/07/gogo.jpg" group-title="Nacional",GogoPlay
 https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAYTVE/NEOGOGOPLAYTVE/playlist.m3u8
+#EXTINF:-1, Cartoon Classico
+https://live20.bozztv.com/akamaissh101/ssh101/cartoonclasico/playlist.m3u8
 #EXTINF:-1, Discovery Kids 
 http://177.234.230.206:8011/play/a0pg/index.m3u8
 #EXTINF:-1, Disney 
@@ -101,26 +103,20 @@ http://177.234.230.206:8011/play/a0c2/index.m3u8
 http://177.234.230.206:8011/play/a0n9/index.m3u8
 #EXTINF:-1, tvg-id="Bitme" tvg-name="Bitme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/1200px-BitMe_logo.svg.png" group-title="Nacional",Bitme
 http://38.44.109.41:8003/play/a00f/index.m3u8
-#EXTINF:-1, Creo Latino
-https://live-evg25.tv360.bitel.com.pe/bitel/creolatino/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="FMH Peliculas" tvg-name="FMH Peliculas" tvg-logo="https://www.fmh.la/images/logos_slider/movies.png" group-title="Nacional",FMH Peliculas
-https://live-evg25.tv360.bitel.com.pe/bitel/fmhmovies_ori/playlist.m3u8?uid=1111947
-#EXTINF:-1, OliTV
-https://v4.tustreaming.cl/retroplaytv/index.m3u8
+https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/bitel/fmhmovies_720p/chunks.m3u8
 #EXTINF:-1, WOW Movie
 https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
-#EXTINF:-1, Cine Club
-https://live-evg25.tv360.bitel.com.pe/bitel/cineclub/playlist.m3u8?uid=1111947
-#EXTINF:-1 tvg-id="My Time Movie Network" tvg-name="My Time Movie Network" tvg-logo="https://yt3.googleusercontent.com/_IYldBaqPlDzVmhupfTuZlXegDoAw8cxmK54WY7vjPaTQwEh49Bco2D4lhlZ36cDy_VPv3zROw=s900-c-k-c0x00ffffff-no-rj" group-title="Nacional",My Time Movie Network
-https://appletree-mytimespain-rakuten.amagi.tv/1080p/index.m3u8
+#EXTINF:-1, CreoLatino
+https://live-evg5.tv360.bitel.com.pe/bitel/CreoLatinoSRT/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="DMJ" tvg-name="DMJ" tvg-logo="https://tvgratisperu.com/assets/img/canales/peru/dmj.png" group-title="Nacional",DMJ
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 #EXTINF:-1, Vivo TV
-https://panel.host-live.com:19360/gvbnwcaqke/gvbnwcaqke.m3u8
-#EXTINF:-1, Cine+
-https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
+https://videostream.shockmedia.com.ar:19360/vivotv/vivotv.m3u8
+#EXTINF:-1, Filmcine
+https://d3rciv7av2te5a.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/8e3e3da6-995b-44e5-9e27-138df354c2f0/5.m3u8
 #EXTINF:-1, Mega Cine
-https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+https://cnn.hostlagarto.com/megacinetv/index.m3u8
 #EXTINF:-1 tvg-id="Grjngo" tvg-name="Grjngo" tvg-logo="https://static.wixstatic.com/media/0e69b2_b95d085086fc46e7aba5f51308e0e74d~mv2.jpg/v1/fill/w_1920,h_1080,al_c/0e69b2_b95d085086fc46e7aba5f51308e0e74d~mv2.jpg" group-title="Nacional",Grjngo
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="Planeta" tvg-name="Planeta" tvg-logo="https://www.pngkey.com/png/detail/221-2211630_planeta-tv-96-television.png" group-title="Nacional",Planeta
