@@ -111,5 +111,7 @@ https://5fd5567570c0e.streamlock.net:443/theretrochannel/stream/chunklist_w11297
 https://live-evg7.tv360.bitel.com.pe/bitel/NovaSRT/playlist.m3u8?uid=1111947
 #EXTINF:-1, VMLatino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+#EXTINF:-1, AzCorazon
+http://e10.cdnfree.live:2052/free10/006/chunks.m3u8?nimblesessionid=6793724&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyNSA4OjE5OjM1IFBNJmhhc2hfdmFsdWU9WGhLUXJvUC9lMHFSVzB4eDZzbmpCUT09JnZhbGlkbWludXRlcz0yNDA=
 #EXTINF:-1 tvg-id="Exitosa" tvg-name="Exitosa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/640px-Logoexitosa.png" group-title="Nacional",Exitosa
 https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/bitel/exitosa_720p/chunks.m3u8?uid=1111947
