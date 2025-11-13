@@ -95,27 +95,39 @@ https://v2.azulstream.com:8081/gamtv/gamtv/playlist.m3u8
 http://51.79.81.69:8080/live/f8f1c1bd2d0d4b62b70a72c8ac8db4c4/0b15f7ef43f749118fb2edf73017f129/55.m3u8
 #EXTINF:-1,Cinemax
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/99.m3u8
-#EXTINF:-1, Sony Cine
+#EXTINF:-1, SonyCine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1, HBO 
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/105.m3u8
 #EXTINF:-1, HBO2
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/100.m3u8
+#EXTINF:-1, HBOZONE
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/106.m3u8
+#EXTINF:-1, MoreMax
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/107.m3u8
 #EXTINF:-1, 5TarMax
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/97.m3u8
 #EXTINF:-1, ActionMax
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/98.m3u8
+#EXTINF:-1, ScreemPix
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/110.m3u8
+#EXTINF:-1, ShowTime
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/115.m3u8
+#EXTINF:-1, StarzEncore
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/121.m3u8
+#EXTINF:-1, StarzWeast
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/125.m3u8
 #EXTINF:-1, Karibeña
 https://live-evg25.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/playlist.m3u8?uid=1111947
-#EXTINF:-1, Top Latino
+#EXTINF:-1, TopLatino
 https://live-evg25.tv360.bitel.com.pe:443/bitel/toplatino/chunks.m3u8?uid=1111947
-#EXTINF:-1, Tendencias Top
+#EXTINF:-1, TendenciasTop
 https://s1.tvdatta.com:3950/multi_web/play_1080.m3u8
 #EXTINF:-1, UrbanMix
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/4300.m3u8
-#EXTINF:-1, The Retro Channel
+#EXTINF:-1, TheRetroChannel
 https://5fd5567570c0e.streamlock.net:443/theretrochannel/stream/chunklist_w1129775069.m3u8
-#EXTINF:-1, Radio Nova
+#EXTINF:-1, RadioNova
 https://live-evg25.tv360.bitel.com.pe/bitel/NovaSRT/playlist.m3u8?uid=1111947
 #EXTINF:-1, VMLatino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
