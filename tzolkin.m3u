@@ -98,20 +98,18 @@ http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/121.m3u8
 #EXTINF:-1, StarzWeast
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/125.m3u8
 #EXTINF:-1, Karibeña
-https://live-evg25.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/playlist.m3u8?uid=1111947
+https://live-evg18.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/playlist.m3u8?uid=1111947
 #EXTINF:-1, TopLatino
-https://live-evg25.tv360.bitel.com.pe:443/bitel/toplatino/chunks.m3u8?uid=1111947
+https://live-evg11.tv360.bitel.com.pe/bitel/toplatino/playlist.m3u8?uid=1111947
 #EXTINF:-1, TendenciasTop
 https://s1.tvdatta.com:3950/multi_web/play_1080.m3u8
 #EXTINF:-1, UrbanMix
-https://newidco-newkid-1-eu.xiaomi.wurl.tv/4300.m3u8
+https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 #EXTINF:-1, TheRetroChannel
 https://5fd5567570c0e.streamlock.net:443/theretrochannel/stream/chunklist_w1129775069.m3u8
 #EXTINF:-1, RadioNova
-https://live-evg25.tv360.bitel.com.pe/bitel/NovaSRT/playlist.m3u8?uid=1111947
+https://live-evg7.tv360.bitel.com.pe/bitel/NovaSRT/playlist.m3u8?uid=1111947
 #EXTINF:-1, VMLatino
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
-#EXTINF:-1, VintageMusic
-https://59ef525c24caa.streamlock.net/vmtv/tvvintage/chunklist_w563491990.m3u8
 #EXTINF:-1 tvg-id="Exitosa" tvg-name="Exitosa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/640px-Logoexitosa.png" group-title="Nacional",Exitosa
 https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/bitel/exitosa_720p/chunks.m3u8?uid=1111947
