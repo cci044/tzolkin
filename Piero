@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1, sh
-http://209.126.119.148:20102/live/6bab42d310634a5b962ff48c7ec2e89d/d1d31285fba548319985ba4fcf4fea25/403.m3u8
+#EXTINF:-1, Latina Noticias
+https://jireh-4-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream1/chunks.m3u8?dpssid=b2105404979368c45736efba9&sid=ba5t1l1xb22884464868c4575e61bf4&ndvc=0
+#EXTINF:-1 tvg-id="Latina" tvg-name="Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png" group-title="Nacional",Latina
+https://live-evg7.tv360.bitel.com.pe/bitel/latina_abr/bitel/latina_720p/chunks.m3u8?uid=11128978
+#EXTINF:-1 tvg-id="Willax" tvg-name="Willax" tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2015-205_import.png" group-title="Nacional",Willax
+https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.m3u8?uid=1909222
