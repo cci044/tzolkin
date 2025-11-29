@@ -24,7 +24,7 @@ https://live-evg18.tv360.bitel.com.pe/bitel/atvsur_abr/bitel/atvsur_720p/chunks.
 #EXTINF:-1 tvg-id="TV Norte Chiclayo" tvg-name="TV Norte Chiclayo" tvg-logo="https://tunorte.co/wp-content/uploads/2020/02/tunorte-logoweb.jpg" group-title="Nacional",TV Norte Chiclayo
 https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/chunks.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Global TV" tvg-name="Global TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png" group-title="Nacional",Global TV
-https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m3u8?uid=11504377
+https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m3u8?uid=9972411
 #EXTINF:-1 tvg-id="Sol TV" tvg-name="Sol TV" tvg-logo="https://soltvperu.com/wp-content/uploads/2024/05/logo-sol-tv.png" group-title="Nacional",Sol TV
 https://live-evg7.tv360.bitel.com.pe/bitel/soltv/playlist.m3u8?uid=1111947
 #EXTINF:-1, Riku TV
@@ -52,9 +52,9 @@ https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/bitel/fmhkids_720p/chunk
 #EXTINF:-1, Creo Kids
 https://live-evg18.tv360.bitel.com.pe/bitel/CreoKidsSRT/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Anime Onegai" tvg-name="Anime Onegai" tvg-logo="https://m.media-amazon.com/images/I/41HfqRzfnLL.pnghttps://m.media-amazon.com/images/I/41HfqRzfnLL.png" group-title="Nacional",Anime Onegai
-https://live-evg25.tv360.bitel.com.pe/bitel/animeOnegai/bitel/animeOnegai_ori_720p/chunks.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/animakids/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="MixB" tvg-name="MixB" tvg-logo="https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg" group-title="Nacional",MixB
-https://giatv.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
+https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="GogoPlay" tvg-name="GogoPlay" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2023/07/gogo.jpg" group-title="Nacional",GogoPlay
 https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAYTVE/NEOGOGOPLAYTVE/playlist.m3u8
 #EXTINF:-1 tvg-id="FMH Peliculas" tvg-name="FMH Peliculas" tvg-logo="https://www.fmh.la/images/logos_slider/movies.png" group-title="Nacional",FMH Peliculas
@@ -97,6 +97,40 @@ http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/115.m3u8
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/121.m3u8
 #EXTINF:-1, StarzWeast
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/125.m3u8
+#EXTINF:-1, TntSport
+http://199.127.63.105:8989/278519_.m3u8
+#EXTINF:-1, TudnDeportes
+http://104.238.222.251:8989/278559_.m3u8
+#EXTINF:-1, FoxSport Premium
+http://199.127.63.105:8989/278598_.m3u8
+#EXTINF:-1, FoxSport
+http://199.127.63.105:8989/278595_.m3u8
+#EXTINF:-1, FoxSport2
+http://199.127.63.105:8989/278590_.m3u8
+#EXTINF:-1, FoxSport3
+http://104.194.8.54:8989/278592_.m3u8
+#EXTINF:-1, AztecaDeportes
+http://199.127.63.105:8989/278576_.m3u8
+#EXTINF:-1, DanzCombat
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:-1, BeinsSport
+https://bein-esp-xumo.amagi.tv:443/playlistR720P.m3u8
+#EXTINF:-1, ESPN
+http://177.234.230.206:8011/play/a0ag/index.m3u8
+#EXTINF:-1, ESPN2
+http://177.234.230.206:8011/play/a0ig/index.m3u8
+#EXTINF:-1, ESPN3
+http://177.234.230.206:8011/play/a0ox/index.m3u8
+#EXTINF:-1, ESPN4
+http://177.234.230.206:8011/play/a0ol/index.m3u8
+#EXTINF:-1, ESPN5
+http://104.238.205.28:8989/278558_.m3u8
+#EXTINF:-1, ESPN6
+http://177.234.230.206:8011/play/a01f/index.m3u8
+#EXTINF:-1, GolPeru
+http://177.234.230.206:8011/play/a07r/index.m3u8
+#EXTINF:-1, DSport
+http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/9562
 #EXTINF:-1, Karibeña
 https://live-evg18.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/playlist.m3u8?uid=1111947
 #EXTINF:-1, TopLatino
