@@ -6,7 +6,7 @@ https://live-evg7.tv360.bitel.com.pe/bitel/latina_abr/bitel/latina_720p/chunks.m
 #EXTINF:-1 tvg-id="Willax" tvg-name="Willax" tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2015-205_import.png" group-title="Nacional",Willax
 https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.m3u8?uid=1909222
 #EXTINF:-1 tvg-id="America" tvg-name="America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png" group-title="Nacional", America
-https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_720p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="Atv" tvg-name="Atv" tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-E0FD3BBF05-seeklogo.com.png" group-title="Nacional",Atv
 https://live-evg20.tv360.bitel.com.pe/bitel/Atv-UDP_abr/bitel/Atv-udp_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="Atv+" tvg-name="Atv+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title="Nacional",Atv+
@@ -97,6 +97,14 @@ http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/115.m3u8
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/121.m3u8
 #EXTINF:-1, StarzWeast
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/125.m3u8
+#EXTINF:-1, FreeTvTerror
+https://stream.ads.ottera.tv/cl/251206d4ppr3h4v1j7nalonds0/1280x720_3071200_0_f.m3u8?i=475_16194
+#EXTINF:-1, PlutoCineTerror
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1, RuntimeTerror
+https://run-ruthr.otteravision.com/run/ruthr/ruthr_720.m3u8
+#EXTINF:-1, TVPanico
+http://199.127.63.105:8989/278511_.m3u8
 #EXTINF:-1, TntSport
 http://199.127.63.105:8989/278519_.m3u8
 #EXTINF:-1, TudnDeportes
@@ -120,13 +128,11 @@ http://199.127.63.105:8989/278589_.m3u8
 #EXTINF:-1, ESPN2
 http://177.234.230.206:8011/play/a0ig/index.m3u8
 #EXTINF:-1, ESPN3
-http://177.234.230.206:8011/play/a0ox/index.m3u8
+http://199.127.63.105:8989/278581_.m3u8
 #EXTINF:-1, ESPN4
 http://199.127.63.105:8989/278582_.m3u8
 #EXTINF:-1, ESPN5
 http://104.238.205.28:8989/278558_.m3u8
-#EXTINF:-1, ESPN6
-http://177.234.230.206:8011/play/a01f/index.m3u8
 #EXTINF:-1, TVCDeportes
 http://199.127.63.105:8989/278563_.m3u8
 #EXTINF:-1, DSport
