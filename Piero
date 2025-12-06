@@ -116,19 +116,19 @@ https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-ra
 #EXTINF:-1, BeinsSport
 https://bein-esp-xumo.amagi.tv:443/playlistR720P.m3u8
 #EXTINF:-1, ESPN
-http://177.234.230.206:8011/play/a0ag/index.m3u8
+http://199.127.63.105:8989/278589_.m3u8
 #EXTINF:-1, ESPN2
 http://177.234.230.206:8011/play/a0ig/index.m3u8
 #EXTINF:-1, ESPN3
 http://177.234.230.206:8011/play/a0ox/index.m3u8
 #EXTINF:-1, ESPN4
-http://177.234.230.206:8011/play/a0ol/index.m3u8
+http://199.127.63.105:8989/278582_.m3u8
 #EXTINF:-1, ESPN5
 http://104.238.205.28:8989/278558_.m3u8
 #EXTINF:-1, ESPN6
 http://177.234.230.206:8011/play/a01f/index.m3u8
-#EXTINF:-1, GolPeru
-http://177.234.230.206:8011/play/a07r/index.m3u8
+#EXTINF:-1, TVCDeportes
+http://199.127.63.105:8989/278563_.m3u8
 #EXTINF:-1, DSport
 http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/9562
 #EXTINF:-1, Karibeña
