@@ -30,7 +30,7 @@ https://live-evg7.tv360.bitel.com.pe/bitel/soltv/playlist.m3u8?uid=1111947
 #EXTINF:-1, Riku TV
 https://live-evg7.tv360.bitel.com.pe/bitel/riku/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="TELELIMA" tvg-name="TELELIMA" tvg-logo="https://www.telelima.pe/img/logoweb1.png" group-title="Nacional",TELELIMA
-https://live.telelima.net/TL_GRUPO-MVCE/index.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/chikitoonsSRT/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Azteca  Internacional" tvg-name="Azteca  Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Azteca_Internacional_2008.png/revision/latest?cb=20200207215451&path-prefix=es" group-title="Nacional",Azteca  Internacional
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 #EXTINF:-1 tvg-id="Telemundo Internacional" tvg-name="Telemundo Internacional" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/styles/article_cover_image/public/images/article/cover/2015/04/14/untitled.jpg" group-title="Nacional",Telemundo Internacional
@@ -97,46 +97,56 @@ http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/115.m3u8
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/121.m3u8
 #EXTINF:-1, StarzWeast
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/125.m3u8
-#EXTINF:-1, FreeTvTerror
-https://stream.ads.ottera.tv/cl/251206d4ppr3h4v1j7nalonds0/1280x720_3071200_0_f.m3u8?i=475_16194
 #EXTINF:-1, PlutoCineTerror
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1, RuntimeTerror
 https://run-ruthr.otteravision.com/run/ruthr/ruthr_720.m3u8
-#EXTINF:-1, TVPanico
-http://199.127.63.105:8989/278511_.m3u8
+#EXTINF:-1, ClaroSport
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_rdY1p6snf7gxqjbZMu5YWw/ts
+#EXTINF:-1, ClaroSport2
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_vJS-RIdgr-ptIK2NrD-zro/ts
+#EXTINF:-1, LaLiga1
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_maaVgXohCT_vuEoYnxBFXo/ts
+#EXTINF:-1, LaLigaMax
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_vdZ0rW5YXFKcBnGyvlyEkg/ts
 #EXTINF:-1, TntSport
-http://199.127.63.105:8989/278519_.m3u8
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_hYCHdU1m-9nEJmF-96WPmA/ts
 #EXTINF:-1, TudnDeportes
-http://104.238.222.251:8989/278559_.m3u8
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_sThP1AkajWoLNcb8zTyMOE/ts
 #EXTINF:-1, FoxSport Premium
 http://199.127.63.105:8989/278598_.m3u8
 #EXTINF:-1, FoxSport
-http://199.127.63.105:8989/278595_.m3u8
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_sRA74ePJAeC6nFI3kYcK3g/ts
 #EXTINF:-1, FoxSport2
-http://199.127.63.105:8989/278590_.m3u8
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_tvCMTsEkPmk8DW-x1urdI0/ts
 #EXTINF:-1, FoxSport3
-http://104.194.8.54:8989/278592_.m3u8
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_qsUZvXKBsqmJ63t2iFlWj4/ts
 #EXTINF:-1, AztecaDeportes
-http://199.127.63.105:8989/278576_.m3u8
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_r_w2uzAQgz1ulMNLtYDKzA/ts
 #EXTINF:-1, DanzCombat
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 #EXTINF:-1, BeinsSport
 https://bein-esp-xumo.amagi.tv:443/playlistR720P.m3u8
 #EXTINF:-1, ESPN
-http://199.127.63.105:8989/278589_.m3u8
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_iTRA6jShGoE2NoWgufgKNM/ts
 #EXTINF:-1, ESPN2
-http://177.234.230.206:8011/play/a0ig/index.m3u8
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_qCrIB9Xxl3hPHRT-3dD31U/ts
 #EXTINF:-1, ESPN3
-http://199.127.63.105:8989/278581_.m3u8
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_osokoI5Eh9Ei0gch1z_uW8/ts
 #EXTINF:-1, ESPN4
-http://199.127.63.105:8989/278582_.m3u8
-#EXTINF:-1, ESPN5
-http://104.238.205.28:8989/278558_.m3u8
-#EXTINF:-1, TVCDeportes
-http://199.127.63.105:8989/278563_.m3u8
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_iHxhLKaaMOn1WT0bRALk0E/ts
+#EXTINF:-1, ESPN Deportes
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_jqnS9izckd3FiwDleRtnWM/ts
+#EXTINF:-1, ESPN Premium
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_gMwt6UutFj6RZxND16K1s8/ts
+#EXTINF:-1, GolPeru
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_oH7HEBIdTIaCwjziKqlBJU/ts
 #EXTINF:-1, DSport
-http://tv.diablotv.net:8080/CanalesIprotvPro/U3XdSbjMVb/9562
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_shPwOarSm8hbWwCUYye5Fg/ts
+#EXTINF:-1, DSport2
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_rlxsxweTL7yQN_u3AJXqvc/ts
+#EXTINF:-1, DSportPlus
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_khU75ypQRE069jZYFeDRuA/ts
 #EXTINF:-1, Karibeña
 https://live-evg18.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/playlist.m3u8?uid=1111947
 #EXTINF:-1, TopLatino
