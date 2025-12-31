@@ -6,7 +6,7 @@ https://live-evg7.tv360.bitel.com.pe/bitel/latina_abr/bitel/latina_720p/chunks.m
 #EXTINF:-1 tvg-id="Willax" tvg-name="Willax" tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2015-205_import.png" group-title="Nacional",Willax
 https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.m3u8?uid=1909222
 #EXTINF:-1 tvg-id="America" tvg-name="America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png" group-title="Nacional", America
-https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_720p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/bitel/America-udp_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="Atv" tvg-name="Atv" tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-E0FD3BBF05-seeklogo.com.png" group-title="Nacional",Atv
 https://live-evg20.tv360.bitel.com.pe/bitel/Atv-UDP_abr/bitel/Atv-udp_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="Atv+" tvg-name="Atv+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title="Nacional",Atv+
@@ -24,13 +24,13 @@ https://live-evg18.tv360.bitel.com.pe/bitel/atvsur_abr/bitel/atvsur_720p/chunks.
 #EXTINF:-1 tvg-id="TV Norte Chiclayo" tvg-name="TV Norte Chiclayo" tvg-logo="https://tunorte.co/wp-content/uploads/2020/02/tunorte-logoweb.jpg" group-title="Nacional",TV Norte Chiclayo
 https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/chunks.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Global TV" tvg-name="Global TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png" group-title="Nacional",Global TV
-https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m3u8?uid=11504377
+https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m3u8?uid=9972411
 #EXTINF:-1 tvg-id="Sol TV" tvg-name="Sol TV" tvg-logo="https://soltvperu.com/wp-content/uploads/2024/05/logo-sol-tv.png" group-title="Nacional",Sol TV
 https://live-evg7.tv360.bitel.com.pe/bitel/soltv/playlist.m3u8?uid=1111947
 #EXTINF:-1, Riku TV
 https://live-evg7.tv360.bitel.com.pe/bitel/riku/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="TELELIMA" tvg-name="TELELIMA" tvg-logo="https://www.telelima.pe/img/logoweb1.png" group-title="Nacional",TELELIMA
-https://live.telelima.net/TL_GRUPO-MVCE/index.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/chikitoonsSRT/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Azteca  Internacional" tvg-name="Azteca  Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Azteca_Internacional_2008.png/revision/latest?cb=20200207215451&path-prefix=es" group-title="Nacional",Azteca  Internacional
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 #EXTINF:-1 tvg-id="Telemundo Internacional" tvg-name="Telemundo Internacional" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/styles/article_cover_image/public/images/article/cover/2015/04/14/untitled.jpg" group-title="Nacional",Telemundo Internacional
@@ -52,9 +52,9 @@ https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/bitel/fmhkids_720p/chunk
 #EXTINF:-1, Creo Kids
 https://live-evg18.tv360.bitel.com.pe/bitel/CreoKidsSRT/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Anime Onegai" tvg-name="Anime Onegai" tvg-logo="https://m.media-amazon.com/images/I/41HfqRzfnLL.pnghttps://m.media-amazon.com/images/I/41HfqRzfnLL.png" group-title="Nacional",Anime Onegai
-https://live-evg25.tv360.bitel.com.pe/bitel/animeOnegai/bitel/animeOnegai_ori_720p/chunks.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/animakids/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="MixB" tvg-name="MixB" tvg-logo="https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg" group-title="Nacional",MixB
-https://giatv.bozztv.com/giatv/giatv-neogogoplaymix/neogogoplaymix/playlist.m3u8
+https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="GogoPlay" tvg-name="GogoPlay" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2023/07/gogo.jpg" group-title="Nacional",GogoPlay
 https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAYTVE/NEOGOGOPLAYTVE/playlist.m3u8
 #EXTINF:-1 tvg-id="FMH Peliculas" tvg-name="FMH Peliculas" tvg-logo="https://www.fmh.la/images/logos_slider/movies.png" group-title="Nacional",FMH Peliculas
@@ -97,14 +97,56 @@ http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/115.m3u8
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/121.m3u8
 #EXTINF:-1, StarzWeast
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/125.m3u8
-#EXTINF:-1, FreeTvTerror
-https://stream.ads.ottera.tv/cl/251206d4ppr3h4v1j7nalonds0/1280x720_3071200_0_f.m3u8?i=475_16194
 #EXTINF:-1, PlutoCineTerror
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1, RuntimeTerror
 https://run-ruthr.otteravision.com/run/ruthr/ruthr_720.m3u8
-#EXTINF:-1, TVPanico
-http://199.127.63.105:8989/278511_.m3u8
+#EXTINF:-1, ClaroSport
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_rdY1p6snf7gxqjbZMu5YWw/ts
+#EXTINF:-1, ClaroSport2
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_vJS-RIdgr-ptIK2NrD-zro/ts
+#EXTINF:-1, LaLiga1
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_maaVgXohCT_vuEoYnxBFXo/ts
+#EXTINF:-1, LaLigaMax
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_vdZ0rW5YXFKcBnGyvlyEkg/ts
+#EXTINF:-1, TntSport
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_hYCHdU1m-9nEJmF-96WPmA/ts
+#EXTINF:-1, TudnDeportes
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_sThP1AkajWoLNcb8zTyMOE/ts
+#EXTINF:-1, FoxSport Premium
+http://199.127.63.105:8989/278598_.m3u8
+#EXTINF:-1, FoxSport
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_sRA74ePJAeC6nFI3kYcK3g/ts
+#EXTINF:-1, FoxSport2
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_tvCMTsEkPmk8DW-x1urdI0/ts
+#EXTINF:-1, FoxSport3
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_qsUZvXKBsqmJ63t2iFlWj4/ts
+#EXTINF:-1, AztecaDeportes
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_r_w2uzAQgz1ulMNLtYDKzA/ts
+#EXTINF:-1, DanzCombat
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:-1, BeinsSport
+https://bein-esp-xumo.amagi.tv:443/playlistR720P.m3u8
+#EXTINF:-1, ESPN
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_iTRA6jShGoE2NoWgufgKNM/ts
+#EXTINF:-1, ESPN2
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_qCrIB9Xxl3hPHRT-3dD31U/ts
+#EXTINF:-1, ESPN3
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_osokoI5Eh9Ei0gch1z_uW8/ts
+#EXTINF:-1, ESPN4
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_iHxhLKaaMOn1WT0bRALk0E/ts
+#EXTINF:-1, ESPN Deportes
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_jqnS9izckd3FiwDleRtnWM/ts
+#EXTINF:-1, ESPN Premium
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_gMwt6UutFj6RZxND16K1s8/ts
+#EXTINF:-1, GolPeru
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_oH7HEBIdTIaCwjziKqlBJU/ts
+#EXTINF:-1, DSport
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_shPwOarSm8hbWwCUYye5Fg/ts
+#EXTINF:-1, DSport2
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_rlxsxweTL7yQN_u3AJXqvc/ts
+#EXTINF:-1, DSportPlus
+https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_khU75ypQRE069jZYFeDRuA/ts
 #EXTINF:-1, Karibeña
 https://live-evg18.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/playlist.m3u8?uid=1111947
 #EXTINF:-1, TopLatino
