@@ -6,17 +6,17 @@ https://live-evg7.tv360.bitel.com.pe/bitel/latina_abr/bitel/latina_720p/chunks.m
 #EXTINF:-1 tvg-id="Willax" tvg-name="Willax" tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2015-205_import.png" group-title="Nacional",Willax
 https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.m3u8?uid=1909222
 #EXTINF:-1 tvg-id="America" tvg-name="America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png" group-title="Nacional", America
-https://live-evg20.tv360.bitel.com.pe/bitel/America-udp/bitel/America-udp_480p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/1B2hxcSr3beJ3EaZPWD6OA/1773325536/bitel/America-udp/bitel/America-udp_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="Atv" tvg-name="Atv" tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-E0FD3BBF05-seeklogo.com.png" group-title="Nacional",Atv
-https://live-evg20.tv360.bitel.com.pe/bitel/Atv-UDP_abr/bitel/Atv-udp_720p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/XMeT7gLz6pdYIjmap4L3Ng/1773325605/bitel/Atv+-UDP_abr/bitel/Atv+-udp_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="Atv+" tvg-name="Atv+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title="Nacional",Atv+
-https://live-evg20.tv360.bitel.com.pe/bitel/Atv+-UDP_abr/bitel/Atv+-udp_720p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/BAtpnrp6RnMxsqKNf7Cx2w/1773325653/bitel/Atv+-UDP_abr/bitel/Atv+-udp_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="La Tele" tvg-name="La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/LaTele_Per%C3%BA_2018_Logo.png" group-title="Nacional",La Tele
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Tv peru" tvg-name="Tv Peru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LOGO_TV_PERU_2012.png" group-title="Nacional",Tv peru
-https://live-evg20.tv360.bitel.com.pe/bitel/TVPeru-UDP_abr/bitel/TVPeru-udp_720p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/mJFR8WRwk4w7MTMcE-zQzQ/1773325674/bitel/TVPeru-UDP_abr/bitel/TVPeru-udp_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="Panamericana" tvg-name="Panamericana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="Nacional",Panamericana
-https://live-evg20.tv360.bitel.com.pe/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_720p/chunks.m3u8
+https://es3-p1-netcdn.bitel.com.pe/netcdn-live-3/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_480p/chunks.m3u8?timestamp=1773260928&wmkid=0&uid=1111947&token=06920bc881a6a4e58e2b4461dc09349a
 #EXTINF:-1, NacionalTVPeru
 https://live-evg5.tv360.bitel.com.pe/bitel/nacionaltvperuSRT/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Atv Sur" tvg-name="Atv Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATV_Sur_-_2018_logo_%28final%29.png" group-title="Nacional",Atv Sur
@@ -30,7 +30,7 @@ https://live-evg7.tv360.bitel.com.pe/bitel/soltv/playlist.m3u8?uid=1111947
 #EXTINF:-1, Riku TV
 https://live-evg7.tv360.bitel.com.pe/bitel/riku/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="TELELIMA" tvg-name="TELELIMA" tvg-logo="https://www.telelima.pe/img/logoweb1.png" group-title="Nacional",TELELIMA
-https://live-evg25.tv360.bitel.com.pe/bitel/chikitoonsSRT/playlist.m3u8?uid=1111947
+https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Azteca  Internacional" tvg-name="Azteca  Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Azteca_Internacional_2008.png/revision/latest?cb=20200207215451&path-prefix=es" group-title="Nacional",Azteca  Internacional
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 #EXTINF:-1 tvg-id="Telemundo Internacional" tvg-name="Telemundo Internacional" tvg-logo="https://www.telemundo.com/sites/nbcutelemundo/files/styles/article_cover_image/public/images/article/cover/2015/04/14/untitled.jpg" group-title="Nacional",Telemundo Internacional
@@ -38,7 +38,7 @@ http://51.79.81.69:8080/live/5bb1d796ffbd446a9f4dccafc81ca352/5850952ce750443faa
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Nacional",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1, Bonita TV
-https://live-evg25.tv360.bitel.com.pe/bitel/bonitatv/playlist.m3u8?uid=1111947
+https://live-evg8.tv360.bitel.com.pe/bitel/bonitatv/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Tl Novelas" tvg-name="Tl Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/2560px-Tlnovelas_2011_logo.svg.png" group-title="Nacional",Tl Novelas
 http://51.79.81.69:8080/live/825e01bc6ded4df9b608d98323f9a854/b5885f0464ab42a8895ee565d977834b/57.m3u8
 #EXTINF:-1 tvg-id="TNT Novelas" tvg-name="TNT Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_NOVELAS.png" group-title="Nacional",TNT Novelas
@@ -55,12 +55,12 @@ https://live-evg18.tv360.bitel.com.pe/bitel/CreoKidsSRT/playlist.m3u8?uid=111194
 https://live-evg25.tv360.bitel.com.pe/bitel/animakids/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="MixB" tvg-name="MixB" tvg-logo="https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg" group-title="Nacional",MixB
 https://live-evg7.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8?uid=1111947
-#EXTINF:-1 tvg-id="GogoPlay" tvg-name="GogoPlay" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2023/07/gogo.jpg" group-title="Nacional",GogoPlay
-https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAYTVE/NEOGOGOPLAYTVE/playlist.m3u8
 #EXTINF:-1 tvg-id="FMH Peliculas" tvg-name="FMH Peliculas" tvg-logo="https://www.fmh.la/images/logos_slider/movies.png" group-title="Nacional",FMH Peliculas
 https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/bitel/fmhmovies_720p/chunks.m3u8
 #EXTINF:-1, CreoLatino
 https://live-evg5.tv360.bitel.com.pe/bitel/CreoLatinoSRT/playlist.m3u8?uid=1111947
+#EXTINF:-1, RetroPLus
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="DMJ" tvg-name="DMJ" tvg-logo="https://tvgratisperu.com/assets/img/canales/peru/dmj.png" group-title="Nacional",DMJ
 https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
 #EXTINF:-1, Mega Cine
@@ -69,8 +69,6 @@ https://cnn.hostlagarto.com/megacinetv/index.m3u8
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="Planeta" tvg-name="Planeta" tvg-logo="https://www.pngkey.com/png/detail/221-2211630_planeta-tv-96-television.png" group-title="Nacional",Planeta
 https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Gam TV" tvg-name="Gam TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/GamaTV_2006.png" group-title="Nacional",Gam TV
-https://v2.azulstream.com:8081/gamtv/gamtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Logo_Distrito_Comedia.png" group-title="Nacional",Distrito Comedia
 http://51.79.81.69:8080/live/f8f1c1bd2d0d4b62b70a72c8ac8db4c4/0b15f7ef43f749118fb2edf73017f129/55.m3u8
 #EXTINF:-1,Cinemax
@@ -97,65 +95,19 @@ http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/115.m3u8
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/121.m3u8
 #EXTINF:-1, StarzWeast
 http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/125.m3u8
-#EXTINF:-1, PlutoCineTerror
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1, RuntimeTerror
 https://run-ruthr.otteravision.com/run/ruthr/ruthr_720.m3u8
-#EXTINF:-1, ClaroSport
-https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_rdY1p6snf7gxqjbZMu5YWw/ts
-#EXTINF:-1, ClaroSport2
-https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_vJS-RIdgr-ptIK2NrD-zro/ts
-#EXTINF:-1, LaLiga1
-https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_maaVgXohCT_vuEoYnxBFXo/ts
-#EXTINF:-1, LaLigaMax
-https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_vdZ0rW5YXFKcBnGyvlyEkg/ts
-#EXTINF:-1, TntSport
-https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_hYCHdU1m-9nEJmF-96WPmA/ts
-#EXTINF:-1, TudnDeportes
-https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_sThP1AkajWoLNcb8zTyMOE/ts
-#EXTINF:-1, FoxSport Premium
-http://199.127.63.105:8989/278598_.m3u8
-#EXTINF:-1, FoxSport
-https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_sRA74ePJAeC6nFI3kYcK3g/ts
-#EXTINF:-1, FoxSport2
-https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_tvCMTsEkPmk8DW-x1urdI0/ts
-#EXTINF:-1, FoxSport3
-https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_qsUZvXKBsqmJ63t2iFlWj4/ts
-#EXTINF:-1, AztecaDeportes
-https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_r_w2uzAQgz1ulMNLtYDKzA/ts
 #EXTINF:-1, DanzCombat
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 #EXTINF:-1, BeinsSport
 https://bein-esp-xumo.amagi.tv:443/playlistR720P.m3u8
-#EXTINF:-1, ESPN
-https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_iTRA6jShGoE2NoWgufgKNM/ts
-#EXTINF:-1, ESPN2
-https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_qCrIB9Xxl3hPHRT-3dD31U/ts
-#EXTINF:-1, ESPN3
-https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_osokoI5Eh9Ei0gch1z_uW8/ts
-#EXTINF:-1, ESPN4
-https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_iHxhLKaaMOn1WT0bRALk0E/ts
-#EXTINF:-1, ESPN Deportes
-https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_jqnS9izckd3FiwDleRtnWM/ts
-#EXTINF:-1, ESPN Premium
-https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_gMwt6UutFj6RZxND16K1s8/ts
-#EXTINF:-1, GolPeru
-https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_oH7HEBIdTIaCwjziKqlBJU/ts
-#EXTINF:-1, DSport
-https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_shPwOarSm8hbWwCUYye5Fg/ts
-#EXTINF:-1, DSport2
-https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_rlxsxweTL7yQN_u3AJXqvc/ts
-#EXTINF:-1, DSportPlus
-https://zonamovie.pro:443/play/yHMwdIjC0rJef8PDTmlT_khU75ypQRE069jZYFeDRuA/ts
-#EXTINF:-1, Karibeña
-https://live-evg18.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/playlist.m3u8?uid=1111947
+#EXTINF:-1, MixUrb
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/2000.m3u8
 #EXTINF:-1, TopLatino
 https://live-evg11.tv360.bitel.com.pe/bitel/toplatino/playlist.m3u8?uid=1111947
-#EXTINF:-1, TheRetroChannel
-https://5fd5567570c0e.streamlock.net:443/theretrochannel/stream/chunklist_w1129775069.m3u8
 #EXTINF:-1, RadioNova
 https://live-evg7.tv360.bitel.com.pe/bitel/NovaSRT/playlist.m3u8?uid=1111947
-#EXTINF:-1, VMLatino
-https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+#EXTINF:-1, Karibeña
+https://live-evg18.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Exitosa" tvg-name="Exitosa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/640px-Logoexitosa.png" group-title="Nacional",Exitosa
 https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/bitel/exitosa_720p/chunks.m3u8?uid=1111947
