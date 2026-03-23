@@ -6,9 +6,9 @@ https://live-evg7.tv360.bitel.com.pe/bitel/latina_abr/bitel/latina_720p/chunks.m
 #EXTINF:-1 tvg-id="Willax" tvg-name="Willax" tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2015-205_import.png" group-title="Nacional",Willax
 https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.m3u8?uid=1909222
 #EXTINF:-1 tvg-id="America" tvg-name="America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png" group-title="Nacional", America
-https://live-evg20.tv360.bitel.com.pe/DlE5h2y6L3bz-vL8FNVCpw/1774203537/bitel/America-udp/bitel/America-udp_480p/chunks.m3u8
+https://live-evg20.tv360.bitel.com.pe/lxtHvlsh7s6K2e8rh7lAZg/1774311711/bitel/America-udp/bitel/America-udp_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="Atv" tvg-name="Atv" tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-E0FD3BBF05-seeklogo.com.png" group-title="Nacional",Atv
-https://es3-p1-netcdn.bitel.com.pe/netcdn-live-3/bitel/Atv-UDP_abr/bitel/Atv-udp_480p/chunks.m3u8?timestamp=1774138713&wmkid=0&uid=1111947&token=642d1173589c1a81a785653eb4176b97
+https://es3-p1-netcdn.bitel.com.pe/netcdn-live-3/bitel/Atv-UDP_abr/bitel/Atv-udp_480p/chunks.m3u8?timestamp=1774246842&wmkid=0&uid=1111947&token=28156e81e87d647d35737a611eaaacb7
 #EXTINF:-1 tvg-id="Atv+" tvg-name="Atv+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title="Nacional",Atv+
 https://live-evg20.tv360.bitel.com.pe/vAhUfH6jDiEwS-jbAOhrcQ/1773424050/bitel/Atv+-UDP_abr/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="La Tele" tvg-name="La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/LaTele_Per%C3%BA_2018_Logo.png" group-title="Nacional",La Tele
