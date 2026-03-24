@@ -16,6 +16,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Tv peru" tvg-name="Tv Peru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LOGO_TV_PERU_2012.png" group-title="Nacional",Tv peru
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
 #EXTINF:-1 tvg-id="Panamericana" tvg-name="Panamericana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="Nacional",Panamericana
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 CrKey/1.44.191160
 https://live.cdnlivecdn.com/live/cde7c1935927ca1cf540d70c835deb58aca3fd15.m3u8
 #EXTINF:-1, NacionalTVPeru
 https://live-evg5.tv360.bitel.com.pe/bitel/nacionaltvperuSRT/playlist.m3u8?uid=1111947
