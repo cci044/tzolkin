@@ -7,16 +7,17 @@ https://live-evg7.tv360.bitel.com.pe/bitel/latina_abr/bitel/latina_720p/chunks.m
 https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/bitel/willax_720p/chunks.m3u8?uid=1909222
 #EXTINF:-1 tvg-id="America" tvg-name="America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png" group-title="Nacional", America
 http://legazy.us:8880/live/NewPlan25/kZZ6XeCFks/b49f40e7-04d3-454b-9a00-9c57bbb460d3.m3u8
+https://live-evg20.tv360.bitel.com.pe/NqWlPR2Z9oaEna2KVkseWg/1777986030/bitel/America-udp/bitel/America-udp_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="Atv" tvg-name="Atv" tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-E0FD3BBF05-seeklogo.com.png" group-title="Nacional",Atv
-https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/medialist_15609871089997455276_hls.m3u8
+https://alba-pe-atv-atv.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1 tvg-id="Atv+" tvg-name="Atv+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title="Nacional",Atv+
-https://live-evg20.tv360.bitel.com.pe/pSZJ4XexKAItqQJJ0O4uzQ/1777680975/bitel/Atv+-UDP_abr/bitel/Atv+-udp_720p/chunks.m3u8
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/original.m3u8
 #EXTINF:-1 tvg-id="La Tele" tvg-name="La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/LaTele_Per%C3%BA_2018_Logo.png" group-title="Nacional",La Tele
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Tv peru" tvg-name="Tv Peru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LOGO_TV_PERU_2012.png" group-title="Nacional",Tv peru
 https://live-evg20.tv360.bitel.com.pe/2gg3kwgLY1_F0msKPn4BlQ/1777681005/bitel/TVPeru-UDP_abr/bitel/TVPeru-udp_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="Panamericana" tvg-name="Panamericana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="Nacional",Panamericana
-http://legazy.us:8880/live/NewPlan25/kZZ6XeCFks/f0456176-4fbf-4ad6-a9cf-ffe0ec446a23.m3u8
+https://live-evg20.tv360.bitel.com.pe/M4TjBNcFjosss5VhZ4rI_A/1778003349/bitel/TVPeru-UDP_abr/bitel/TVPeru-udp_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="Atv Sur" tvg-name="Atv Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATV_Sur_-_2018_logo_%28final%29.png" group-title="Nacional",Atv Sur
 https://live-evg18.tv360.bitel.com.pe/bitel/atvsur_abr/bitel/atvsur_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="TV Norte Chiclayo" tvg-name="TV Norte Chiclayo" tvg-logo="https://tunorte.co/wp-content/uploads/2020/02/tunorte-logoweb.jpg" group-title="Nacional",TV Norte Chiclayo
