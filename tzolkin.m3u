@@ -2,11 +2,11 @@
 #EXTINF:-1, Latina Noticias
 https://jireh-9-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream1/chunks.m3u8?ndvc=1&dpssid=r1us9783916160e7fcc9c5099fb3ffd9ec364d4044a37&sid=ba5t1l1xb23746764466a50431eb3220
 #EXTINF:-1 tvg-id="Latina" tvg-name="Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png" group-title="Nacional",Latina
-https://es3-p1-netcdn.bitel.com.pe/netcdn-live-3/bitel/Latina-UDP_abr/bitel/Latina-udp_720p/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&wmkid=0&uid=2347812&timestamp=1784413779&token=4a5040f1b151b342e71278b69fa10e6b
+https://es2-p1-netcdn.bitel.com.pe/netcdn-live-3/bitel/Latina-UDP_abr/bitel/Latina-udp_480p/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&wmkid=0&uid=2347812&timestamp=1784510364&token=eddb7fffb4c756de9eba5547462f801c
 #EXTINF:-1 tvg-id="Willax" tvg-name="Willax" tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2015-205_import.png" group-title="Nacional",Willax
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(EDWUsD_1g9JyKN7iTHHRIvNaSGKKtp6tTDajW3aHrLaVCkwAxxKAYPKDBn_-KpwnQ4WPpdLOLZ_Iz-dfEaF2ZdxjaKpm9uDDSCTvn4N9YuqPs1HuYhgMI0E9YYZ-49Po)/cloud/3/xa63dow/s/live-720.m3u8
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(w2q4D_jkgP08qSA19MxVN-45XigixMMk3RT-Fp6kjotmiKXNsrDJ5Q-tLPZ0pow5jRRlm6NWz9_8XArpSn4i4i0y6JrtR8lfygXFAQi4dog5Ag8lcSfpbU8gafUjANhC)/cloud/3/xa63dow/s/live-480.m3u8#cell=lcf2-eu-north-1b
 #EXTINF:-1 tvg-id="America" tvg-name="America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png" group-title="Nacional", America
-https://live-evg23.tv360.bitel.com.pe/7M2yo5YTaU0slRwGOwu6VQ/1784478456/manifest/america/playlist_clean_source_720p.m3u8
+https://live-evg23.tv360.bitel.com.pe/YuaXr6ZBgz7v9zWCYGpYBg/1784575035/manifest/america/master_clean_source.m3u8?manifestfilter=video_bitrate:1-10000000&uid=2347812
 #EXTINF:-1 tvg-id="Atv" tvg-name="Atv" tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-E0FD3BBF05-seeklogo.com.png" group-title="Nacional",Atv
 https://d2b5h5wyivfnfl.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/medialist_15609871089997455276_hls.m3u8
 #EXTINF:-1 tvg-id="Atv+" tvg-name="Atv+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title="Nacional",Atv+
