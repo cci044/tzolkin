@@ -2,9 +2,9 @@
 #EXTINF:-1, Latina Noticias
 https://jireh-9-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream1/chunks.m3u8?ndvc=1&dpssid=r1us9783916160e7fcc9c5099fb3ffd9ec364d4044a37&sid=ba5t1l1xb23746764466a50431eb3220
 #EXTINF:-1 tvg-id="Latina" tvg-name="Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Logo-latina-2014.png" group-title="Nacional",Latina
-https://dai.google.com/linear/hls/pa/event/oYQGDqEGTmGdHE_fz9oLlg/stream/736c3a1d-a30a-431e-8b3c-7ad219a893a6:MRN2/variant/dab0eac8f528cb49bafcdb46d03063ff/bandwidth/2543137.m3u8
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/720p.m3u8
 #EXTINF:-1 tvg-id="Willax" tvg-name="Willax" tvg-logo="https://peru.mom-gmr.org/uploads/tx_lfrogmom/media/2015-205_import.png" group-title="Nacional",Willax
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(ZUjAo5Z-qH5f8kjgPw94IjoWl36LglVOZyth3jEir4-FGG85v8jOwwEX7mzoTkToVGmrtLDtDhrDQ0HdUij3xkLRg2Y2pDhlmp5Nt39lrtGy0L0vhK-AcQCqoHt-AkOS)/cloud/3/xa63dow/s/live-720.m3u8
+http://181.224.255.210:8001/play/a0s7/index.m3u8
 #EXTINF:-1 tvg-id="America" tvg-name="America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png" group-title="Nacional", America
 https://live-bd1.tv360.bitel.com.pe/manifest/america/playlist_clean_source_720p.m3u8
 #EXTINF:-1 tvg-id="Atv" tvg-name="Atv" tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-E0FD3BBF05-seeklogo.com.png" group-title="Nacional",Atv
