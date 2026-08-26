@@ -16,7 +16,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Tv peru" tvg-name="Tv Peru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LOGO_TV_PERU_2012.png" group-title="Nacional",Tv peru
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
 #EXTINF:-1 tvg-id="Panamericana" tvg-name="Panamericana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="Nacional",Panamericana
-https://sc2.escuela4.com/live/e4c39f53ffa5a35f2b17b0164819bcbc6d31e072.m3u8
+https://es3-p1-netcdn.bitel.com.pe/netcdn-live-3/bitel/Panamericana-UDP_abr/bitel/Panamericana-udp_720p/chunks.m3u8?manifestfilter=video_bitrate:1-10000000&wmkid=0&uid=1111947&timestamp=1787728851&token=a1b907f2c942d6254842893fb0d0a82b
 #EXTINF:-1 tvg-id="Atv Sur" tvg-name="Atv Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATV_Sur_-_2018_logo_%28final%29.png" group-title="Nacional",Atv Sur
 https://live-evg18.tv360.bitel.com.pe/bitel/atvsur_abr/bitel/atvsur_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="TV Norte Chiclayo" tvg-name="TV Norte Chiclayo" tvg-logo="https://tunorte.co/wp-content/uploads/2020/02/tunorte-logoweb.jpg" group-title="Nacional",TV Norte Chiclayo
