@@ -8,15 +8,15 @@ http://181.224.255.210:8001/play/a0s7/index.m3u8
 #EXTINF:-1 tvg-id="America" tvg-name="America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png" group-title="Nacional", America
 https://live-bd1.tv360.bitel.com.pe/manifest/america/playlist_clean_source_720p.m3u8
 #EXTINF:-1 tvg-id="Atv" tvg-name="Atv" tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-E0FD3BBF05-seeklogo.com.png" group-title="Nacional",Atv
-https://d2b5h5wyivfnfl.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/medialist_15609871089997455276_hls.m3u8
+https://d19e55ehz2il4i.cloudfront.net/medialist_15609871089997455276_hls.m3u8
 #EXTINF:-1 tvg-id="Atv+" tvg-name="Atv+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title="Nacional",Atv+
-https://d2b5h5wyivfnfl.cloudfront.net/live/77eece7f-8de5-4406-9f7e-7be16d81f2ce/ts:abr.m3u8
+https://d26l0c7cli5gzs.cloudfront.net/medialist_15609871089997455276_hls.m3u8
 #EXTINF:-1 tvg-id="La Tele" tvg-name="La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/LaTele_Per%C3%BA_2018_Logo.png" group-title="Nacional",La Tele
 https://live-evg25.tv360.bitel.com.pe/bitel/latele/playlist.m3u8?uid=1111947
 #EXTINF:-1 tvg-id="Tv peru" tvg-name="Tv Peru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LOGO_TV_PERU_2012.png" group-title="Nacional",Tv peru
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
 #EXTINF:-1 tvg-id="Panamericana" tvg-name="Panamericana" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="Nacional",Panamericana
-http://legazy.icu:8880/live/NewPlan25/kZZ6XeCFks/f0456176-4fbf-4ad6-a9cf-ffe0ec446a23.m3u8
+https://sc2.escuela4.com/live/e4c39f53ffa5a35f2b17b0164819bcbc6d31e072.m3u8
 #EXTINF:-1 tvg-id="Atv Sur" tvg-name="Atv Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/ATV_Sur_-_2018_logo_%28final%29.png" group-title="Nacional",Atv Sur
 https://live-evg18.tv360.bitel.com.pe/bitel/atvsur_abr/bitel/atvsur_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="TV Norte Chiclayo" tvg-name="TV Norte Chiclayo" tvg-logo="https://tunorte.co/wp-content/uploads/2020/02/tunorte-logoweb.jpg" group-title="Nacional",TV Norte Chiclayo
