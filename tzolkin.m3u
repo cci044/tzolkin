@@ -26,8 +26,20 @@ https://live-evg5.tv360.bitel.com.pe/bitel/tvnorte/chunks.m3u8?uid=1111947
 https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m3u8?uid=9972411
 #EXTINF:-1 tvg-id="Sol TV" tvg-name="Sol TV" tvg-logo="https://soltvperu.com/wp-content/uploads/2024/05/logo-sol-tv.png" group-title="Nacional",Sol TV
 https://live-evg23.tv360.bitel.com.pe/9fQtbzrRl6O6BPgUEX_jng/1790387190/manifest/america/playlist_clean_source_720p.m3u8
+#EXTINF:-1, Mega TV Jaen
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8?PlaylistM3UCL
+#EXTINF:-1, Via TV Tarapoto
+https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8?PlaylistM3UCL
+#EXTINF:-1, Tele Selva
+https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8?PlaylistM3UCL
+#EXTINF:-1, Onda TV Ica
+https://live-evg5.tv360.bitel.com.pe/bitel/onda/playlist.m3u8?manifestfilter=video_bitrate:1-10000000&uid=1111947
+#EXTINF:-1, Voz Digital Callao
+https://live-evg8.tv360.bitel.com.pe/bitel/vozdigitalperu/playlist.m3u8?manifestfilter=video_bitrate:1-10000000&uid=1111947
 #EXTINF:-1 tvg-id="TELELIMA" tvg-name="TELELIMA" tvg-logo="https://www.telelima.pe/img/logoweb1.png" group-title="Nacional",TELELIMA
 https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/playlist.m3u8?manifestfilter=video_bitrate:1-10000000&uid=1111947
+#EXTINF:-1, MaxTV
+https://live-evg11.tv360.bitel.com.pe/bitel/maxtv/playlist.m3u8?manifestfilter=video_bitrate:1-10000000&uid=1111947
 #EXTINF:-1 tvg-id="Azteca  Internacional" tvg-name="Azteca  Internacional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Azteca_Internacional_2008.png/revision/latest?cb=20200207215451&path-prefix=es" group-title="Nacional",Azteca  Internacional
 https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
 #EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Nacional",Las Estrellas
@@ -60,16 +72,14 @@ https://giatv.bozztv.com/giatv/giatv-NEOGOGOPLAYTVE/NEOGOGOPLAYTVE/playlist.m3u8
 https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/bitel/fmhmovies_720p/chunks.m3u8
 #EXTINF:-1, CreoLatino
 https://live-evg5.tv360.bitel.com.pe/bitel/CreoLatinoSRT/playlist.m3u8?uid=1111947
-#EXTINF:-1 tvg-id="DMJ" tvg-name="DMJ" tvg-logo="https://tvgratisperu.com/assets/img/canales/peru/dmj.png" group-title="Nacional",DMJ
-https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8
+#EXTINF:-1, MixBolivia
+https://giatv.bozztv.com/giatv/giatv-mixboliviatv/mixboliviatv/playlist.m3u8
+#EXTINF:-1, Telecolor
+https://live.obslivestream.com/telecolormux/index.m3u8?PlaylistM3UCL
 #EXTINF:-1, Mega Cine
 https://cnn.hostlagarto.com/megacinetv/index.m3u8
 #EXTINF:-1 tvg-id="Grjngo" tvg-name="Grjngo" tvg-logo="https://static.wixstatic.com/media/0e69b2_b95d085086fc46e7aba5f51308e0e74d~mv2.jpg/v1/fill/w_1920,h_1080,al_c/0e69b2_b95d085086fc46e7aba5f51308e0e74d~mv2.jpg" group-title="Nacional",Grjngo
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-id="Planeta" tvg-name="Planeta" tvg-logo="https://www.pngkey.com/png/detail/221-2211630_planeta-tv-96-television.png" group-title="Nacional",Planeta
-https://live.obslivestream.com/planetatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Gam TV" tvg-name="Gam TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/GamaTV_2006.png" group-title="Nacional",Gam TV
-https://v2.azulstream.com:8081/gamtv/gamtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Distrito Comedia" tvg-name="Distrito Comedia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Logo_Distrito_Comedia.png" group-title="Nacional",Distrito Comedia
 http://51.79.81.69:8080/live/f8f1c1bd2d0d4b62b70a72c8ac8db4c4/0b15f7ef43f749118fb2edf73017f129/55.m3u8
 #EXTINF:-1, Space
@@ -77,11 +87,11 @@ https://cablered.iptvperu.tv:1936/cablered/space_new/playlist.m3u8
 #EXTINF:-1, Cinecanal
 https://cablered.iptvperu.tv:1936/cablered/cinecanal_new/playlist.m3u8
 #EXTINF:-1, Dpelicula
-http://38.19.41.46:8081/DEPELICULA/index.m3u8
+https://cablered.iptvperu.tv:1936/cablered/dpelicula/playlist.m3u8
 #EXTINF:-1, A&E
-http://138.121.15.230:9002/A&E/index.m3u8
+https://cablered.iptvperu.tv:1936/cablered/a&e/playlist.m3u8
 #EXTINF:-1, AXN
-http://45.228.235.116:8000/play/a0iy/index.m3u8
+https://cablered.iptvperu.tv:1936/cablered/axn/playlist.m3u8
 #EXTINF:-1, FX
 https://cablered.iptvperu.tv:1936/cablered/fx_new/playlist.m3u8
 #EXTINF:-1, Studio Universal
@@ -120,18 +130,20 @@ https://cablered.iptvperu.tv:1936/cablered/espn7_new/playlist.m3u8
 http://15.204.146.163:8002/play/a00g/index.m3u8
 #EXTINF:-1, WinSport
 http://15.204.146.163:8002/play/a00h/index.m3u8
-#EXTINF:-1, TyC Sport
-https://liqcy.vivolatamz.org/telemundousa/index.m3u8?token=0e8bfe01746b44d65f8a20c50103f5c91e2c5c1d-70-1782971142-1782917142&ip=132.184.55.5
+#EXTINF:-1, UFC Fight
+https://jmp2.uk/plu-5e98b0447665f200078caded.m3u8
 #EXTINF:-1, Bicolor+
 https://live-evg10.tv360.bitel.com.pe/bitel/bicolorfree_abr/bitel/bicolorfree_720p/chunks.m3u8?manifestfilter=video_bitrate:1-4000000&uid=7909223
 #EXTINF:-1, TopMix
 https://cloud.tvomix.com/KPOPMIX/index.m3u8
 #EXTINF:-1, Karibeña
-https://live-evg18.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/playlist.m3u8?uid=1111947
+https://iptv-kg3s-video.gkplaystreaming.online/karibenatv_685a-pe-a5676-584412/index.m3u8
 #EXTINF:-1, TopLatino
 https://live-evg11.tv360.bitel.com.pe/bitel/toplatino/playlist.m3u8?uid=1111947
-#EXTINF:-1, TheRetroChannel
-https://5fd5567570c0e.streamlock.net:443/theretrochannel/stream/chunklist_w1129775069.m3u8
+#EXTINF:-1, Retro Mix
+https://vdochile.com:3864/stream/play.m3u8
+#EXTINF:-1, Retro Plus
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
 #EXTINF:-1, Telehit Music
 http://181.119.66.28:8081/TELEHIT-MUSICA/index.m3u8
 #EXTINF:-1, VMLatino
@@ -144,7 +156,25 @@ https://vdochile.com:3864/stream/play.m3u8
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1, Total Music80s
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1, Recuerdos Retro
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1, ZCreoTV
 https://live-evg11.tv360.bitel.com.pe/bitel/ZCreotvSRT/playlist.m3u8?manifestfilter=video_bitrate:1-10000000&uid=1111947
+#EXTINF:-1, CulturaMusicTV
+https://sistemastr.tropicalmoonmedia.com/live/DF40E37A6FA6319C00C09C1F0F6DD9D7/2.m3u8
+#EXTINF:-1, RockPopTV
+https://sistemastr.tropicalmoonmedia.com/live/53179A136A04903B3483D9CF8680DA9B/19.m3u8
+#EXTINF:-1, CumbiaTV
+https://sistemastr.tropicalmoonmedia.com/live/DF40E37A6FA6319C00C09C1F0F6DD9D7/5.m3u8
+#EXTINF:-1, UrbanoTV
+https://sistemastr.tropicalmoonmedia.com/live/DF40E37A6FA6319C00C09C1F0F6DD9D7/4.m3u8
+#EXTINF:-1, CorazonMusicTV
+https://sistemastr.tropicalmoonmedia.com/live/DF40E37A6FA6319C00C09C1F0F6DD9D7/12.m3u8
+#EXTINF:-1, SalsaTV
+https://sistemastr.tropicalmoonmedia.com/live/DF40E37A6FA6319C00C09C1F0F6DD9D7/1.m3u8
+#EXTINF:-1, DjNestradioTV
+https://sistemastr.tropicalmoonmedia.com/live/53179A136A04903B3483D9CF8680DA9B/15.m3u8
+#EXTINF:-1, TurboMix
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Exitosa" tvg-name="Exitosa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/640px-Logoexitosa.png" group-title="Nacional",Exitosa
 https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/bitel/exitosa_720p/chunks.m3u8?uid=1111947
