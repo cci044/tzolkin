@@ -8,8 +8,7 @@ http://190.93.224.42/WILLAX/index.m3u8
 #EXTINF:-1 tvg-id="America" tvg-name="America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Am%C3%A9rica_Televisi%C3%B3n.png" group-title="Nacional", America
 https://live-bd1.tv360.bitel.com.pe/manifest/america/playlist_clean_source_720p.m3u8
 #EXTINF:-1 tvg-id="Atv" tvg-name="Atv" tvg-logo="https://seeklogo.com/images/A/atv-peru-logo-E0FD3BBF05-seeklogo.com.png" group-title="Nacional",Atv
-https://d19e55ehz2il4i.cloudfront.net/medialist_15609871089997455276_hls.m3u8
-http://190.93.224.42/ATV/index.m3u8
+https://d3maahxnlwswgp.cloudfront.net/0_3/index.m3u8
 #EXTINF:-1 tvg-id="Atv+" tvg-name="Atv+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/ATV%2B_%28Peru%29_-_2018_logo.png" group-title="Nacional",Atv+
 https://d26l0c7cli5gzs.cloudfront.net/medialist_15609871089997455276_hls.m3u8
 #EXTINF:-1 tvg-id="La Tele" tvg-name="La Tele" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/LaTele_Per%C3%BA_2018_Logo.png" group-title="Nacional",La Tele
